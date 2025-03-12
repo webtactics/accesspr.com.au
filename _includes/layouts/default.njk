@@ -16,7 +16,7 @@
 {% block content %}
  <div class="caption-text"><h1><span>{{ title }}</span></h1></div>
 <main class="content">  
-{{ layoutContent | safe }}
+{{ content | safe }}
 {% include "components/global/calltoaction.html" %}
 </main>
 {% endblock %}
