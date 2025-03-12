@@ -1,12 +1,12 @@
 ---
 layout: layouts/home.njk
-title: James Taylor Bathurst Solicitor
-subtitle: Criminal and Family Law Lawyer
+title: Access is an independent, purpose-driven and connected communications agency.
+subtitle: Access is an independent, purpose-driven and connected communications agency.
 class: home
-date: 2023-07-20
-description: James Taylor Bathurst Solicitor – Criminal and Family Law Lawyer offering specialist advice and or representation in Criminal and Family Law matters and services in all areas of law including Conveyancing, Wills Probate and Administration.
+date: 2025-03-13
+description: Access is an independent, purpose-driven and connected communications agency.
 metadata:
-  title: Criminal and Family Law Lawyer Bathurst NSW
+  title: Access is an independent, purpose-driven and connected communications agency.
 permalink: /
 eleventyNavigation:
   key: Home
