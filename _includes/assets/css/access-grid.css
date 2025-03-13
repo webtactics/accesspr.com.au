@@ -615,7 +615,7 @@ ul.main-menu li ul.second-level {
   position: absolute;
   top: 100%;
   left: 0;
-  background-color: var(--white);
+  background-color: var(--lightgrey);
   padding: 0;
   margin: 0;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
