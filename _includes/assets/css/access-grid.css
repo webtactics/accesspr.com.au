@@ -373,14 +373,10 @@ max-width:173px;max-height:auto;aspect-ratio: 173 / 40;
  .toggle-nav {
     display: block;
     margin: 0 auto 0 0;
-    font-size: 1rem;
-    font-weight: 400;
     color: var(--white);
     cursor: pointer;
     background: 0 0;
     border: none;
-    width: 50px;
-    height: var(--navheight);
     -webkit-transition: all .6s;
     -moz-transition: all .6s;
     -ms-transition: all .6s;
