@@ -405,8 +405,8 @@ max-width:173px;max-height:auto;aspect-ratio: 173 / 40;
 .hamburger-icon:before {
   content: "";
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content:center;
+  align-items:flex-start;
     width: 24px;
     height: 4px;
     background: var(--white);
