@@ -7,7 +7,7 @@ section: clients
 date: 2023-07-20
 metadata:
   title: Criminal and Family Law Lawyer Bathurst NSW
-permalink: /contact/
+permalink: /clients/
 eleventyNavigation:
   key: Clients
   order: 2
