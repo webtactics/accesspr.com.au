@@ -568,6 +568,7 @@ ul.main-menu > li > a {
   font-size: 1.2rem;
   color: var(--white);
 text-decoration: none;
+text-transform: uppercase;
 font-weight: 400;
 cursor: pointer;
 display: block;
@@ -585,6 +586,7 @@ ul.main-menu > li > a:hover, ul.main-menu > li.active-class > a {
     line-height: 40px;
   color: var(--black);
   background-color: var(--white);
+  text-transform: uppercase;
   -webkit-transition: all 0.6s;
   -moz-transition: all 0.6s;
   -ms-transition: all 0.6s;
