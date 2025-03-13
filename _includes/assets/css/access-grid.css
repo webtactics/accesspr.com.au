@@ -1,6 +1,6 @@
 :root {
-	--primary: hsla(211,50%,53%,1);
-  --primarylight: hsla(211,50%,53%,0.6);
+	--primary: hsla(0,0%,0%,1);
+  --primarylight: hsla(0,0%,0%,0.4);
   --primarydark: hsla(211,58%,43%,1);
 	--white: #ffffff;
   --white10: hsla(0,0%,100%,0.1);
