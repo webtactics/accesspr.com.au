@@ -393,7 +393,7 @@ max-width:173px;max-height:auto;aspect-ratio: 173 / 40;
 
 
 
- span.hamburger-icon:hover {
+.hamburger-icon:hover {
     background-color: var(--red);
     color: var(--white);}
 
