@@ -24,7 +24,9 @@
 }
 
 
-
+@view-transition {
+    navigation: auto;
+  }
 
 *, *:before, *:after {
   box-sizing: border-box;
