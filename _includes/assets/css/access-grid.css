@@ -407,7 +407,7 @@ max-width:173px;max-height:auto;aspect-ratio: 173 / 40;
     display: block;
     position: absolute;
     top:6px;
-    right:6px;
+    left:6px;
     width: 24px;
     height: 4px;
     background: var(--white);
