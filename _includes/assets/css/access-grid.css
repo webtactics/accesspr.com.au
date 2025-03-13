@@ -1,19 +1,20 @@
 :root {
-	--primary: hsla(0,0%,0%,1);
-  --primarylight: hsla(0,0%,0%,0.4);
-  --primarydark: hsla(211,58%,43%,1);
-	--white: #ffffff;
-  --white10: hsla(0,0%,100%,0.1);
-  --white50: hsla(0,0%,100%,0.5);
-  --white80: hsla(0,0%,100%,0.8);
-	--lightgrey: #ebebeb;
-	--red: #D90000;
-  --text: #333;
-  --black: hsla(0,0%,0%,1);
-  --black40: hsla(0,0%,0%,0.4);
-  --black80: hsla(0,0%,0%,0.8);
-  --mattblack: hsla(214,12%,11%,0.95);
-  --green: hsla(144, 80%, 22%, 1);
+--primary: hsla(0,0%,0%,1);
+--primarylight: hsla(0,0%,0%,0.4);
+--primarydark: hsla(211,58%,43%,1);
+--white: #ffffff;
+--white10: hsla(0,0%,100%,0.1);
+--white50: hsla(0,0%,100%,0.5);
+--white80: hsla(0,0%,100%,0.8);
+--lightgrey: #ebebeb;
+--darkgrey: #666666;
+--red: #D90000;
+--text: #333;
+--black: hsla(0,0%,0%,1);
+--black40: hsla(0,0%,0%,0.4);
+--black80: hsla(0,0%,0%,0.8);
+--mattblack: hsla(214,12%,11%,0.95);
+--green: hsla(144, 80%, 22%, 1);
 
 
 
@@ -615,7 +616,7 @@ ul.main-menu li ul.second-level {
   position: absolute;
   top: 100%;
   left: 0;
-  background-color: var(--lightgrey);
+  background-color: var(--darkgrey);
   padding: 0;
   margin: 0;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
@@ -636,7 +637,7 @@ padding: 0.4rem 0;
   width: 160px;
   text-align: center;
   text-decoration: none;
-  border-bottom: 1px solid var(--black);
+  border-bottom: 1px solid var(--lightgrey);
 }
 ul.main-menu li ul.second-level li a:hover {
   display: block;  
