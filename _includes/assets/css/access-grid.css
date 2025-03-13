@@ -368,20 +368,31 @@ max-width:173px;max-height:auto;aspect-ratio: 173 / 40;
 }
 
 
-.toggle-nav {
+
+
+ .toggle-nav {
     display: block;
-    margin: 0px auto;
-  font-size: 1rem;
-  font-weight: 400;
-  color: white;
-  cursor: pointer;
-  background: transparent;
-  border: none;
-  width: auto;
-  height: var(--navheight);
-  z-index: 3;
-  padding:0;
- }
+    margin: 0 auto;
+    font-size: 1rem;
+    font-weight: 400;
+    color: var(--white);
+    cursor: pointer;
+    background: 0 0;
+    border: none;
+    width: 60px;
+    height: var(--navheight);
+    -webkit-transition: all .6s;
+    -moz-transition: all .6s;
+    -ms-transition: all .6s;
+    -o-transition: all .6s;
+    transition: all .6s;
+    padding: 5px;
+  }
+
+
+
+
+
  .toggle-nav:hover {
     background-color: var(--red);
     color: var(--white);}
