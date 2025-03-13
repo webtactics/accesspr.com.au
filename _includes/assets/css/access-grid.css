@@ -397,6 +397,10 @@ max-width:173px;max-height:auto;aspect-ratio: 173 / 40;
     background-color: var(--red);
     color: var(--white);}
 
+    .toggle-nav:focus {
+        outline: none;
+      }
+
 .hamburger-icon:before {
   content: "";
   display:block;
@@ -419,15 +423,10 @@ span.title-bar-title {display:block;text-indent:34px;padding:0;}
 
 
 
-.toggle-nav:focus {
-  outline: none;
-}
 
 
-.toggle-nav:hover {
-  background-color: var(--primary);
-  color: var(--white);
-}
+
+
 
 
 .navwrapper { margin: 0 0 0 auto;
