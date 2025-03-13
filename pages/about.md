@@ -9,8 +9,8 @@ permalink: /about/
 metadata:
   title: Criminal and Family Law Lawyer Bathurst NSW
 eleventyNavigation:
-  key: About
-  order: 2
+  key: About Us
+  order: 1
 ---
 
 
