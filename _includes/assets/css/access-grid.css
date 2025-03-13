@@ -617,8 +617,10 @@ ul.main-menu li ul.second-level li a {
   display: block;
 padding: 0.4rem 0;
   color: var(--white);
+  text-transform: uppercase;
+  font-size: 0.9rem;
   background-color: var(--darkgrey);
-  border-bottom: 1px solid var(--lightgrey);
+  border-bottom: 1px solid var(--darkergrey);
   width: 160px;
   text-align: center;
   text-decoration: none;
