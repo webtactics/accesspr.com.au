@@ -326,13 +326,22 @@ width: 100%;
         cursor:pointer;
         float:right;
       }
+
+
+    .hamburger {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: var(--navheight);
+    }
+
       @media screen and (min-width: 1025px) {
         .logo img {max-width:173px;aspect-ratio: 173 / 40;
 
       box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
     }
 
-
+      }
 
 
             
