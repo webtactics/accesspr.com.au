@@ -1,12 +1,19 @@
 <header id="header" class="topbar headerwrapper">
-<div class="hamburger"><div class="toggle-nav" aria-label="Toggle Navigation"><span class="hamburger-icon"></span>
-<span class="title-bar-title">Menu</span>
-</div></div>
-<div class="logo"><a href="/" title="Return to the homepage | {{ metadata.title }}" id="logo">
-<img src="/static/img/access-logo-173x40.jpg" alt="{{ metadata.description }}" title="{{ metadata.description }}" width="173px" height="auto">
- </a></div>
-<div class="navwrapper">
-{% include "components/nav-top.njk" %}
-</div>
-{% include "components/global/navcalltoaction.html" %}
+
+    <div class="hamburger">
+        <div class="toggle-nav" aria-label="Toggle Navigation">
+            <span class="hamburger-icon"></span>
+        </div>
+    </div>
+
+    <div class="logo">
+        <a href="/" title="Return to the homepage | {{ metadata.title }}" id="logo">
+            <img src="/static/img/access-logo-173x40.jpg" alt="{{ metadata.description }}" title="{{ metadata.description }}" width="173px" height="auto">
+        </a>
+    </div>
+
+    <div class="navwrapper">
+        {% include "components/nav-top.njk" %}
+    </div>
+        {% include "components/global/navcalltoaction.html" %}
 </header>
