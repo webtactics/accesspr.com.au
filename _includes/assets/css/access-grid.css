@@ -6,8 +6,9 @@
 --white10: hsla(0,0%,100%,0.1);
 --white50: hsla(0,0%,100%,0.5);
 --white80: hsla(0,0%,100%,0.8);
---lightgrey: #ebebeb;
---darkgrey: #666666;
+--lightgrey: hsl(240, 1%, 72%);
+--darkgrey: hsl(240, 1%, 36%);
+--darkergrey: hsl(240, 1%, 18%);
 --red: #D90000;
 --text: #333;
 --black: hsla(0,0%,0%,1);
