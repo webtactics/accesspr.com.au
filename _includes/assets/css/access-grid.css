@@ -379,7 +379,7 @@ max-width:173px;max-height:auto;aspect-ratio: 173 / 40;
     cursor: pointer;
     background: 0 0;
     border: none;
-    width: 60px;
+    width: auto;
     height: var(--navheight);
     -webkit-transition: all .6s;
     -moz-transition: all .6s;
@@ -393,7 +393,7 @@ max-width:173px;max-height:auto;aspect-ratio: 173 / 40;
 
 
 
- .toggle-nav:hover {
+ span.hamburger-icon:hover {
     background-color: var(--red);
     color: var(--white);}
 
