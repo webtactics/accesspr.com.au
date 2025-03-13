@@ -1,9 +1,0 @@
-{
-    "layout": "layouts/post.njk",
-    "permalink": "legal-services/{{ title | slug }}/index.html",
-    "class": "legal-services",
-    "tags": [
-      "services"
-    ]
-  }
-  

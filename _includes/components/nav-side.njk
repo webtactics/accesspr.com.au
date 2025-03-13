@@ -1,19 +1,35 @@
 {% set navPages = collections.all | eleventyNavigation %}
 {% macro renderNavListItem(entry) -%}
+
+
+{% if entry.children.length %}
+    <li>
+      <details
+        {%- for child in entry.children %}
+          {% if child.parent == entry.title and child.url == page.url %}
+            class="is-active"
+            open
+          {% endif %}
+        {% endfor %}
+      >
+        <summary>{{ entry.title }}</summary>
+        <ul role="list">
+          {%- for child in entry.children %}{{ renderNavListItem(child) }}{% endfor -%}
+        </ul>
+      </details>
+    </li>
+  {% else %}
+
+
+
+
 <li{% if entry.url == page.url %} class="active-class"{% endif %}>
 <a href="{{ entry.url }}" title="{{ entry.title }}" alt="{{ entry.title }}">{{ entry.title }}</a>
 
-  {% if entry.url == "/legal-services/" %}
-<ul class="second-level">
-<li><a href="/legal-services/criminal-law-services/">Criminal Law</a></li>
-<li><a href="/legal-services/family-law-services/">Family Law</a></li>
-<li><a href="/legal-services/property-and-conveyancing-law-services/">Property &amp; Conveyancing</a></li>
-<li><a href="/legal-services/traffic-and-driving-offences/">Traffic &amp; Driving</a></li>
-<li><a href="/legal-services/wills-and-estate-planning-services/">Wills &amp; Estate</a></li>
-</ul>
-{% endif %}
+
 
 </li>
+  {%- endif -%}
 {%- endmacro %}
 <ul class="off-canvas-list">
 {%- for entry in navPages %}{{ renderNavListItem(entry) }}{%- endfor -%}
