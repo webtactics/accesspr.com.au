@@ -444,7 +444,7 @@ span.title-bar-title {display:block;text-indent:34px;padding:0;}
 
 
 .navwrapper { margin: 0 0 0 auto;
-max-width: 1000px;}
+min-width: 1000px;}
 
 
 
