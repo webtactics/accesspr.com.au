@@ -572,7 +572,7 @@ width: 120px;
 ul.main-menu > li > a {
   padding: 0;
   line-height: var(--navheight);
-  font-size: 1.2rem;
+  font-size: 1rem;
   color: var(--white);
 text-decoration: none;
 text-transform: uppercase;
