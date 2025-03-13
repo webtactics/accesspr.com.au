@@ -386,8 +386,11 @@ max-width:173px;max-height:auto;aspect-ratio: 173 / 40;
 
 
 .toggle-nav {
-  display: block;
-  margin: 5px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+position: fixed;
   font-size: 1rem;
   font-weight: 400;
   color: white;
