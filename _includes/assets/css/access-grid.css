@@ -312,7 +312,7 @@ width: 100%;
     
 .hamburger { grid-area: hamburger; }
       .logo { grid-area: logo; }
-      .navwrapper { grid-area: navwrapper;padding-left: 2rem;}
+      .navwrapper { grid-area: navwrapper;}
       .socialwrapper { grid-area: socialwrapper; }
       
         
@@ -446,6 +446,13 @@ span.title-bar-title {display:block;text-indent:34px;padding:0;}
   background-color: var(--primary);
   color: var(--white);
 }
+
+
+.navwrapper { margin: 0 0 0 auto;}
+
+
+
+
 
 .button {
   background-color: var(--primary);
