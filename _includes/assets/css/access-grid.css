@@ -605,9 +605,9 @@ ul.main-menu li ul.second-level {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
 
-ul.main-menu li ul.second-level li {
+ul.main-menu li ul.second-level li, ul.main-menu li:hover ul.second-level {
   display: block;
-  border-top: 1px solid var(--red);
+
 }
 
 
@@ -645,10 +645,7 @@ ul.main-menu li ul.second-level li.active-class > a {
 }
 
 
-ul.main-menu li:hover ul.second-level {
-  display: block;
-  
-}
+
 
 
 
