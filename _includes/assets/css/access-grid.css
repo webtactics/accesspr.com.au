@@ -405,6 +405,7 @@ max-width:173px;max-height:auto;aspect-ratio: 173 / 40;
 .hamburger-icon:before {
   content: "";
     display: block;
+    position: absolute;
     top:6px;
     right:6px;
     width: 24px;
@@ -420,13 +421,6 @@ max-width:173px;max-height:auto;aspect-ratio: 173 / 40;
 
 
 span.title-bar-title {display:block;text-indent:34px;padding:0;}
-
-
-
-
-
-
-
 
 
 
