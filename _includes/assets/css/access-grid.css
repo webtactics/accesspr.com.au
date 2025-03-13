@@ -10,6 +10,7 @@
 --darkgrey: hsl(240, 1%, 36%);
 --darkergrey: hsl(240, 1%, 18%);
 --red: #D90000;
+--orange: #FF7F00;
 --text: #333;
 --black: hsla(0,0%,0%,1);
 --black40: hsla(0,0%,0%,0.4);
@@ -390,12 +391,8 @@ max-width:173px;max-height:auto;aspect-ratio: 173 / 40;
     padding: 5px;
   }
 
-
-
-
-
   .toggle-nav:hover {
-    background-color: var(--red);
+    background-color: var(--orange);
     color: var(--white);}
 
     .toggle-nav:focus {
