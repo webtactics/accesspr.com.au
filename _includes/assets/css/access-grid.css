@@ -408,7 +408,6 @@ max-width:173px;max-height:auto;aspect-ratio: 173 / 40;
     position:fixed;
     width: 24px;
     height: 4px;
-    margin:8px 16px;
     background: var(--white);
     box-shadow: 0 8px 0 0 var(--white), 0 16px 0 0 var(--white);
     -webkit-transition: all 0.6s;
