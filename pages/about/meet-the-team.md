@@ -7,7 +7,7 @@ date: 2024-08-22
 permalink: /about/meet-the-team/
 eleventyNavigation:
   key: Meet The Team
-  parent: About
+  parent: About Us
   order: 1
 ---
 ### Like many sporting clubs, we could not function without our volunteers.
