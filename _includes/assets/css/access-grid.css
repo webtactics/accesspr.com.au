@@ -98,6 +98,9 @@ a:hover {
 
 }
 
+strong {
+  font-weight: 700;
+}
 
 .content p a {
   line-height: inherit;
