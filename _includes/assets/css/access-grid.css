@@ -24,6 +24,21 @@
 }
 
 
+@font-face {
+  font-family: 'Power Grotesk';
+  src: url('https://webtactics.b-cdn.net/fonts/PowerGrotesk-Regular.eot');
+  src: url('https://webtactics.b-cdn.net/fonts/PowerGrotesk-Regular.eot?#iefix') format('embedded-opentype'),
+      url('https://webtactics.b-cdn.net/fonts/PowerGrotesk-Regular.woff2') format('woff2'),
+      url('https://webtactics.b-cdn.net/fonts/PowerGrotesk-Regular.woff') format('woff'),
+      url('https://webtactics.b-cdn.net/fonts/PowerGrotesk-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+
+
 @view-transition {
     navigation: auto;
   }
@@ -90,7 +105,7 @@ a:hover {
 }
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
-  font-family: 'Encode Sans Condensed', sans-serif;
+  font-family: 'Power Grotesk', sans-serif;
   font-style: normal;
   font-weight: normal;
   color: var(--primary);
