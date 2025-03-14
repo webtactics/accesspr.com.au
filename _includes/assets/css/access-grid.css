@@ -324,7 +324,7 @@ padding: 0;
 
 @media screen and (min-width: 1025px) {
 
-    .logo img {max-width:173px;aspect-ratio: 173 / 40;
+    .logo img {max-width:200px;aspect-ratio: 200 / 40;
 
    
     }
