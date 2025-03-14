@@ -2,6 +2,8 @@
 --primary: hsla(0,0%,0%,1);
 --primarylight: hsla(0,0%,0%,0.4);
 --primarydark: hsla(211,58%,43%,1);
+--accent: #b300d7;
+--secondary: #5b3dbd;
 --white: #ffffff;
 --white10: hsla(0,0%,100%,0.1);
 --white50: hsla(0,0%,100%,0.5);
@@ -405,7 +407,7 @@ display: none;
   }
 
   .toggle-nav:hover {
-    background-color: var(--orange);
+    background-color: var(--accent);
     color: var(--white);}
 
     .toggle-nav:focus {
