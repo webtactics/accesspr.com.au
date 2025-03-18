@@ -237,12 +237,14 @@ padding:0;}
 
 }
 
-.hero-black {width:100%;height:40vh;background-color: var(--black);color: var(--white);text-align: center;display: flex;justify-content: center;align-items: center;} 
+.hero-black {width:100%;height:40vh;background-color: var(--black);color: var(--white);text-align: center;display: flex;justify-content: center;align-items: center;top: var(--navheight);position: relative;} 
 
 .caption-text { 
 max-width: 1280px;
-margin: 3rem auto;
+padding: 3rem auto;
+margin:var(--navheight) auto 0 auto;  
 position: relative;
+display: flex;justify-content: center;align-items: center;
 }
 
 
@@ -250,9 +252,10 @@ position: relative;
 
 .caption-text h1 { 
 margin:0;
-text-align: right; 
+text-align: center; 
 color: var(--white);
 font-size: calc(2rem + 1vw);
+display: flex;justify-content: center;align-items: center;
 
  }
 
