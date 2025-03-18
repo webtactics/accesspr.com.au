@@ -237,17 +237,15 @@ padding:0;}
 
 }
 
+.hero-black {width:100%;height:40vh;background-color: var(--black);color: var(--white);text-align: center;display: flex;justify-content: center;align-items: center;} 
+
 .caption-text { 
 max-width: 1280px;
-margin:-5rem auto 3rem auto;
+margin: 3rem auto;
 position: relative;
 }
 
-.home .caption-text { 
-  max-width: 1280px;
-  margin:-6rem auto 3rem auto;
-  position: relative;
-  }
+
 
 
 .caption-text h1 { 
@@ -909,7 +907,7 @@ background-color: var(--primary); font-weight: bold;}
 
 
 
-.hero-black {width:100%;height:30vh;background-color: var(--black);color: var(--white);text-align: center;display: flex;justify-content: center;align-items: center;}  
+ 
 
 
 
