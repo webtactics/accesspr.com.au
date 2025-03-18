@@ -241,8 +241,8 @@ padding:0;}
 
 .caption-text { 
 max-width: 1280px;
-padding: 3rem auto;
-margin:var(--navheight) auto 0 auto;  
+padding: 5.75rem 0 3rem 0;
+margin:0 auto;  
 position: relative;
 display: flex;justify-content: center;align-items: center;
 }
@@ -254,13 +254,13 @@ display: flex;justify-content: center;align-items: center;
 margin:0;
 text-align: center; 
 color: var(--white);
-font-size: calc(2rem + 1vw);
+font-size: calc(1.6rem + 1vw);
 display: flex;justify-content: center;align-items: center;
 
  }
 
 .caption-text h1 span { 
-background: var(--black);
+background: var(--red);
 padding: calc(0.5vw + 5px);
 }
 
