@@ -6,7 +6,7 @@ description: Access Senior Team
 date: 2024-08-22
 permalink: /clients/what-they-say/
 eleventyNavigation:
-  key: Meet The Team
+  key: What They Say
   parent: Clients
   order: 1
 ---
