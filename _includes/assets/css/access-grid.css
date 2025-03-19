@@ -21,6 +21,7 @@
 --green: hsla(144, 80%, 22%, 1);
 
 
+--body-font-size: round(calc(var(--font-size-base) / var(--html-font-size) * 1rem), 1px);
 
   --navheight: 40px;
 }
@@ -67,7 +68,7 @@ body {
 	margin: 0;
 font-family: 'DM Sans', sans-serif;
 font-weight: 400;
-  font-size: 16px;
+  font-size: var(--body-font-size);
   line-height: 1.5;
 }
 
