@@ -4,7 +4,8 @@
 <li{% if entry.url == page.url %} class="active-class"{% endif %}>
 <a href="{{ entry.url }}" title="{{ entry.title }}" alt="{{ entry.title }}">{{ entry.title }}</a>
 
-
+    {% if item.url in page.url %} class="parent" {% endif %}
+    <a href="{{ entry.url }}" title="{{ entry.title }}" alt="{{ entry.title }}">{{ entry.title }}</a>
 
     {% if entry.children.length %}
       <ul class="second-level">
