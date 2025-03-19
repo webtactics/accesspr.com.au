@@ -20,3 +20,9 @@
 </ul>
 </nav>
 
+<a class="nav-item has-children 
+    {% if item.url == page.url %}active{% endif %} 
+    {% if item.url in page.url %}active{% endif %}" 
+    href="{{ item.url }}" {% if item.url == page.url %}aria-current="page"{% endif %}>
+        {{ item.title }}
+</a>
