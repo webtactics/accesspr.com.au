@@ -4,11 +4,13 @@
 {% include "components/hero.njk" %}
 
 <div class="hero hide-for-print">
+    <a href="/clients/our-work/" title="access case Studies" alt="access case Studies">
     <picture>
         <source media="(max-width: 600px)" srcset="/static/img/page/A-child-enjoys-the-Grounded-installation-by-Keahanie-Baker-Tunkin-Credit-Parrtjima.webp">
         <source media="(min-width: 601px)" srcset="/static/img/page/A-child-enjoys-the-Grounded-installation-by-Keahanie-Baker-Tunkin-Credit-Parrtjima.webp">
         <img aria-hidden="true" loading="lazy" decoding="async" src="/static/img/page/A-child-enjoys-the-Grounded-installation-by-Keahanie-Baker-Tunkin-Credit-Parrtjima.webp" alt="{{ metadata.description }}" title="{{ metadata.description }}" width="1500px" height="1000px">
     </picture>
+    </a>
 </div>
 
 {% endblock %}
