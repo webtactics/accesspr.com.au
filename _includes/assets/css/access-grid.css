@@ -20,6 +20,9 @@
 --mattblack: hsla(214,12%,11%,0.95);
 --green: hsla(144, 80%, 22%, 1);
 
+--textactive: hsla(211,58%,43%,1);
+--texthover: hsla(0,0%,0%,1);
+--heading: hsla(0,0%,0%,1);
 
 --body-font-size: round(calc(var(--font-size-base) / var(--html-font-size) * 1rem), 1px);
 
@@ -85,7 +88,7 @@ a img {border: 0;}
 
 a {
   line-height: inherit;
-  color: var(--primarydark);
+  color: var(--textactive);
   text-decoration: none;
   cursor: pointer;
  }
@@ -93,10 +96,16 @@ a {
 
 
 a:hover {
-  color: var(--black);
+  color: var(--texthover);
   border: none;
   text-decoration: none;
 
+}
+
+a:not([class]) {
+	text-underline-offset: 0.25em;
+  text-decoration-thickness: 0.4rem;
+  text-decoration-color: var(--primarydark);
 }
 
 strong {
@@ -105,7 +114,7 @@ strong {
 
 .content p a {
   line-height: inherit;
-  color: var(--primarydark);
+  color: var(--textactive);
   text-decoration: none;
   cursor: pointer;
   border-bottom: 1px dotted var(--primarydark);
@@ -114,10 +123,10 @@ strong {
 }
 
 .content p a:hover {
-  color: var(--black);
+  color: var(--texthover);
   border: none;
   text-decoration: none;
-  border-bottom: 3px solid var(--black);
+  border-bottom: 3px solid var(--texthover);
   background-color: var(--white);
   transition: all 0.2s ease-in-out;
 
@@ -127,7 +136,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   font-family: 'Power Grotesk', sans-serif;
   font-style: normal;
   font-weight: normal;
-  color: var(--primary);
+  color: var(--heading);
   text-rendering: optimizeLegibility;
   margin:0 0 1rem;
   padding:0;
@@ -152,7 +161,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
 }
 .home .content h2 a {
   line-height: inherit;
-  color: var(--primary);
+  color: var(--textactive);
   text-decoration: none;
   cursor: pointer;
   border-bottom: 2px dotted var(--primarydark);
@@ -160,7 +169,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
 }
 
 .home .content h2 a:hover {
-  color: var(--white);
+  color: var(--texthover);
   border: none;
   text-decoration: none;
   border-bottom: 2px solid var(--black);
@@ -203,7 +212,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
 p {
 font-family: 'DM Sans', sans-serif;
 font-style: normal;
-font-weight: normal;
+font-weight: 400;
 color: var(--text);
 text-rendering: optimizeLegibility;
 font-size: 1.3rem;
@@ -213,13 +222,12 @@ padding:0;}
 
 .container {position: relative; margin: 0 auto; }
 
-@media screen and (max-width: 768px) {
-  .container {position: relative; margin: 0 auto; }
-}
+
 .content {
   margin: 0 auto;
-  padding:  0 1rem;
+  padding:  0;
   z-index: 2;
+  width: calc(100vw - 2rem);
   max-width: 1280px;
   background-color: var(--white);
   min-height: 400px;
@@ -227,14 +235,11 @@ padding:0;}
   
 
 
-
-
-
 .hero-black {width:100%;height:40vh;background-color: var(--black);color: var(--white);text-align: left;display: flex;justify-content: center;align-items: center;position: relative;} 
 
 .caption-text { 
-width:80vw;
-max-width: 1280px;
+  width: calc(100vw - 2rem);
+  max-width: 1280px;
 padding: 3.75rem 0 1rem 0;
 margin:0 auto;  
 position: relative;
@@ -247,39 +252,13 @@ text-align: left;
 margin:0;
 text-align: left; 
 color: var(--white);
-font-size: calc(1.3rem + 1vw);
+font-size: calc(1.1rem + 1vw);
  }
 
-.caption-text h1 span { 
-
-}
+.caption-text h1 span { }
 
 
 
-
-@media screen and (max-width: 700px) {
-.caption-text {
-    width: 100%;
-    right: auto;
-    left: 0;
-    margin: 0 auto 1rem auto;
-
-   }
-
-   .caption-text h1 { 
-    margin:0;
-    text-align: left; 
-    padding: 1rem;
-    background: var(--black);
-    
-     }
-    
-.caption-text h1 span { 
-padding: 0;
-    }
-
-
-}
 .headerwrapper {
           display: grid;
           grid-template-columns: 120px 1fr;
