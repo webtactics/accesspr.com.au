@@ -1156,3 +1156,7 @@ blockquote {
   padding: .5625rem 1.25rem 0 1.1875rem;
   border-left: 1px solid #cacaca;
 }
+
+.testimonial-wrapper {
+padding: 3rem 0;
+}
