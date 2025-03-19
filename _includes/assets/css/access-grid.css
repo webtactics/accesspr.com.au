@@ -1150,3 +1150,9 @@ li::marker {
   color: var(--primary);
   font-size: 1.5em;
 }
+
+blockquote {
+  margin: 0 0 1rem;
+  padding: .5625rem 1.25rem 0 1.1875rem;
+  border-left: 1px solid #cacaca;
+}
