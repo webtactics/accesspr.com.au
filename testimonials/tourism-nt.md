@@ -1,7 +1,7 @@
 ---
 title: Tourism NT
-Contact-name: Tony Quarmby
-Contact-position: Executive Director
+Name: Tony Quarmby
+Position: Executive Director
 Website: https://northernterritory.com/
 
 date: 2025-03-19

@@ -1,7 +1,7 @@
 ---
 title: Charles Darwin University
-Contact-name: Shannon Holborn
-Contact-position: Vice-President Global and External Relations
+Name: Shannon Holborn
+Position: Vice-President Global and External Relations
 Website: https://www.cdu.edu.au/
 
 date: 2025-03-19

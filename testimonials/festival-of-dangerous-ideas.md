@@ -1,7 +1,7 @@
 ---
 title: Festival of Dangerous Ideas
-Contact-name: Danielle Harvey
-Contact-position: Director
+Name: Danielle Harvey
+Position: Director
 Website: https://festivalofdangerousideas.com/
 
 date: 2025-03-19

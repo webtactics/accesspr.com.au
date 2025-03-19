@@ -1,7 +1,7 @@
 ---
 title: Mates4Mates
-Contact-name: Emma Whitehead
-Contact-position: Chief Executive Officer
+Name: Emma Whitehead
+Position: Chief Executive Officer
 Website: https://northernterritory.com/
 
 date: 2025-03-19
