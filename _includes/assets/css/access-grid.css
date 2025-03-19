@@ -262,6 +262,8 @@ font-size: calc(1.1rem + 1vw);
 
   width: 100vw;
   max-width: 2000px;
+  height: auto;
+  max-height: 1333.3px;
   position: relative;
   z-index: -2;
   margin:0 auto;
@@ -271,6 +273,8 @@ font-size: calc(1.1rem + 1vw);
 .hero img {
   width: 100vw;
   max-width: 2000px;
+  height: auto;
+  max-height: 1333.3px;
   position: relative;
   object-fit: cover;
   aspect-ratio: 15 / 10;
