@@ -1,4 +1,11 @@
 :root {
+
+--body-font-size: round(calc(var(--font-size-base) / var(--html-font-size) * 1rem), 1px);
+
+--textactive: hsla(211,58%,43%,1);
+--texthover: hsla(0,0%,0%,1);
+--heading: hsla(0,0%,0%,1);
+
 --primary: hsla(0,0%,0%,1);
 --primarylight: hsla(0,0%,0%,0.4);
 --primarydark: hsla(211,58%,43%,1);
@@ -20,11 +27,6 @@
 --mattblack: hsla(214,12%,11%,0.95);
 --green: hsla(144, 80%, 22%, 1);
 
---textactive: hsla(211,58%,43%,1);
---texthover: hsla(0,0%,0%,1);
---heading: hsla(0,0%,0%,1);
-
---body-font-size: round(calc(var(--font-size-base) / var(--html-font-size) * 1rem), 1px);
 
   --navheight: 40px;
 }
