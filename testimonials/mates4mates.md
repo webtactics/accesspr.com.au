@@ -13,4 +13,4 @@ description: Andrea and her team supported us to build a presence in a community
 
 ---
 
-Andrea and her team supported us to build a presence in a community we were new to. Their skills in understanding the local environment, the key stakeholders and the local sensitivities were invaluable insights enabling us to work effectively with the media to build our brand and maximise exposure to our services.
+"Andrea and her team supported us to build a presence in a community we were new to. Their skills in understanding the local environment, the key stakeholders and the local sensitivities were invaluable insights enabling us to work effectively with the media to build our brand and maximise exposure to our services."

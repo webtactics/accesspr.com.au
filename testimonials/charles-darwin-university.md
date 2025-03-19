@@ -13,6 +13,6 @@ description: Access feels part of the NT family and an extension of our internal
 
 ---
 
-Access PR has made a significant difference to CDU’s reputation and overall communications approach and strategy.
+"Access PR has made a significant difference to CDU’s reputation and overall communications approach and strategy.
 
-Access’s dedication, insights and ability to deliver across our communications requirements has been brilliant
+Access’s dedication, insights and ability to deliver across our communications requirements has been brilliant."

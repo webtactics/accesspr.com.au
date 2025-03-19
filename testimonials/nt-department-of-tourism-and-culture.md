@@ -13,4 +13,4 @@ description: Access PR has managed complicated projects with significant local c
 
 ---
 
-Access PR has managed complicated projects with significant local considerations, and numerous stakeholders including government, artistic directors, cultural custodians, local artist groups, community members and environmental advocates.
+"Access PR has managed complicated projects with significant local considerations, and numerous stakeholders including government, artistic directors, cultural custodians, local artist groups, community members and environmental advocates."
