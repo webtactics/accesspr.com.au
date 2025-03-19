@@ -259,20 +259,20 @@ font-size: calc(1.1rem + 1vw);
 .caption-text h1 span { }
 
 .hero {
-  height: 100svh;
-  height: 100vh;
+  height: 50svh;
+  height: 50vh;
   width: 100vw;
-  position: fixed;
+  position: relative;
   top: 22.5rem;
   left: 0;
   z-index: -2;
 }
 
 .hero img {
-  height: 100svh;
-  height: 100vh;
+  height: 50svh;
+  height: 50vh;
   width: 100vw;
-  position: fixed;
+  position: relative;
   top: 0;
   left: 0;
   object-fit: cover;
