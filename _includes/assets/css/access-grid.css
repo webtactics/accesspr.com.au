@@ -276,6 +276,7 @@ font-size: calc(1.1rem + 1vw);
   top: 0;
   left: 0;
   object-fit: cover;
+  aspect-ratio: 15 / 10;
 }
 
 .headerwrapper {
