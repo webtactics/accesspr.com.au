@@ -30,6 +30,7 @@
 --green: hsla(144, 80%, 22%, 1);
 
 --transitionall: 2s;
+--transitionallquick: 1s;
 --navheight: 40px;
 }
 
@@ -122,7 +123,7 @@ p a {
   text-decoration: none;
   cursor: pointer;
   border-bottom: 1px dotted var(--texthoverborder);
-  transition: all var(--transitionall) ease-in-out;
+  transition: all var(--transitionallquick) ease-in-out;
 
 }
 
@@ -132,7 +133,7 @@ p a:hover {
   text-decoration: none;
   border-bottom: 3px solid var(--texthoverborder);
   background-color: var(--texthoverbg);
-  transition: all var(--transitionall) ease-in-out;
+  transition: all var(--transitionallquick) ease-in-out;
 
 }
 
@@ -420,7 +421,13 @@ display: none;
 
   .toggle-nav:hover {
     background-color: var(--accent);
-    color: var(--white);}
+    color: var(--white);
+    -webkit-transition: all var(--transitionall);
+    -moz-transition: all var(--transitionall);
+    -ms-transition: all var(--transitionall);
+    -o-transition: all var(--transitionall);
+    transition: all var(--transitionall);
+  }
 
     .toggle-nav:focus {
         outline: none;
@@ -436,11 +443,7 @@ display: none;
     height: 4px;
     background: var(--black);
     box-shadow: 0 8px 0 0 var(--black), 0 16px 0 0 var(--black);
-    -webkit-transition: all var(--transitionall);
-  -moz-transition: all var(--transitionall);
-  -ms-transition: all var(--transitionall);
-  -o-transition: all var(--transitionall);
-  transition: all var(--transitionall);
+
 }
 
 
@@ -602,20 +605,20 @@ font-weight: 400;
 cursor: pointer;
 display: block;
 position: relative;
-  -webkit-transition: all var(--transitionall);
-  -moz-transition: all var(--transitionall);
-  -ms-transition: all var(--transitionall);
-  -o-transition: all var(--transitionall);
-  transition: all var(--transitionall);
+  -webkit-transition: all var(--transitionallquickquick);
+  -moz-transition: all var(--transitionallquick);
+  -ms-transition: all var(--transitionallquick);
+  -o-transition: all var(--transitionallquick);
+  transition: all var(--transitionallquick);
 }
 
 .scrolled ul.main-menu > li > a {  
   color: var(--white);
-  -webkit-transition: all var(--transitionall);
-  -moz-transition: all var(--transitionall);
-  -ms-transition: all var(--transitionall);
-  -o-transition: all var(--transitionall);
-  transition: all var(--transitionall);
+  -webkit-transition: all var(--transitionallquick);
+  -moz-transition: all var(--transitionallquick);
+  -ms-transition: all var(--transitionallquick);
+  -o-transition: all var(--transitionallquick);
+  transition: all var(--transitionallquick);
 }
 
 ul.main-menu > li > a:hover, ul.main-menu > li.active-class > a {
@@ -623,11 +626,11 @@ ul.main-menu > li > a:hover, ul.main-menu > li.active-class > a {
   color: var(--accent);
   background-color: transparent;
   text-transform: uppercase;
-  -webkit-transition: all var(--transitionall);
-  -moz-transition: all var(--transitionall);
-  -ms-transition: all var(--transitionall);
-  -o-transition: all var(--transitionall);
-  transition: all var(--transitionall);
+  -webkit-transition: all var(--transitionallquick);
+  -moz-transition: all var(--transitionallquick);
+  -ms-transition: all var(--transitionallquick);
+  -o-transition: all var(--transitionallquick);
+  transition: all var(--transitionallquick);
 }
 
 
@@ -680,11 +683,11 @@ ul.main-menu li ul.second-level li.active-class > a {
     color: var(--white);
     background-color: var(--black);
     border-bottom: 1px solid var(--lightgrey);
-  -webkit-transition: all var(--transitionall);
-  -moz-transition: all var(--transitionall);
-  -ms-transition: all var(--transitionall);
-  -o-transition: all var(--transitionall);
-  transition: all var(--transitionall);
+  -webkit-transition: all var(--transitionallquick);
+  -moz-transition: all var(--transitionallquick);
+  -ms-transition: all var(--transitionallquick);
+  -o-transition: all var(--transitionallquick);
+  transition: all var(--transitionallquick);
 }
 
 
@@ -730,27 +733,27 @@ ul.menusocial li a.social-icon {
 
 svg {
   color: var(--black);
-  -webkit-transition: all var(--transitionall);
-  -moz-transition: all var(--transitionall);
-  -ms-transition: all var(--transitionall);
-  -o-transition: all var(--transitionall);
-  transition: all var(--transitionall);
+  -webkit-transition: all var(--transitionallquick);
+  -moz-transition: all var(--transitionallquick);
+  -ms-transition: all var(--transitionallquick);
+  -o-transition: all var(--transitionallquick);
+  transition: all var(--transitionallquick);
 }
 .scrolled svg {
   color: var(--white);
-  -webkit-transition: all var(--transitionall);
-  -moz-transition: all var(--transitionall);
-  -ms-transition: all var(--transitionall);
-  -o-transition: all var(--transitionall);
-  transition: all var(--transitionall);
+  -webkit-transition: all var(--transitionallquick);
+  -moz-transition: all var(--transitionallquick);
+  -ms-transition: all var(--transitionallquick);
+  -o-transition: all var(--transitionallquick);
+  transition: all var(--transitionallquick);
 }
 svg:hover {
   color: var(--accent);
-  -webkit-transition: all var(--transitionall);
-  -moz-transition: all var(--transitionall);
-  -ms-transition: all var(--transitionall);
-  -o-transition: all var(--transitionall);
-  transition: all var(--transitionall);
+  -webkit-transition: all var(--transitionallquick);
+  -moz-transition: all var(--transitionallquick);
+  -ms-transition: all var(--transitionallquick);
+  -o-transition: all var(--transitionallquick);
+  transition: all var(--transitionallquick);
 }
 
 
@@ -866,11 +869,11 @@ background-color: var(--primary); font-weight: bold;}
     padding: 0 2rem;
     height: 36px;
     line-height: 36px;
-    -webkit-transition: all var(--transitionall);
-    -moz-transition: all var(--transitionall);
-    -ms-transition: all var(--transitionall);
-    -o-transition: all var(--transitionall);
-    transition: all var(--transitionall);
+    -webkit-transition: all var(--transitionallquick);
+    -moz-transition: all var(--transitionallquick);
+    -ms-transition: all var(--transitionallquick);
+    -o-transition: all var(--transitionallquick);
+    transition: all var(--transitionallquick);
     color: var(--white);
     background-color: transparent;
     border: none;
@@ -880,11 +883,11 @@ background-color: var(--primary); font-weight: bold;}
   }
 
   .footer-menu > li > a:hover {
-    -webkit-transition: all var(--transitionall);
-    -moz-transition: all var(--transitionall);
-    -ms-transition: all var(--transitionall);
-    -o-transition: all var(--transitionall);
-    transition: all var(--transitionall);
+    -webkit-transition: all var(--transitionallquick);
+    -moz-transition: all var(--transitionallquick);
+    -ms-transition: all var(--transitionallquick);
+    -o-transition: all var(--transitionallquick);
+    transition: all var(--transitionallquick);
     color: var(--white);
     background-color: var(--accent);
     border: none;
@@ -893,11 +896,11 @@ background-color: var(--primary); font-weight: bold;}
 
 
   .footer-menu > li.active-class > a, .footer-menu > li.current > a {
-    -webkit-transition: all var(--transitionall);
-    -moz-transition: all var(--transitionall);
-    -ms-transition: all var(--transitionall);
-    -o-transition: all var(--transitionall);
-    transition: all var(--transitionall);
+    -webkit-transition: all var(--transitionallquick);
+    -moz-transition: all var(--transitionallquick);
+    -ms-transition: all var(--transitionallquick);
+    -o-transition: all var(--transitionallquick);
+    transition: all var(--transitionallquick);
     color: var(--accent);
     background-color: transparent;
     border: none;
@@ -983,11 +986,11 @@ grid-template-columns: 2fr 1fr;gap: 3rem;}
   
   .Postimagehover img{width:100%}
   
-  .Postimagehover .image-overlay{position:absolute;top:0;left:0;width:100%;height:100%;background-color:rgba(0,0,0,.3);-webkit-transition:all var(--transitionall);-moz-transition:all var(--transitionall);-ms-transition:all var(--transitionall);-o-transition:all var(--transitionall);transition:all var(--transitionall);opacity:0;overflow:hidden}
+  .Postimagehover .image-overlay{position:absolute;top:0;left:0;width:100%;height:100%;background-color:rgba(0,0,0,.3);-webkit-transition:all var(--transitionallquick);-moz-transition:all var(--transitionallquick);-ms-transition:all var(--transitionallquick);-o-transition:all var(--transitionallquick);transition:all var(--transitionallquick);opacity:0;overflow:hidden}
   
   .Postimagehover:hover .image-overlay{opacity:1;background-color:rgba(0,0,0,.3);}
   
-  .Postimagehover .image-overlay .overlay-icon{width:70px;height:70px;display:block;border-radius:50%;margin:-70px auto 0;opacity:0;-webkit-transition:all var(--transitionall);-moz-transition:all var(--transitionall);-ms-transition:all var(--transitionall);-o-transition:all var(--transitionall);transition:all var(--transitionall)}
+  .Postimagehover .image-overlay .overlay-icon{width:70px;height:70px;display:block;border-radius:50%;margin:-70px auto 0;opacity:0;-webkit-transition:all var(--transitionallquick);-moz-transition:all var(--transitionallquick);-ms-transition:all var(--transitionallquick);-o-transition:all var(--transitionallquick);transition:all var(--transitionallquick)}
   .Postimagehover:hover .image-overlay .overlay-icon{opacity:1;margin:70px auto 0}
   .Postimagehover .image-overlay .overlay-icon img{width:70px;height:70px}
   
@@ -1017,10 +1020,10 @@ aspect-ratio: 450 / 270;
   }
   .NewsSummary:hover {
      box-shadow: 0 2px 8px #CFCFCF;
-     -webkit-transition: box-shadow var(--transitionall) ease-in-out;
-     -moz-transition: box-shadow var(--transitionall) ease-in-out;
-     -o-transition: box-shadow var(--transitionall) ease-in-out;
-     transition: box-shadow var(--transitionall) ease-in-out;
+     -webkit-transition: box-shadow var(--transitionallquick) ease-in-out;
+     -moz-transition: box-shadow var(--transitionallquick) ease-in-out;
+     -o-transition: box-shadow var(--transitionallquick) ease-in-out;
+     transition: box-shadow var(--transitionallquick) ease-in-out;
      border: 1px solid var(--primarydark);
   }
 
