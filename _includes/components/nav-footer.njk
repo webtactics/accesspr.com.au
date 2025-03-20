@@ -1,3 +1,4 @@
+<div class="footernav"> 
 <nav class="footlist">
 {% set navPages = collections.all | eleventyNavigation %}
 {% macro renderNavListItem(entry) -%}
@@ -10,3 +11,4 @@
 {%- for entry in navPages %}{{ renderNavListItem(entry) }}{%- endfor -%}
 </ul>
 </nav>
+</div>
