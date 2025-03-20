@@ -611,6 +611,14 @@ position: relative;
   transition: all 0.6s;
 }
 
+.scrolled ul.main-menu > li > a {  
+  color: var(--white);
+  -webkit-transition: all 0.6s;
+  -moz-transition: all 0.6s;
+  -ms-transition: all 0.6s;
+  -o-transition: all 0.6s;
+  transition: all 0.6s;
+}
 
 ul.main-menu > li > a:hover, ul.main-menu > li.active-class > a {
     line-height: var(--navheight);
@@ -725,7 +733,9 @@ ul.menusocial li a.social-icon {
 svg {
   color: var(--black);
 }
-
+.scrolled svg {
+  color: var(--white);
+}
 svg:hover {
   color: var(--accent);
 }
