@@ -2,8 +2,10 @@
 
 --body-font-size: round(calc(var(--font-size-base) / var(--html-font-size) * 1rem), 1px);
 
---textactive: hsla(211,58%,43%,1);
---texthover: hsla(0,0%,0%,1);
+--textactive: #000000;
+--texthover: #ffffff;
+--texthoverborder: #b300d7;
+--texthoverbg: #000000;
 --heading: hsla(0,0%,0%,1);
 
 --primary: hsla(0,0%,0%,1);
@@ -119,7 +121,7 @@ strong {
   color: var(--textactive);
   text-decoration: none;
   cursor: pointer;
-  border-bottom: 1px dotted var(--primarydark);
+  border-bottom: 1px dotted var(--texthoverborder);
   transition: all 0.2s ease-in-out;
 
 }
@@ -128,11 +130,13 @@ strong {
   color: var(--texthover);
   border: none;
   text-decoration: none;
-  border-bottom: 3px solid var(--texthover);
-  background-color: var(--white);
+  border-bottom: 3px solid var(--texthoverborder);
+  background-color: var(--texthoverbg);
   transition: all 0.2s ease-in-out;
 
 }
+
+
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   font-family: 'Power Grotesk', sans-serif;
