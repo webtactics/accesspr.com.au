@@ -116,7 +116,7 @@ strong {
   font-weight: 700;
 }
 
-.content p a {
+p a {
   line-height: inherit;
   color: var(--textactive);
   text-decoration: none;
@@ -126,7 +126,7 @@ strong {
 
 }
 
-.content p a:hover {
+p a:hover {
   color: var(--texthover);
   border: none;
   text-decoration: none;
