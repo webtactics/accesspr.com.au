@@ -8,15 +8,14 @@
         {%- for child in entry.children %}
           {% if child.parent == entry.title and child.url == page.url %}
             class="is-active"
-           
+            open
           {% endif %}
         {% endfor %}
       >
-        <summary>{{ entry.title }}</summary>
+        <summary><a href="{{ entry.url }}" title="{{ entry.title }}" alt="{{ entry.title }}">{{ entry.title }}</a></summary>
         <ul role="list">
           {%- for child in entry.children %}{{ renderNavListItem(child) }}{% endfor -%}
         </ul>
-         open
       </details>
     </li>
   {% else %}
