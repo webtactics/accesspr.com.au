@@ -862,27 +862,20 @@ background-color: var(--primary); font-weight: bold;}
   }
 
 
-
+  .footernavwrapper {
+    background-color: var(--mattblack);
+  }
  
 
 
+  .footernav {
+    margin: 0 auto;
+    padding: 0;
+    max-width: 1280px;
+    background-color: var(--black);
+  }
 
 
-
-
-
-
-
-
-  
-      .footernavwrapper {
-        background-color: var(--black);height:36px;border-bottom: 1px solid var(--lightgrey);
-      }
-        .footernav {
-        margin: 0 auto;
-        padding: 0;
-        max-width: 1280px;
-        }
   
 
 
