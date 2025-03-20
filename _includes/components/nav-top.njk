@@ -12,8 +12,8 @@
           {% endif %}
         {% endfor %}
       >
-        <summary><a href="{{ entry.url }}" title="{{ entry.title }}" alt="{{ entry.title }}">{{ entry.title }}</a></summary>
-        <ul role="list">
+      <a href="{{ entry.url }}" title="{{ entry.title }}" alt="{{ entry.title }}">{{ entry.title }}</a>
+         <ul class="second-level" role="list">
           {%- for child in entry.children %}{{ renderNavListItem(child) }}{% endfor -%}
         </ul>
       </details>
