@@ -746,7 +746,7 @@ ul.footer-menu li {
 
 .socialwrapper {
   text-align: right;
-  padding-right:1rem;
+  padding-right: 1rem;
 }
 
 ul.menusocial  {
@@ -765,7 +765,7 @@ ul.menusocial li a.social-icon {
   height: var(--navheight);
   line-height: var(--navheight);
   justify-content: center;
-  align-items: center;
+  align-items:flex-end;
   cursor: pointer;
   padding: 0 0 0 1rem;
 }
