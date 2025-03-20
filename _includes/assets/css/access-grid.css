@@ -757,7 +757,7 @@ ul.menusocial  {
 }
 ul.menusocial li {
   position: relative;
-  float: left;
+  float: right;
 }
 
 ul.menusocial li a.social-icon {
