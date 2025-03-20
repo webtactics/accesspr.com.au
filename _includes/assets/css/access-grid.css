@@ -297,7 +297,7 @@ font-size: calc(1.1rem + 1vw);
    @media only screen and (min-width: 1025px) {  
     .headerwrapper {
     display: grid;
-    grid-template-columns: 120px 280px 1fr 170px;
+    grid-template-columns: 120px 280px 1fr 136px;
     grid-template-areas:
       "hamburger logo navwrapper socialwrapper";
       grid-template-rows: var(--navheight); } 
@@ -308,7 +308,7 @@ font-size: calc(1.1rem + 1vw);
    @media only screen and (min-width: 1500px) {  
     .headerwrapper {
     display: grid;
-    grid-template-columns: 120px 360px 1fr 180px;
+    grid-template-columns: 120px 360px 1fr 136px;
     grid-template-areas:
       "hamburger logo navwrapper socialwrapper";
       grid-template-rows: var(--navheight);} 
