@@ -750,7 +750,7 @@ ul.footer-menu li {
 }
 
 ul.menusocial  {
-  margin: 0;
+  margin: 0 0 0 auto;
   padding: 0;
   list-style: none;
 
