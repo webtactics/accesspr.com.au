@@ -529,11 +529,21 @@ button.blogdetail, .button.blogdetail {margin:0;}
   padding: 0;
   top: 0px;
   z-index: 3;
+  -webkit-transition: all .6s;
+  -moz-transition: all .6s;
+  -ms-transition: all .6s;
+  -o-transition: all .6s;
+  transition: all .6s;
 
 }
 
 .topbar.scrolled{
 background-color: var(--black);
+-webkit-transition: all .6s;
+  -moz-transition: all .6s;
+  -ms-transition: all .6s;
+  -o-transition: all .6s;
+  transition: all .6s;
 }
 
 
