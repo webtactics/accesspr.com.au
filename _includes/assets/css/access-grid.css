@@ -88,6 +88,10 @@ scroll-behavior: smooth;
 
 img, svg, video {max-width: 100%;display: block;}
 
+svg {
+  color: var(--accent);
+}
+
 a img {border: 0;}
 
 a {
