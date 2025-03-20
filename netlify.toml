@@ -33,8 +33,7 @@ package = "@netlify/plugin-lighthouse"
   
   ]
 
-  [plugins.inputs.audits]
-    output_path = "reports/lighthouse.html"
+
 
 # The default HTTP status code is 301, but you can define a different one e.g.
 
