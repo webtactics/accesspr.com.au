@@ -20,7 +20,7 @@
     </li>
   {% else %}
     <li>
-      <a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page" {% endif %}>{{ entry.title }}</a>
+      <a class="active" href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page" {% endif %}>{{ entry.title }}</a>
     </li>
   {%- endif -%}
 {%- endmacro %}
