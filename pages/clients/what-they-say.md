@@ -10,4 +10,3 @@ eleventyNavigation:
   parent: Clients
   order: 1
 ---
-{% include "components/what-they-say.njk" %}
