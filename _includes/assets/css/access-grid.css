@@ -744,22 +744,39 @@ ul.footer-menu li {
   }
 }
 
-ul.menusocial li {
+ul.menusocial  {
   display: flex;
   justify-content: flex-end;
   align-items: center;
   padding: 0;
-  margin:0 1rem 0 0;
-  border: none;
-  width: 34px;
-  height: 34px;
-  text-align: center;
+  margin: 0;
+
 }
 
-
-
-
+ul.menusocial li {
+  list-style: none;
+  display: inline-block;
+  padding: 0;
+}
 .menusocial > li > a {
+  padding: 0 1rem;
+  line-height: var(--navheight);
+  font-size: 1rem;
+  width: 34px;
+    height: 34px;
+  -webkit-transition: all .6s;
+  -moz-transition: all .6s;
+  -ms-transition: all .6s;
+  -o-transition: all .6s;
+  transition: all .6s;
+
+  background-color: var(--white);
+  border: none;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.menusocialss > li > a {
   padding: 0;
   line-height: var(--navheight);
   font-size: 1rem;
@@ -785,10 +802,24 @@ margin:0;
 .menusocial > li > a:hover {
   background-color: var(--white);
   border-bottom: none;
-  transition: all 0.3s;
+  -webkit-transition: all .6s;
+  -moz-transition: all .6s;
+  -ms-transition: all .6s;
+  -o-transition: all .6s;
+  transition: all .6s;
 }
 
-
+.footer-menu > li > a:hover {
+  -webkit-transition: all .6s;
+  -moz-transition: all .6s;
+  -ms-transition: all .6s;
+  -o-transition: all .6s;
+  transition: all .6s;
+  color: var(--white);
+  background-color: var(--primary);
+  border: none;
+  width: 100%;
+}
 
 svg {
   color: var(--black);
