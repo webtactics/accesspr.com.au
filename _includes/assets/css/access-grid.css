@@ -797,13 +797,15 @@ margin:0;
 
 }
 
-.menusocialss > li > a svg {
+.menusocial > li > a svg {
   width: 34px;
     height: 34px;
 
 }
 
 .menusocial > li > a:hover {
+  width: 34px;
+  height: 34px;
   background-color: var(--white);
   border-bottom: none;
   -webkit-transition: all .6s;
