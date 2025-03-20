@@ -966,6 +966,7 @@ text-align: center;
 @media (min-width: 1025px) {
 .grid-3-columns {
   grid-template-columns: repeat(3, 1fr);
+  gap: 3rem;
 }
 .grid-2-columns {
   grid-template-columns: repeat(2, 1fr); gap: 2rem;
