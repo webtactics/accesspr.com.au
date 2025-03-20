@@ -529,9 +529,12 @@ button.blogdetail, .button.blogdetail {margin:0;}
   padding: 0;
   top: 0px;
   z-index: 3;
+
 }
 
-
+.topbar.scrolled{
+background-color: var(--black);
+}
 
 
 
