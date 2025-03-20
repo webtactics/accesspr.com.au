@@ -756,7 +756,8 @@ ul.footer-menu li {
     border: none;
     position: relative;
     right: 0;
-    width: 30px;
+    width: 34px;
+    height: 34px;
     text-align: center;
 }
 
@@ -766,8 +767,8 @@ ul.footer-menu li {
   padding: 0;
   line-height: var(--navheight);
   font-size: 1rem;
-  width:auto;
-  height:34px;
+  width: 34px;
+    height: 34px;
 text-decoration: none;
 font-weight: 400;
 cursor: pointer;
