@@ -549,10 +549,7 @@ ul.menusocial, ul.main-menu, ul.footer-menu, ul.second-level {
 ul.main-menu li {
   float: left;
 }
-ul.menusocial li {
-  float: right;
-  margin:0 0.5rem 0 0;
-}
+
 .main-menu > li {
     display: inline-block;
     padding: 0;
@@ -747,15 +744,20 @@ ul.footer-menu li {
   }
 }
 
-
+ul.menusocial li {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 0;
+  margin:0 1rem 0 0;
+}
 
 .menusocial > li {
+  list-style: none;
     display: inline-block;
     padding: 0;
     margin: 0;
     border: none;
-    position: relative;
-    right: 0;
     width: 34px;
     height: 34px;
     text-align: center;
@@ -772,10 +774,8 @@ ul.footer-menu li {
 text-decoration: none;
 font-weight: 400;
 cursor: pointer;
-display: block;
-position: relative;
+display: inline-block;
 border-bottom: none;
-
 background-color: var(--white);
 margin:0;
 -webkit-transition: all 0.6s;
