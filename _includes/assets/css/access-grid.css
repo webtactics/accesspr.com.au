@@ -791,6 +791,7 @@ margin:3px 0;
 
 .menusocial > li > a:hover {
   background-color: var(--accent);
+  color: var(--white);
   border-bottom: none;
   transition: all 0.3s;
 }
