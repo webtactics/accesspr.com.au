@@ -797,7 +797,11 @@ margin:0;
 
 }
 
+.menusocialss > li > a svg {
+  width: 34px;
+    height: 34px;
 
+}
 
 .menusocial > li > a:hover {
   background-color: var(--white);
