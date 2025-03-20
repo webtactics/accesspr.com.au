@@ -4,14 +4,14 @@
 {% macro renderNavListItem(entry) %}
   {% if entry.children.length %}
     <li>
-      <details
+  
         {%- for child in entry.children %}
           {% if child.parent == entry.title and child.url == page.url %}
             class="is-active"
-            open
+       
           {% endif %}
         {% endfor %}
-      >
+  
       <a href="{{ entry.url }}" title="{{ entry.title }}" alt="{{ entry.title }}">{{ entry.title }}</a>
          <ul class="second-level" role="list">
           {%- for child in entry.children %}{{ renderNavListItem(child) }}{% endfor -%}
