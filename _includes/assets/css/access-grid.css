@@ -748,8 +748,7 @@ ul.footer-menu li {
     padding: 0.5rem;
   }
 }
-.menusocial img {float:left; padding:0;background-color: var(--white);}
-.menusocial:hover img {float:left; padding:0;background-color: var(--white);}
+
 
 
 .menusocial > li {
@@ -759,7 +758,7 @@ ul.footer-menu li {
     border: none;
     position: relative;
     right: 0;
-    width: 150px;
+    width: 30px;
     text-align: center;
 }
 
@@ -790,7 +789,7 @@ margin:3px 0;
 
 
 .menusocial > li > a:hover {
-  background-color: var(--white);
+  background-color: var(--accent);
   border-bottom: none;
   transition: all 0.3s;
 }
@@ -800,16 +799,7 @@ margin:3px 0;
 
 
 
-span.phonetext {font-size:1rem;line-height: 34px;text-align:right;color: var(--white);display: flex;justify-content: center;-webkit-transition: all 0.6s;
-  -moz-transition: all 0.6s;
-  -ms-transition: all 0.6s;
-  -o-transition: all 0.6s;
-  transition: all 0.6s;}
-.menusocial:hover .phonetext {font-size:1rem;line-height: 34px;font-weight:700;text-align:right;color: var(--black);display: flex;justify-content: center;-webkit-transition: all 0.6s;
-  -moz-transition: all 0.6s;
-  -ms-transition: all 0.6s;
-  -o-transition: all 0.6s;
-  transition: all 0.6s;}
+
 
 .mobilesocialwrapper {background-color: var(--mattblack);margin: 1rem 0 0 0;min-height:64px;padding:5px 0;}
 
@@ -819,26 +809,9 @@ margin: 0 10px;
 }
 
 
-.ctacallwrapper {margin:0;height:34px;padding:0;width:160px; }
-.ctacallwrapper:hover {margin:0;height:34px;padding:0; }
 
-.ctacallwrapper ul.menusocial li {
-float: none;
-margin: 0;
-}
 
-.ctacallwrapper span.phonetext {font-size:1rem;line-height: 34px;color: var(--white);display: flex;justify-content: center;-webkit-transition: all 0.6s;
-  -moz-transition: all 0.6s;
-  -ms-transition: all 0.6s;
-  -o-transition: all 0.6s;
-  transition: all 0.6s;}
-  .ctacallwrapper .menusocial:hover .phonetext {font-size:1rem;font-weight:700;line-height: 34px;color: var(--black);display: flex;justify-content: center;-webkit-transition: all 0.6s;
-  -moz-transition: all 0.6s;
-  -ms-transition: all 0.6s;
-  -o-transition: all 0.6s;
-  transition: all 0.6s;}
 
-.ctacallwrapper  .menusocial > li > a {line-height: 34px;margin: 0;}
 
 
 .mobilemenu {padding:0 0 1rem;}
