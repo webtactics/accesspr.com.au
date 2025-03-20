@@ -29,7 +29,7 @@
 --mattblack: hsla(214,12%,11%,0.95);
 --green: hsla(144, 80%, 22%, 1);
 
---transitionall: 1.6s;
+--transitionall: 3s;
 --navheight: 40px;
 }
 
@@ -61,9 +61,7 @@
 }
 
 
-@view-transition {
-    navigation: auto;
-  }
+@view-transition {navigation: auto;}
 
 *, *:before, *:after {
   box-sizing: border-box;
@@ -262,7 +260,7 @@ color: var(--white);
 font-size: calc(1.1rem + 1vw);
  }
 
-.caption-text h1 span { }
+
 
 .hero {
 
