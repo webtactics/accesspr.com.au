@@ -1,10 +1,12 @@
 ---
+eleventyExcludeFromCollections: true
+
 title: NT Department of Tourism and Culture
 Name: Andrew Hopper
 Position: ex-Deputy Chief Executive Officer
 Website: https://dtsc.nt.gov.au/
 
-date: 2025-03-19
+date: 2025-03-05
 permalink: /clients/what-they-say/NT-Department-of-Tourism-and-Culture/
 tags:
   - testimonials

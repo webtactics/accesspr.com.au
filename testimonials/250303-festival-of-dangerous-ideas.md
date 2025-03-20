@@ -4,7 +4,7 @@ Name: Danielle Harvey
 Position: Director
 Website: https://festivalofdangerousideas.com/
 
-date: 2025-03-19
+date: 2025-03-03
 permalink: /clients/what-they-say/Festival-of-Dangerous-Ideas/
 tags:
   - testimonials

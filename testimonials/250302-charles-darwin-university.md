@@ -4,7 +4,7 @@ Name: Shannon Holborn
 Position: Vice-President Global and External Relations
 Website: https://www.cdu.edu.au/
 
-date: 2025-03-19
+date: 2025-03-02
 permalink: /clients/what-they-say/Charles-Darwin-University/
 tags:
   - testimonials
