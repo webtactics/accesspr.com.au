@@ -4,7 +4,7 @@ eleventyExcludeFromCollections: false
 title: Fairfax Media (now Nine) – Good Food.
 Name: Menka Nasta
 Position: Head of Customer Loyalty Marketing
-Website: https://dtsc.nt.gov.au/
+Website: https://www.smh.com.au/goodfood
 
 date: 2025-03-07
 permalink: /clients/what-they-say/Fairfax-Media-(now Nine)-Good Food/
