@@ -774,7 +774,7 @@ cursor: pointer;
 display: block;
 position: relative;
 border-bottom: none;
-color: var(--accent);
+
 background-color: var(--white);
 margin:3px 0;
 -webkit-transition: all 0.6s;
@@ -788,8 +788,7 @@ margin:3px 0;
 
 
 .menusocial > li > a:hover {
-  background-color: var(--accent);
-  color: var(--white);
+  background-color: var(--black);
   border-bottom: none;
   transition: all 0.3s;
 }
@@ -797,11 +796,11 @@ margin:3px 0;
 
 
 svg {
-  color: var(--accent);
+  color: var(--black);
 }
 
 svg:hover {
-  color: var(--white);
+  color: var(--accent);
 }
 
 
