@@ -856,7 +856,17 @@ background-color: var(--primary); font-weight: bold;}
   }
 
 
-
+  .footer-menu > li.active-class > a, .footer-menu > li.current > a {
+    -webkit-transition: all .6s;
+    -moz-transition: all .6s;
+    -ms-transition: all .6s;
+    -o-transition: all .6s;
+    transition: all .6s;
+    color: var(--accent);
+    background-color: transparent;
+    border: none;
+    width: 100%;
+  }
 
 
 
