@@ -352,7 +352,12 @@ font-size: calc(1.1rem + 1vw);
   opacity: 1;
   margin: 30% auto 0;
 }
-
+.homecasetext h2 {
+  font-size: calc(1.4rem + 1vw);
+  color: var(--white);
+  text-align: center;
+  padding: 1rem 0;
+}
 
 .headerwrapper {
           display: grid;
