@@ -6,6 +6,7 @@ date: 2025-03-20
 
 
 image: /static/img/our-work/Tourism-NT-Floating-in-Bitter-Springs-credit-Tourism-NT-and-Lets-Escape-Together.jpg
+imageAlt: Tourism NT Floating in Bitter Springs
 
 tags:
   - our-work
