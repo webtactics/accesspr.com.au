@@ -1,12 +1,12 @@
 ---
-title: Tourism NT
-Website: https://tourismnt.com.au/
+title: Northern Territory Major Events Company (NTMEC) 
+Website: https://ntmajorevents.com.au/
 
 date: 2025-03-20
 
 
-image: /static/img/our-work/Tourism-NT-Floating-in-Bitter-Springs-credit-Tourism-NT-and-Lets-Escape-Together.jpg
-imageAlt: Tourism NT Floating in Bitter Springs
+image: /static/img/our-work/NTMEC-Arelhe-Urrperle-a-6m-tall-puppet-cast-a-striking-impression-at-Parrtjima-as-she-glided-around-the-site.jpg
+imageAlt: Arelhe Urrperle a 6m tall puppet cast a striking impression at Parrtjima as she glided around the site
 
 tags:
   - Our-Work
@@ -17,12 +17,12 @@ tags:
 
 ---
 
-Since 2017, Access has been the PR agency of record for Tourism NT, winning the account three consecutive times. Our team manages Tourism NT’s highly successful Always-On program across Australia and New Zealand, managing everything from strategic press office to year-round media famils (familiarisation trips) and content creation.
+Access was first engaged by Northern Territory Major Events (NTMEC) in 2016 to manage PR for the internationally acclaimed Aboriginal light festival, Parrtjima – A Festival in Light.
 
-We’ve also spearheaded large-scale integrated projects for Tourism NT, including celebrity ambassadorships with media personality Poh Ling Yeow and AFL star Daniel Rioli, as well as experiential activations such as DJ on A Bike’s takeover of Darwin’s CBD and a multisensory ‘A Night in the NT’ pop-up in Sydney, complete with tonnes of red sand from Central Australia.
+Since then, our partnership has grown and we are now NTMEC’s agency of record, handling year-round PR for their corporate brand and consumer publicity across their major events portfolio, which includes Parrtjima, BASSINTHEGRASS music festival, Million Dollar Fish, Betr Darwin Triple Crown, Red CentreNATS, MXGP of Australia, and more.
 
-Additionally, we created Tourism NT’s first-ever sustainable tourism case study kit and have brokered media partnerships with the likes of ABC Radio National, Sunrise, The Today Show, Getaway, The Australian Women’s Weekly, Travel Guides, and many more.
+We manage end-to-end event publicity including strategy, major announcements, media relations, issues management, talent liaison, media famils, on-site press offices, PR stunts and activations.  
 
-Our team also manages Tourism NT’s Business Events PR program, helping to promote the Northern Territory as a competitive, distinctive and meaningful place to host business events.
+We conceived and launched Parrtjima’s first interstate activation at Melbourne’s Federation Square and managed the national announcement of the first-ever Million Dollar Fish winner – a story that dominated headlines across Australia and internationally in 2024.
 
-As a trusted extension of Tourism NT’s in-house team, we consistently exceed KPIs every year, driving significant awareness and consideration for the Northern Territory as a desirable holiday and business events destination
+Much of our work with NTMEC involves working closely with Aboriginal cultures, communities, creatives, and talent. We bring not just respect, but a deep cultural awareness, understanding, and appreciation to every project we undertake.
