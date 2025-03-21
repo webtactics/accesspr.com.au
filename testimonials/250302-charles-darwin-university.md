@@ -5,9 +5,10 @@ Position: Vice-President Global and External Relations
 Website: https://www.cdu.edu.au/
 
 date: 2025-03-02
-permalink: /clients/what-they-say/Charles-Darwin-University/
+
 tags:
   - testimonials
+  
 description: Access feels part of the NT family and an extension of our internal team that ensures nothing slips through the cracks and together we consistently brainstorm new ideas and maximise any opportunity available.
 
 

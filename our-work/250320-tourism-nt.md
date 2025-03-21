@@ -3,9 +3,9 @@ title: Tourism NT
 Website: https://tourismnt.com.au/
 
 date: 2025-03-20
-permalink: /clients/our-work/Tourism-NT/
 
-image: /static/img/our-work/Tourism-NT-Uluru-at-Sunset-Mandatory-credit-Tourism-NT-Bronte-Stephens.jpg
+
+image: /static/img/our-work/Tourism-NT-Floating-in-Bitter-Springs-credit-Tourism-NT-and-Lets-Escape-Together.jpg
 
 tags:
   - our-work
@@ -16,10 +16,12 @@ tags:
 
 ---
 
-Access has been the retained communications agency for Tourism NT since early 2017, working across all aspects of domestic communications and PR for this remarkable destination that showcases Indigenous cultures like nowhere else in Australia.
+Since 2017, Access has been the PR agency of record for Tourism NT, winning the account three consecutive times. Our team manages Tourism NT’s highly successful Always-On program across Australia and New Zealand, managing everything from strategic press office to year-round media famils (familiarisation trips) and content creation.
 
-Working closely with the in-house communications and marketing teams, we deliver always-on press office and campaign work, a robust media engagement program, and media train both Indigenous and non-Indigenous tourism operators.
+We’ve also spearheaded large-scale integrated projects for Tourism NT, including celebrity ambassadorships with media personality Poh Ling Yeow and AFL star Daniel Rioli, as well as experiential activations such as DJ on A Bike’s takeover of Darwin’s CBD and a multisensory ‘A Night in the NT’ pop-up in Sydney, complete with tonnes of red sand from Central Australia.
 
-Our pillars of focus include Indigenous cultures, sustainability (environmental and cultural), arts, accessibility, and wildlife and nature to name a few.
+Additionally, we created Tourism NT’s first-ever sustainable tourism case study kit and have brokered media partnerships with the likes of ABC Radio National, Sunrise, The Today Show, Getaway, The Australian Women’s Weekly, Travel Guides, and many more.
 
-We also manage the always-on communications for NT Business Events, whose mission is to bring major corporate and incentive conferences and events to the NT.
+Our team also manages Tourism NT’s Business Events PR program, helping to promote the Northern Territory as a competitive, distinctive and meaningful place to host business events.
+
+As a trusted extension of Tourism NT’s in-house team, we consistently exceed KPIs every year, driving significant awareness and consideration for the Northern Territory as a desirable holiday and business events destination

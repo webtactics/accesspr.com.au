@@ -7,9 +7,10 @@ Position: Head of Customer Loyalty Marketing
 Website: https://www.smh.com.au/goodfood
 
 date: 2025-03-07
-permalink: /clients/what-they-say/Fairfax-Media-(now Nine)-Good Food/
+
 tags:
   - testimonials
+  
 description: Kylie Edwards and her team are some of the brightest PR professionals I’ve ever worked with.
 
 

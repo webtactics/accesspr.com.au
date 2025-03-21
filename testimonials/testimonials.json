@@ -1,9 +1,9 @@
 {
-    "layout": "layouts/post.njk",
-    "permalink": "legal-services/{{ title | slug }}/index.html",
-    "class": "legal-services",
-    "tags": [
-      "services"
-    ]
-  }
-  
+  "layout": "layouts/post.njk",
+  "permalink": "/clients/what-they-say/{{ title | slug }}/index.html",
+  "class": "clients testimonials",
+  "tags": [
+    "clients",
+    "testimonials"
+  ]
+}

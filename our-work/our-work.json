@@ -1,0 +1,11 @@
+{
+    "layout": "layouts/post.njk",
+    "permalink": "/clients/our-work/{{ title | slug }}/index.html",
+    "class": "clients our-work",
+    "tags": [
+      "clients",
+      "our-work",
+      "case-study"
+    ]
+  }
+  

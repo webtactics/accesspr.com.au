@@ -7,9 +7,10 @@ Position: Founder and CEO
 Website: https://vimeo.com/bigrunevents/videos
 
 date: 2025-03-08
-permalink: /clients/what-they-say/Outback-Music-Festival-Group/
+
 tags:
   - testimonials
+  
 description: Kylie's and Access’ understanding of the media landscape and their many strong and trusted relationships with key media enable them to generate huge and diverse coverage of our festivals.
 
 
