@@ -26,16 +26,7 @@
 
 {% block content %}
 <main class="content">  
-
 {{ content | safe }}
-
-<div class="testimonial content">
-{% set postslist = collections.testimonials | reverse %}
-{% include "components/postslist-testimonials.njk" %}
-</div>
-
-{% include "pages/home-second.md" %}
-{% include "components/global/calltoaction.html" %}
 </main>
 {% endblock %}
 
