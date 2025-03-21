@@ -270,8 +270,8 @@ text-align: left;
 .caption-text h1 { 
 margin:0;
 text-align: left; 
-color: var(--accent);
-font-size: calc(1.1rem + 1vw);
+color: var(--white);
+font-size: calc(1.2rem + 1vw);
  }
 
 
