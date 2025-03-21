@@ -1,0 +1,23 @@
+---
+layout: layouts/detail.njk
+section: post
+---
+<article{% if post.url == url %} data-current="current item"{% endif %} >
+
+    <div class="item postdetail">
+
+        {% if image %}
+            <div class="postdetailimage" align="center"><img src="https://ik.imagekit.io/webtactics/accesspr{{ image }}/tr:w-900,h-600" alt="{{ imageAlt }}" title="{{ imageAlt }}" width="900px" height="600px" class="postimg"></div>
+        {% endif %}
+
+        <div class="postdetailcontent">     
+            {{ content | safe }}
+            
+                <div class="postdetailtags">  
+                     {% include "components/global/tagged.html" %}
+                </div>
+        </div>
+  
+    </div>
+
+</article>
