@@ -9,8 +9,8 @@ image: /static/img/our-work/Tourism-NT-Floating-in-Bitter-Springs-credit-Tourism
 imageAlt: Tourism NT Floating in Bitter Springs
 
 tags:
-  - our-work
-  - clients
+  - Our-Work
+  - Clients
 
 
 
