@@ -1285,3 +1285,57 @@ blockquote {
 .testimonial-wrapper {
 padding: 6rem 0;
 }
+
+.taggedimg img {
+  border-radius: 0.75rem;
+  width: auto;
+  aspect-ratio: 2 / 3;
+}
+.taggedimg img:hover {
+  filter: brightness(110%);
+  transition: all 0.2s ease-in-out;
+
+}
+
+.tagged {
+  width: 100%;
+  display: flex;
+  padding: 2rem 0;
+}
+
+.tagged ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.tagged ul li {
+  list-style: none;
+  margin-right: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+ul  li.taggs a, ul  li.taggs a:visited {
+  display: block;
+  color: var(--white);
+  background: var(--darkblue);
+ padding: 0.25rem 0.5rem;
+  border:none;
+  transition: background 300ms ease;
+  font-weight: normal;
+ font-size: 0.9rem;
+  text-decoration: none;
+  text-transform: none;
+}
+
+
+
+ul  li.taggs a:hover, ul  li.taggs  a:focus {
+  color: var(--white);
+  background: var(--red);
+  font-weight: normal;
+  text-decoration: none;
+}
