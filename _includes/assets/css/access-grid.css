@@ -274,7 +274,7 @@ font-size: calc(1.1rem + 1vw);
 
 .hero {
 
-  width: calc(100vw - 2rem);
+  width: calc(100vw - 1rem);
   max-width: 1500px;
   height: auto;
   max-height: 1000px;
@@ -285,7 +285,7 @@ font-size: calc(1.1rem + 1vw);
 }
 
 .hero img {
-  width: calc(100vw - 2rem);
+  width: calc(100vw - 1rem);
   max-width: 1500px;
   height: auto;
   max-height: 1000px;
