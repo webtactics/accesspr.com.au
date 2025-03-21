@@ -280,7 +280,7 @@ font-size: calc(1.1rem + 1vw);
   max-height: 1333.3px;
   position: relative;
   z-index: 2;
-  margin:9rem auto;
+  margin:7rem auto;
   aspect-ratio: 15 / 10;
 }
 
