@@ -1140,7 +1140,7 @@ gap: 3rem;}
   
 
   .postimg {
-    height:600px;
+    height:auto;
     width:900px;
     aspect-ratio: 3 / 2;
      }
