@@ -1,0 +1,24 @@
+{% extends "layouts/default.njk" %}
+
+{% block content %} 
+<main class="content">  
+    <div class="grid-2-columns-2x1">
+
+        <div class="detailwrapper">
+            {{ content | safe }}
+        </div>
+
+    <div class="sidebarwrapper">
+        <aside>
+            <h3>Our Work:</h3>
+            {% set postslist = collections['Our-Work'] | reverse %}
+            {% include "components/postslist-sidebar-our-work.njk" %}
+        </aside>
+    </div>
+
+    </div>
+</main>
+{% endblock %}
+
+
+
