@@ -30,7 +30,7 @@
 --green: hsla(144, 80%, 22%, 1);
 
 --transitionall: 2s;
---transitionallquick: 1s;
+--transitionallquick: var(--transitionallquick);
 --navheight: 40px;
 }
 
@@ -161,28 +161,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
 .h2, h2 {
   font-size: calc(1.6rem + 1vw); 
 }
-.home .content h2 {
-  font-size: calc(1.4rem + 1vw); 
-  color: var(--black);
 
-}
-.home .content h2 a {
-  line-height: inherit;
-  color: var(--textactive);
-  text-decoration: none;
-  cursor: pointer;
-  border-bottom: 2px dotted var(--primarydark);
-
-}
-
-.home .content h2 a:hover {
-  color: var(--texthover);
-  border: none;
-  text-decoration: none;
-  border-bottom: 2px solid var(--black);
-  background-color: var(--primary);
-
-}
 
 .h3, h3 {
   font-size: calc(1.2rem + 0.5rem);}
@@ -339,11 +318,11 @@ font-size: calc(1.2rem + 1vw);
   margin: 100% auto 0;
   opacity: 0;
   background-color: rgba(0,0,0,0.60);
-  -webkit-transition: all 1s;
-  -moz-transition: all 1s;
-  -ms-transition: all 1s;
-  -o-transition: all 1s;
-  transition: all 1s;
+  -webkit-transition: all var(--transitionallquick);
+  -moz-transition: all var(--transitionallquick);
+  -ms-transition: all var(--transitionallquick);
+  -o-transition: all var(--transitionallquick);
+  transition: all var(--transitionallquick);
 }
 
 .casestudyhover:hover .image-overlay {
@@ -1344,4 +1323,60 @@ ul  li.taggs a:hover, ul  li.taggs  a:focus {
   background: var(--accent);
   font-weight: normal;
   text-decoration: none;
+}
+
+.blogpicHome {
+  position: relative;
+}
+.blogpicHome a {
+  border: none;
+}
+.blogpicHome img {
+  width: 100%;
+  background-color: #000000;
+}
+.blogpicHome a img {
+  border: none;
+}
+
+.blogpicHome .image-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: var(--black);
+  -webkit-transition: all var(--transitionallquick);
+  -moz-transition: all var(--transitionallquick);
+  -ms-transition: all var(--transitionallquick);
+  -o-transition: all var(--transitionallquick);
+  transition: all var(--transitionallquick);
+  opacity: 0;
+  overflow: hidden;
+}
+
+.blogpicHome:hover .image-overlay {
+  opacity: 1;
+  background-color: rgba(0,0,0,0.32);
+}
+
+.blogpicHome .image-overlay .overlay-icon {
+  width: auto;
+  height: auto;
+  display: block;
+  border-radius: 0;
+  padding: 1rem;
+  margin: 100% auto 0;
+  opacity: 0;
+  background-color: rgba(0,0,0,0.60);
+  -webkit-transition: all var(--transitionallquick);
+  -moz-transition: all var(--transitionallquick);
+  -ms-transition: all var(--transitionallquick);
+  -o-transition: all var(--transitionallquick);
+  transition: all var(--transitionallquick);
+}
+
+.blogpicHome:hover .image-overlay .overlay-icon {
+  opacity: 1;
+  margin: 30% auto 0;
 }
