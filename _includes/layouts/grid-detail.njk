@@ -17,6 +17,22 @@
     </div>
 
     </div>
+
+<section class="slidersection">    
+    <div class="slider">
+        <div class="slider__wrapper">
+            <div class="slider__items">
+                {% for post in postslist | reverse %}
+                <div class="slider__item">
+                    <a href="{{ post.url | url }}" alt="{{ post.data.title }}" title="{{ post.data.title }}: click for more"><img src="https://ik.imagekit.io/webtactics/accesspr/{{ post.data.image }}?tr=w-600,h-400" alt="{{ post.data.title }}" title="{{ post.data.title }}"></a>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+</section>
+
 </main>
 {% endblock %}
 
