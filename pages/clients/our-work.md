@@ -2,7 +2,7 @@
 layout: layouts/grid-full-width.njk
 title: Our Work
 class: clients our-work
-description: Access Senior Team
+description: Some of the work we have done, and success we have had.
 date: 2024-08-22
 permalink: /clients/our-work/
 eleventyNavigation:
@@ -10,18 +10,3 @@ eleventyNavigation:
   parent: Clients
   order: 1
 ---
-Our Work
-{% for item in collections.our-work %}
-  {% if item.data.Homepage == true %}
-    {% include 'components/page-our-work.njk' %}
-  {% endif %}
-{% endfor %}
-
-
-
-{% for item in collections['our-work'] %}
-  {% if item.data.Homepage == true %}
-  Our Work 2
-    {% include 'components/page-our-work.njk' %}
-  {% endif %}
-{% endfor %}
