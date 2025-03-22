@@ -7,10 +7,12 @@
 {{ content | safe }}
 
 
-{% if page.url == "clients/our-work/" %}
-{% include "components/page-our-work.njk" %}
+<div class="our-work content">
+{% set postslist = collections['Showcase']  %} 
+{% include "components/postslist-our-work-cover.njk" %}
+</div>
 
-{% endif %}
+
 
 
 </main>
