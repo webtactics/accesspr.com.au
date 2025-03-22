@@ -1182,7 +1182,7 @@ aspect-ratio: 450 / 270;
      border: 1px solid var(--primarydark);
   }
 
-.detailpage-sidebar-summary-content-wrapper h4 { font-size: 1.3rem; }
+.detailpage-sidebar-summary-content-wrapper h4 { font-size: 1.3rem;font-weight:400; }
 
 
 .detailpage-sidebar-summary-content-wrapper h4 a {
