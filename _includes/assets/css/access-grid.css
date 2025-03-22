@@ -1321,7 +1321,7 @@ padding: 6rem 0;
 ul  li.taggs a, ul  li.taggs a:visited {
   display: block;
   color: var(--white);
-  background: var(--darkblue);
+  background: var(--black);
  padding: 0.25rem 0.5rem;
   border:none;
   transition: background 300ms ease;
@@ -1335,7 +1335,7 @@ ul  li.taggs a, ul  li.taggs a:visited {
 
 ul  li.taggs a:hover, ul  li.taggs  a:focus {
   color: var(--white);
-  background: var(--red);
+  background: var(--accent);
   font-weight: normal;
   text-decoration: none;
 }
