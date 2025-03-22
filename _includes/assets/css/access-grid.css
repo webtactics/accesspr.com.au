@@ -1133,7 +1133,7 @@ gap: 5rem;}
   filter: brightness(1.2);
   }
 
-.grid-detailpage-sidebar-summary:hover .detailpage-sidebar-summary-content-wrapper {border-left: .6rem solid var(--black);}
+
 
   .Postimagehover {position:relative;text-align:center}
 
@@ -1211,14 +1211,14 @@ aspect-ratio: 450 / 270;
 .detailpage-sidebar-summary-content-wrapper  {
   padding: 0 0 0 1rem;
   margin: 0 0 0 1rem;
-  border-left: 0.6rem solid var(--primary);
+  border-left: 0.6rem solid var(--black);
   min-height: 3rem;
 }
 
 .detailpage-sidebar-summary-content-wrapper:hover {
   padding: 0 0 0 1rem;
   margin: 0 0 0 1rem;
-  border-left: 0.6rem solid var(--black);
+  border-left: 0.6rem solid var(--accent);
   min-height: 3rem;
 }
 
