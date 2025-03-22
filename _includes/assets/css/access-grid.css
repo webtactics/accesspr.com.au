@@ -29,8 +29,9 @@
 --mattblack: hsla(214,12%,11%,0.95);
 --green: hsla(144, 80%, 22%, 1);
 
---transitionall: 2s;
---transitionallquick: 0.6s;
+--transition1s: 1s;
+--transitionslow: 2s;
+--transitionquick: 0.6s;
 --navheight: 40px;
 }
 
@@ -123,7 +124,7 @@ p a {
   text-decoration: none;
   cursor: pointer;
   border-bottom: 1px dotted var(--texthoverborder);
-  transition: all var(--transitionallquick) ease-in-out;
+  transition: all var(--transitionquick) ease-in-out;
 
 }
 
@@ -133,7 +134,7 @@ p a:hover {
   text-decoration: none;
   border-bottom: 3px solid var(--texthoverborder);
   background-color: var(--texthoverbg);
-  transition: all var(--transitionallquick) ease-in-out;
+  transition: all var(--transitionquick) ease-in-out;
 
 }
 
@@ -298,11 +299,11 @@ font-size: calc(1.2rem + 1vw);
   right: 0;
   bottom: 0;
   background-color: rgba(0,0,0,0);
-  -webkit-transition: all var(--transitionall);
-  -moz-transition: all var(--transitionall);
-  -ms-transition: all var(--transitionall);
-  -o-transition: all var(---transitionall);
-  transition: all var(--transitionall);
+  -webkit-transition: all var(--transition1s);
+  -moz-transition: all var(--transition1s);
+  -ms-transition: all var(--transition1s);
+  -o-transition: all var(---transition1s);
+  transition: all var(--transition1s);
   opacity: 0;
   overflow: hidden;
 }
@@ -320,32 +321,32 @@ font-size: calc(1.2rem + 1vw);
   margin: 100% auto 0;
   opacity: 0;
   background-color: rgba(0,0,0,0.60);
-  -webkit-transition: all var(--transitionall);
-  -moz-transition: all var(--transitionall);
-  -ms-transition: all var(--transitionall);
-  -o-transition: all var(--transitionall);
-  transition: all var(--transitionall);
+  -webkit-transition: all var(--transition1s);
+  -moz-transition: all var(--transition1s);
+  -ms-transition: all var(--transition1s);
+  -o-transition: all var(--transition1s);
+  transition: all var(--transition1s);
 }
 
 .casestudyhover:hover .image-overlay {
   opacity: 1;
   background-color: rgba(0,0,0,0.32);
-  -webkit-transition: all var(--transitionall);
-  -moz-transition: all var(--transitionall);
-  -ms-transition: all var(--transitionall);
-  -o-transition: all var(--transitionall);
-  transition: all var(--transitionall);
+  -webkit-transition: all var(--transition1s);
+  -moz-transition: all var(--transition1s);
+  -ms-transition: all var(--transition1s);
+  -o-transition: all var(--transition1s);
+  transition: all var(--transition1s);
 }
 
 
 .casestudyhover:hover .image-overlay .overlay-icon {
   opacity: 1;
   margin: 30% auto 0;
-  -webkit-transition: all var(--transitionall);
-  -moz-transition: all var(--transitionall);
-  -ms-transition: all var(--transitionall);
-  -o-transition: all var(--transitionall);
-  transition: all var(--transitionall);
+  -webkit-transition: all var(--transition1s);
+  -moz-transition: all var(--transition1s);
+  -ms-transition: all var(--transition1s);
+  -o-transition: all var(--transition1s);
+  transition: all var(--transition1s);
 }
 .homecasetext h2 {
   font-size: calc(1.4rem + 1vw);
@@ -421,35 +422,35 @@ font-size: calc(1.2rem + 1vw);
 
 .logo img.logo-black {
         display: block;
-      -webkit-transition: all var(--transitionallquick);
-    -moz-transition: all var(--transitionallquick);
-    -ms-transition: all var(--transitionallquick);
-    -o-transition: all var(--transitionallquick);
-    transition: all var(--transitionallquick);
+      -webkit-transition: all var(--transitionquick);
+    -moz-transition: all var(--transitionquick);
+    -ms-transition: all var(--transitionquick);
+    -o-transition: all var(--transitionquick);
+    transition: all var(--transitionquick);
       }
 .logo img.logo-white {
         display: none;
-        -webkit-transition: all var(--transitionallquick);
-    -moz-transition: all var(--transitionallquick);
-    -ms-transition: all var(--transitionallquick);
-    -o-transition: all var(--transitionallquick);
-    transition: all var(--transitionallquick);
+        -webkit-transition: all var(--transitionquick);
+    -moz-transition: all var(--transitionquick);
+    -ms-transition: all var(--transitionquick);
+    -o-transition: all var(--transitionquick);
+    transition: all var(--transitionquick);
       }
 .scrolled .logo img.logo-black {
   display: none;
-  -webkit-transition: all var(--transitionallquick);
-    -moz-transition: all var(--transitionallquick);
-    -ms-transition: all var(--transitionallquick);
-    -o-transition: all var(--transitionallquick);
-    transition: all var(--transitionallquick);
+  -webkit-transition: all var(--transitionquick);
+    -moz-transition: all var(--transitionquick);
+    -ms-transition: all var(--transitionquick);
+    -o-transition: all var(--transitionquick);
+    transition: all var(--transitionquick);
       }
 .scrolled .logo img.logo-white {
   display: block;
-  -webkit-transition: all var(--transitionallquick);
-    -moz-transition: all var(--transitionallquick);
-    -ms-transition: all var(--transitionallquick);
-    -o-transition: all var(--transitionallquick);
-    transition: all var(--transitionallquick);
+  -webkit-transition: all var(--transitionquick);
+    -moz-transition: all var(--transitionquick);
+    -ms-transition: all var(--transitionquick);
+    -o-transition: all var(--transitionquick);
+    transition: all var(--transitionquick);
       }
 @media screen and (max-width: 1025px) {
 .navwrapper, .socialwrapper {
@@ -515,22 +516,22 @@ display: none;
     cursor: pointer;
     background: var(--white);
     border: none;
-    -webkit-transition: all var(--transitionall);
-    -moz-transition: all var(--transitionall);
-    -ms-transition: all var(--transitionall);
-    -o-transition: all var(--transitionall);
-    transition: all var(--transitionall);
+    -webkit-transition: all var(--transitionslow);
+    -moz-transition: all var(--transitionslow);
+    -ms-transition: all var(--transitionslow);
+    -o-transition: all var(--transitionslow);
+    transition: all var(--transitionslow);
     padding: 5px;
   }
 
   .toggle-nav:hover {
     background-color: var(--accent);
     color: var(--white);
-    -webkit-transition: all var(--transitionall);
-    -moz-transition: all var(--transitionall);
-    -ms-transition: all var(--transitionall);
-    -o-transition: all var(--transitionall);
-    transition: all var(--transitionall);
+    -webkit-transition: all var(--transitionslow);
+    -moz-transition: all var(--transitionslow);
+    -ms-transition: all var(--transitionslow);
+    -o-transition: all var(--transitionslow);
+    transition: all var(--transitionslow);
   }
 
     .toggle-nav:focus {
@@ -583,21 +584,21 @@ button.success, .button.success {
   padding: 0.4rem 3rem;
   margin: 0 auto;
   text-decoration:none;
-  -webkit-transition: all var(--transitionall);
-  -moz-transition: all var(--transitionall);
-  -ms-transition: all var(--transitionall);
-  -o-transition: all var(--transitionall);
-  transition: all var(--transitionall);
+  -webkit-transition: all var(--transitionslow);
+  -moz-transition: all var(--transitionslow);
+  -ms-transition: all var(--transitionslow);
+  -o-transition: all var(--transitionslow);
+  transition: all var(--transitionslow);
 }
 button.success:hover, button.success:focus, .button.success:hover, .button.success:focus {
   background-color: var(--black);
   color: var(--white);
   border: 0.3rem solid var(--white);
-  -webkit-transition: all var(--transitionall);
-  -moz-transition: all var(--transitionall);
-  -ms-transition: all var(--transitionall);
-  -o-transition: all var(--transitionall);
-  transition: all var(--transitionall);
+  -webkit-transition: all var(--transitionslow);
+  -moz-transition: all var(--transitionslow);
+  -ms-transition: all var(--transitionslow);
+  -o-transition: all var(--transitionslow);
+  transition: all var(--transitionslow);
 }
 
 
@@ -634,21 +635,21 @@ button.blogdetail, .button.blogdetail {margin:0;}
   padding: 0;
   top: 0px;
   z-index: 3;
-  -webkit-transition: all var(--transitionall);
-  -moz-transition: all var(--transitionall);
-  -ms-transition: all var(--transitionall);
-  -o-transition: all var(--transitionall);
-  transition: all var(--transitionall);
+  -webkit-transition: all var(--transitionslow);
+  -moz-transition: all var(--transitionslow);
+  -ms-transition: all var(--transitionslow);
+  -o-transition: all var(--transitionslow);
+  transition: all var(--transitionslow);
 
 }
 
 .topbar.scrolled{
 background-color: var(--black);
--webkit-transition: all var(--transitionall);
-  -moz-transition: all var(--transitionall);
-  -ms-transition: all var(--transitionall);
-  -o-transition: all var(--transitionall);
-  transition: all var(--transitionall);
+-webkit-transition: all var(--transitionslow);
+  -moz-transition: all var(--transitionslow);
+  -ms-transition: all var(--transitionslow);
+  -o-transition: all var(--transitionslow);
+  transition: all var(--transitionslow);
 }
 
 
@@ -709,20 +710,20 @@ font-weight: 400;
 cursor: pointer;
 display: block;
 position: relative;
-  -webkit-transition: all var(--transitionallquick);
-  -moz-transition: all var(--transitionallquick);
-  -ms-transition: all var(--transitionallquick);
-  -o-transition: all var(--transitionallquick);
-  transition: all var(--transitionallquick);
+  -webkit-transition: all var(--transitionquick);
+  -moz-transition: all var(--transitionquick);
+  -ms-transition: all var(--transitionquick);
+  -o-transition: all var(--transitionquick);
+  transition: all var(--transitionquick);
 }
 
 .scrolled ul.main-menu > li > a {  
   color: var(--white);
-  -webkit-transition: all var(--transitionallquick);
-  -moz-transition: all var(--transitionallquick);
-  -ms-transition: all var(--transitionallquick);
-  -o-transition: all var(--transitionallquick);
-  transition: all var(--transitionallquick);
+  -webkit-transition: all var(--transitionquick);
+  -moz-transition: all var(--transitionquick);
+  -ms-transition: all var(--transitionquick);
+  -o-transition: all var(--transitionquick);
+  transition: all var(--transitionquick);
 }
 
 ul.main-menu > li > a:hover, ul.main-menu > li.active-class > a {
@@ -730,11 +731,11 @@ ul.main-menu > li > a:hover, ul.main-menu > li.active-class > a {
   color: var(--accent);
   background-color: transparent;
   text-transform: uppercase;
-  -webkit-transition: all var(--transitionallquick);
-  -moz-transition: all var(--transitionallquick);
-  -ms-transition: all var(--transitionallquick);
-  -o-transition: all var(--transitionallquick);
-  transition: all var(--transitionallquick);
+  -webkit-transition: all var(--transitionquick);
+  -moz-transition: all var(--transitionquick);
+  -ms-transition: all var(--transitionquick);
+  -o-transition: all var(--transitionquick);
+  transition: all var(--transitionquick);
 }
 
 
@@ -787,11 +788,11 @@ ul.main-menu li ul.second-level li.active-class > a {
     color: var(--white);
     background-color: var(--black);
     border-bottom: 1px solid var(--lightgrey);
-  -webkit-transition: all var(--transitionallquick);
-  -moz-transition: all var(--transitionallquick);
-  -ms-transition: all var(--transitionallquick);
-  -o-transition: all var(--transitionallquick);
-  transition: all var(--transitionallquick);
+  -webkit-transition: all var(--transitionquick);
+  -moz-transition: all var(--transitionquick);
+  -ms-transition: all var(--transitionquick);
+  -o-transition: all var(--transitionquick);
+  transition: all var(--transitionquick);
 }
 
 
@@ -837,27 +838,27 @@ ul.menusocial li a.social-icon {
 
 svg {
   color: var(--black);
-  -webkit-transition: all var(--transitionallquick);
-  -moz-transition: all var(--transitionallquick);
-  -ms-transition: all var(--transitionallquick);
-  -o-transition: all var(--transitionallquick);
-  transition: all var(--transitionallquick);
+  -webkit-transition: all var(--transitionquick);
+  -moz-transition: all var(--transitionquick);
+  -ms-transition: all var(--transitionquick);
+  -o-transition: all var(--transitionquick);
+  transition: all var(--transitionquick);
 }
 .scrolled svg {
   color: var(--white);
-  -webkit-transition: all var(--transitionallquick);
-  -moz-transition: all var(--transitionallquick);
-  -ms-transition: all var(--transitionallquick);
-  -o-transition: all var(--transitionallquick);
-  transition: all var(--transitionallquick);
+  -webkit-transition: all var(--transitionquick);
+  -moz-transition: all var(--transitionquick);
+  -ms-transition: all var(--transitionquick);
+  -o-transition: all var(--transitionquick);
+  transition: all var(--transitionquick);
 }
 svg:hover {
   color: var(--accent);
-  -webkit-transition: all var(--transitionallquick);
-  -moz-transition: all var(--transitionallquick);
-  -ms-transition: all var(--transitionallquick);
-  -o-transition: all var(--transitionallquick);
-  transition: all var(--transitionallquick);
+  -webkit-transition: all var(--transitionquick);
+  -moz-transition: all var(--transitionquick);
+  -ms-transition: all var(--transitionquick);
+  -o-transition: all var(--transitionquick);
+  transition: all var(--transitionquick);
 }
 
 
@@ -973,11 +974,11 @@ background-color: var(--primary); font-weight: bold;}
     padding: 0 2rem;
     height: 36px;
     line-height: 36px;
-    -webkit-transition: all var(--transitionallquick);
-    -moz-transition: all var(--transitionallquick);
-    -ms-transition: all var(--transitionallquick);
-    -o-transition: all var(--transitionallquick);
-    transition: all var(--transitionallquick);
+    -webkit-transition: all var(--transitionquick);
+    -moz-transition: all var(--transitionquick);
+    -ms-transition: all var(--transitionquick);
+    -o-transition: all var(--transitionquick);
+    transition: all var(--transitionquick);
     color: var(--white);
     background-color: transparent;
     border: none;
@@ -987,11 +988,11 @@ background-color: var(--primary); font-weight: bold;}
   }
 
   .footer-menu > li > a:hover {
-    -webkit-transition: all var(--transitionallquick);
-    -moz-transition: all var(--transitionallquick);
-    -ms-transition: all var(--transitionallquick);
-    -o-transition: all var(--transitionallquick);
-    transition: all var(--transitionallquick);
+    -webkit-transition: all var(--transitionquick);
+    -moz-transition: all var(--transitionquick);
+    -ms-transition: all var(--transitionquick);
+    -o-transition: all var(--transitionquick);
+    transition: all var(--transitionquick);
     color: var(--white);
     background-color: var(--accent);
     border: none;
@@ -1000,11 +1001,11 @@ background-color: var(--primary); font-weight: bold;}
 
 
   .footer-menu > li.active-class > a, .footer-menu > li.current > a {
-    -webkit-transition: all var(--transitionallquick);
-    -moz-transition: all var(--transitionallquick);
-    -ms-transition: all var(--transitionallquick);
-    -o-transition: all var(--transitionallquick);
-    transition: all var(--transitionallquick);
+    -webkit-transition: all var(--transitionquick);
+    -moz-transition: all var(--transitionquick);
+    -ms-transition: all var(--transitionquick);
+    -o-transition: all var(--transitionquick);
+    transition: all var(--transitionquick);
     color: var(--accent);
     background-color: transparent;
     border: none;
@@ -1135,11 +1136,11 @@ gap: 5rem;}
   
   .Postimagehover img{width:100%}
   
-  .Postimagehover .image-overlay{position:absolute;top:0;left:0;width:100%;height:100%;background-color:rgba(0,0,0,.3);-webkit-transition:all var(--transitionallquick);-moz-transition:all var(--transitionallquick);-ms-transition:all var(--transitionallquick);-o-transition:all var(--transitionallquick);transition:all var(--transitionallquick);opacity:0;overflow:hidden}
+  .Postimagehover .image-overlay{position:absolute;top:0;left:0;width:100%;height:100%;background-color:rgba(0,0,0,.3);-webkit-transition:all var(--transitionquick);-moz-transition:all var(--transitionquick);-ms-transition:all var(--transitionquick);-o-transition:all var(--transitionquick);transition:all var(--transitionquick);opacity:0;overflow:hidden}
   
   .Postimagehover:hover .image-overlay{opacity:1;background-color:rgba(0,0,0,.3);}
   
-  .Postimagehover .image-overlay .overlay-icon{width:70px;height:70px;display:block;border-radius:50%;margin:-70px auto 0;opacity:0;-webkit-transition:all var(--transitionallquick);-moz-transition:all var(--transitionallquick);-ms-transition:all var(--transitionallquick);-o-transition:all var(--transitionallquick);transition:all var(--transitionallquick)}
+  .Postimagehover .image-overlay .overlay-icon{width:70px;height:70px;display:block;border-radius:50%;margin:-70px auto 0;opacity:0;-webkit-transition:all var(--transitionquick);-moz-transition:all var(--transitionquick);-ms-transition:all var(--transitionquick);-o-transition:all var(--transitionquick);transition:all var(--transitionquick)}
   .Postimagehover:hover .image-overlay .overlay-icon{opacity:1;margin:70px auto 0}
   .Postimagehover .image-overlay .overlay-icon img{width:70px;height:70px}
   
@@ -1169,10 +1170,10 @@ aspect-ratio: 450 / 270;
   }
   .NewsSummary:hover {
      box-shadow: 0 2px 8px #CFCFCF;
-     -webkit-transition: box-shadow var(--transitionallquick) ease-in-out;
-     -moz-transition: box-shadow var(--transitionallquick) ease-in-out;
-     -o-transition: box-shadow var(--transitionallquick) ease-in-out;
-     transition: box-shadow var(--transitionallquick) ease-in-out;
+     -webkit-transition: box-shadow var(--transitionquick) ease-in-out;
+     -moz-transition: box-shadow var(--transitionquick) ease-in-out;
+     -o-transition: box-shadow var(--transitionquick) ease-in-out;
+     transition: box-shadow var(--transitionquick) ease-in-out;
      border: 1px solid var(--primarydark);
   }
 
