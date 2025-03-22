@@ -5,6 +5,14 @@
 {% block content %}
 <main class="full-width-content">  
 {{ content | safe }}
+
+
+{% if page.url == "clients/our-work/" %}
+{% include "components/page-our-work.njk" %}
+
+{% endif %}
+
+
 </main>
 {% endblock %}
 
