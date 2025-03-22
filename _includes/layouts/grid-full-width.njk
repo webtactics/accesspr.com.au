@@ -4,13 +4,14 @@
 
 {% block content %}
 <main class="full-width-content">  
+    <div class="content">
 {{ content | safe }}
+</div>
 
 
-<div class="our-work content">
 {% set postslist = collections['Showcase']  %} 
 {% include "components/postslist-our-work-cover.njk" %}
-</div>
+
 
 
 
