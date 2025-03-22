@@ -222,7 +222,9 @@ padding:0;}
 .spacer40 {height: var(--navheight);}
 .spacer80 {height: calc(var(--navheight) * 2);}
 
-
+.full-width-content {
+  margin: 5rem auto;
+}
 
 .hero-black {
   width:100%;
