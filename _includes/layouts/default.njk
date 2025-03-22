@@ -22,9 +22,11 @@
 
 
 {% if page.url == "/clients/what-they-say/" %}
-{% include "components/what-they-say.njk" %}
-{% elif page.url == "/testimonials/" %}
-{% include "components/what-they-say.njk" %}
+{% include "components/page-what-they-say.njk" %}
+
+{% elif page.url == "clients/our-work/" %}
+{% include "components/page-our-work.njk" %}
+
 {% elif page.url == "/media-training/" %}
 {% include "components/what-they-say.njk" %}
 {% elif page.url == "/about/" %}

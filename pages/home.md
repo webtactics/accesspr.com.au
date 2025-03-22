@@ -1,5 +1,5 @@
 ---
-layout: layouts/home.njk
+layout: layouts/grid-home.njk
 title: Access PR is a leading independent communications agency, connecting people to places, experiences, brands and cultures.
 subtitle: Access PR is a leading independent communications agency, connecting people to places, experiences, brands and cultures.
 class: home
