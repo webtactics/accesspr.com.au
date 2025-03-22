@@ -12,6 +12,7 @@ image: /static/img/clients/our-work/Noël-Sydney.jpg
 imageAlt: Noël Sydney was a Christmas festival that transformed the Botanic Garden and Macquarie Street into a dazzling Christmas wonderland for 16 unforgettable nights in 2022.
 
 tags:
+  - Showcase
 
 
 
