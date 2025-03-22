@@ -108,11 +108,7 @@ a:hover {
 
 }
 
-a:not([class]) {
-	text-underline-offset: 0.25em;
-  text-decoration-thickness: 0.4rem;
-  text-decoration-color: var(--primarydark);
-}
+
 
 strong {
   font-weight: 700;
