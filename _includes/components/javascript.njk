@@ -3,3 +3,40 @@
 {% endset %}
 <script>{{ js | jsmin | safe }}</script>
 
+<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script src="https://webtactics.b-cdn.net/js/slick.min.js"></script>
+
+
+
+ <script>
+  $(document).ready(function(){
+      $('.client-class').slick({
+centerMode: true,
+autoplay: true,
+autoplaySpeed: 3000,
+centerPadding: '20px',
+slidesToShow: 5,
+responsive: [
+{
+breakpoint: 800,
+settings: {
+  arrows: false,
+  centerMode: true,
+  centerPadding: '40px',
+  slidesToShow: 3
+}
+},
+{
+breakpoint: 480,
+settings: {
+  arrows: false,
+  centerMode: true,
+  centerPadding: '60px',
+  slidesToShow: 1
+}
+}
+]
+      });
+  });
+</script>
