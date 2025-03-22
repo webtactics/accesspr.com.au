@@ -11,7 +11,7 @@ image:
 imageAlt: 
 
 tags:
-
+  - Slider
 
 
 Homepage: true

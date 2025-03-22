@@ -13,8 +13,7 @@ imageAlt: Noël Sydney was a Christmas festival that transformed the Botanic Gar
 
 tags:
   - Showcase
-
-
+  - Slider
 
 
 

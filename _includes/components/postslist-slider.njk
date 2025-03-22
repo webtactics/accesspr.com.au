@@ -1,0 +1,13 @@
+     <!-- items -->
+<div class="client-class">
+        {% for post in postslist %}
+    <div>
+        
+    <div class="homesliderbanner">
+        <a href="/clients/"><img src="https://ik.imagekit.io/webtactics/accesspr/{{ post.data.logo }}?tr=w-400,h-300" alt="{{ post.data.title }}" title="{{ post.data.title }}"></a>
+    </div>
+    
+    </div>
+   {% endfor %}
+</div>
+     <!-- end items -->

@@ -13,6 +13,7 @@ imageAlt: Horses leave the starters gates at the Birdsville Races
 
 tags:
   - Showcase
+  - Slider
 
 
 

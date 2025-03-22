@@ -12,7 +12,7 @@ imageAlt: Arelhe Urrperle a 6m tall puppet cast a striking impression at Parrtji
 
 tags:
   - Showcase
-
+  - Slider
 
 Homepage: true
 

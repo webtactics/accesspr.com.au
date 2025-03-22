@@ -12,7 +12,7 @@ imageAlt: Ethics Centre, a unique national not-for-profit organisation.
 
 tags:
   - Showcase
-
+  - Slider
 
 Homepage: true
 
