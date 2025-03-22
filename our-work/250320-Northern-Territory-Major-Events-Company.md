@@ -2,17 +2,18 @@
 title: Northern Territory Major Events Company (NTMEC) 
 Website: https://ntmajorevents.com.au/
 
+logo: /static/img/clients/logos/NTMEC-Logo.jpg
+
 date: 2025-03-20
 
 
-image: /static/img/our-work/NTMEC-Arelhe-Urrperle-a-6m-tall-puppet-cast-a-striking-impression-at-Parrtjima-as-she-glided-around-the-site.jpg
+image: /static/img/clients/our-work/NTMEC-Arelhe-Urrperle-a-6m-tall-puppet-cast-a-striking-impression-at-Parrtjima-as-she-glided-around-the-site.jpg
 imageAlt: Arelhe Urrperle a 6m tall puppet cast a striking impression at Parrtjima as she glided around the site
 
 tags:
-  - Our-Work
-  - Clients
 
 
+Homepage: true
 
 
 ---

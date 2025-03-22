@@ -3,9 +3,9 @@
     "permalink": "/clients/our-work/{{ title | slug }}/index.html",
     "class": "clients our-work",
     "tags": [
-      "clients",
-      "our-work",
-      "case-study"
+      "Clients",
+      "Our-Work",
+      "Case-Study"
     ]
   }
   
