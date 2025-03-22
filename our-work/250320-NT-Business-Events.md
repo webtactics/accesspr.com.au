@@ -11,7 +11,7 @@ image:
 imageAlt: 
 
 tags:
-  - Showcase
+
 
 
 Homepage: true
