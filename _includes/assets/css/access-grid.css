@@ -30,7 +30,7 @@
 --green: hsla(144, 80%, 22%, 1);
 
 --transitionall: 2s;
---transitionallquick: var(--transitionallquick);
+--transitionallquick: 0.6s;
 --navheight: 40px;
 }
 
