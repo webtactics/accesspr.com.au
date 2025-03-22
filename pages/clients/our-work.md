@@ -16,3 +16,12 @@ Our Work
     {% include 'components/page-our-work.njk' %}
   {% endif %}
 {% endfor %}
+
+
+
+{% for item in collections['our-work'] %}
+  {% if item.data.Homepage == true %}
+  Our Work 2
+    {% include 'components/page-our-work.njk' %}
+  {% endif %}
+{% endfor %}
