@@ -21,7 +21,7 @@
 {{ content | safe }}
 
 {% if page.url == "/clients/" %}
-{% include "components/page-what-they-say.njk" %}
+{% include "components/page-clients.njk" %}
 
 {% elif page.url == "/clients/our-work/" %}
 {% include "components/page-our-work.njk" %}
@@ -44,6 +44,7 @@
 
 
 {% if page.url == "/clients/our-work/" %}
+{% elif page.url == "/clients/" %}
 {% else %}
 {% include "components/global/slider.html" %}
 {% endif %}
