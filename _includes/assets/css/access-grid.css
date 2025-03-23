@@ -735,6 +735,25 @@ position: relative;
   -o-transition: all var(--transitionquick);
   transition: all var(--transitionquick);
 }
+.clients.our-work ul.main-menu > li > a {
+  padding: 0;
+  line-height: var(--navheight);
+  font-size: 1rem;
+  color: var(--white);
+  background-color: var(--black);
+text-decoration: none;
+text-transform: uppercase;
+font-weight: 400;
+cursor: pointer;
+display: block;
+position: relative;
+  -webkit-transition: all var(--transitionquick);
+  -moz-transition: all var(--transitionquick);
+  -ms-transition: all var(--transitionquick);
+  -o-transition: all var(--transitionquick);
+  transition: all var(--transitionquick);
+}
+
 
 ul.main-menu > li > a:hover {
     line-height: var(--navheight);
