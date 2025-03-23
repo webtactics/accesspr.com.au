@@ -1,5 +1,5 @@
 ---
-layout: layouts/grid-full-width.njk
+
 title: Our Work
 class: clients our-work
 description: Some of the work we have done, and success we have had.
