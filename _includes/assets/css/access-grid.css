@@ -736,7 +736,7 @@ position: relative;
   transition: all var(--transitionquick);
 }
 
-ul.main-menu > li > a:hover, ul.main-menu > li.active-class > a {
+ul.main-menu > li > a:hover {
     line-height: var(--navheight);
   color: var(--black);
   background-color: var(--white);
@@ -747,7 +747,17 @@ ul.main-menu > li > a:hover, ul.main-menu > li.active-class > a {
   -o-transition: all var(--transitionquick);
   transition: all var(--transitionquick);
 }
-
+ul.main-menu > li.active-class > a {
+  line-height: var(--navheight);
+color: var(--white);
+background-color: var(--black);
+text-transform: uppercase;
+-webkit-transition: all var(--transitionquick);
+-moz-transition: all var(--transitionquick);
+-ms-transition: all var(--transitionquick);
+-o-transition: all var(--transitionquick);
+transition: all var(--transitionquick);
+}
 
 
 
