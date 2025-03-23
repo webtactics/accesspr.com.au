@@ -759,7 +759,17 @@ text-transform: uppercase;
 transition: all var(--transitionquick);
 }
 
-
+.scrolled ul.main-menu > li.active-class > a {
+  line-height: var(--navheight);
+  color: var(--black);
+  background-color: var(--white);
+text-transform: uppercase;
+-webkit-transition: all var(--transitionquick);
+-moz-transition: all var(--transitionquick);
+-ms-transition: all var(--transitionquick);
+-o-transition: all var(--transitionquick);
+transition: all var(--transitionquick);
+}
 
 /* Second level nav */
 ul.main-menu li ul.second-level {
