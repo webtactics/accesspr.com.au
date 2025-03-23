@@ -20,10 +20,10 @@
 <main class="content">  
 {{ content | safe }}
 
-{% elif page.url == "/clients/" %}
+{% if page.url == "/clients/" %}
 {% include "components/page-what-they-say.njk" %}
 
-{% if page.url == "/clients/what-they-say/" %}
+{% elif page.url == "/clients/what-they-say/" %}
 {% include "components/page-what-they-say.njk" %}
 
 
