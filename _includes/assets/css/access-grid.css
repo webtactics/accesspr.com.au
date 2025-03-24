@@ -1526,15 +1526,12 @@ ul  li.taggs a:hover, ul  li.taggs  a:focus {
 
 
      button.slick-prev.slick-arrow {
-      display: flex;
+      display: inline-block;
       height: var(--navheight);
       width: var(--navheight);
-      line-height: var(--navheight);
-      justify-content: center;
-      align-items: center;
       cursor: pointer;
       padding: 0;
-
+      border: none;
       background: url(https://accesspr.netlify.app/static/img/assets/svg/arrow-40-64.svg);
       background-repeat: no-repeat;
       background-size: auto;
