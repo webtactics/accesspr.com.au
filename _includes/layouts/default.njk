@@ -43,8 +43,7 @@
 </main>
 
 
-{% if page.url == "/clients/our-work/" %}
-{% elif page.url == "/clients/" %}
+{% if page.url == "/clients/our-work/" or "/clients/" %}
 {% else %}
 {% include "components/global/slider.html" %}
 {% endif %}
