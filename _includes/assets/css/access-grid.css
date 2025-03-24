@@ -1554,7 +1554,15 @@ ul  li.taggs a:hover, ul  li.taggs  a:focus {
 
 
 
-
+    button.slick-prev.slick-arrow,  button.slick-next.slick-arrow {
+      display: inline-block;
+      height: 45px;
+      width: 45px;
+      cursor: pointer;
+      padding: 0;
+      border: none;
+      color:transparent;
+    }
 
 
 
