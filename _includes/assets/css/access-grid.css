@@ -1544,10 +1544,8 @@ ul  li.taggs a:hover, ul  li.taggs  a:focus {
       background-repeat: no-repeat;
       background-size: auto;}
 
-      button.slick-prev.slick-arrow:hover svg {
-
-       
-          color: var(--accent);
+      button.slick-prev.slick-arrow:hover {
+color: var(--accent);
           background-color: var(--accent);
           -webkit-transition: all var(--transitionquick);
           -moz-transition: all var(--transitionquick);
