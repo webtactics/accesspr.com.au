@@ -1548,6 +1548,7 @@ ul  li.taggs a:hover, ul  li.taggs  a:focus {
 
        
           color: var(--accent);
+          background-color: var(--accent);
           -webkit-transition: all var(--transitionquick);
           -moz-transition: all var(--transitionquick);
           -ms-transition: all var(--transitionquick);
