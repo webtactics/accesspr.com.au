@@ -1528,6 +1528,7 @@ ul  li.taggs a:hover, ul  li.taggs  a:focus {
      button.slick-prev.slick-arrow {
       display: flex;
       height: var(--navheight);
+      width: var(--navheight);
       line-height: var(--navheight);
       justify-content: center;
       align-items: center;
