@@ -1523,7 +1523,24 @@ ul  li.taggs a:hover, ul  li.taggs  a:focus {
      opacity: 1;}
   
   
+     .slick-arrow.slick-prev {
+      display: inline-block;
+      cursor: pointer;
+      padding: 0;
+      border: none;
+      color:transparent;
+      background-color: var(--white);
+    }
 
+
+ .slick-arrow.slick-next {
+      display: inline-block;
+      cursor: pointer;
+      padding: 0;
+      border: none;
+      color:transparent;
+      background-color: var(--white);
+    }
 
 
      .slick-arrow-text::before {
@@ -1553,27 +1570,10 @@ ul  li.taggs a:hover, ul  li.taggs  a:focus {
       left: 0.25em;
       transform: rotate(-135deg);
     }
+    .slick-arrow.slick-next:hover   .slick-arrow-text.next:before { color: var(--accent);}
 
 
 
- .slick-arrow.slick-prev {
-      display: inline-block;
-      cursor: pointer;
-      padding: 0;
-      border: none;
-      color:transparent;
-      background-color: var(--white);
-    }
-
-
- .slick-arrow.slick-next {
-      display: inline-block;
-      cursor: pointer;
-      padding: 0;
-      border: none;
-      color:transparent;
-      background-color: var(--white);
-    }
 
   
  
