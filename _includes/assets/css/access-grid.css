@@ -226,9 +226,8 @@ padding:0;}
 }
 
 .content1600 {
-  margin: 5rem auto;
+  margin: 10rem auto;
   padding:  0;
-  z-index: 2;
   width: calc(100vw - 2rem);
   max-width: 1600px;
   background-color: var(--white);
