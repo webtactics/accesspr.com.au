@@ -1532,8 +1532,9 @@ ul  li.taggs a:hover, ul  li.taggs  a:focus {
       justify-content: center;
       align-items: center;
       cursor: pointer;
-      padding: 0 0 0 1rem;
-      background-image: /static/img/assets/arrow-64.svg;
-      background-color: var(--white);
+      padding: 0;
+      background-image: url("/static/img/assets/arrow-64.svg");
+
+      background: var(--white);
       
     }
