@@ -1533,7 +1533,7 @@ ul  li.taggs a:hover, ul  li.taggs  a:focus {
       align-items: center;
       cursor: pointer;
       padding: 0;
-      background-image: url("/static/img/assets/svg/arrow-64.svg");
+      background-image: url("https://accesspr.netlify.app/static/img/assets/svg/arrow-64.svg");
       background: var(--white);
       font-size: 0;
       color:transparent;
