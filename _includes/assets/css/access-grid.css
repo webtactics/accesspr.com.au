@@ -97,13 +97,14 @@ a {
   color: var(--textactive);
   text-decoration: none;
   cursor: pointer;
+  border-bottom: 2px dotted var(--accent);
  }
 
 
 
 a:hover {
   color: var(--texthover);
-  border: none;
+  border-bottom: 2px solid var(--accent);
   text-decoration: none;
 
 }
@@ -119,7 +120,7 @@ p a {
   color: var(--textactive);
   text-decoration: none;
   cursor: pointer;
-  border-bottom: 1px dotted var(--texthoverborder);
+  border-bottom: 2px dotted var(--texthoverborder);
   transition: all var(--transitionquick) ease-in-out;
 
 }
