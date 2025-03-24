@@ -1538,7 +1538,7 @@ ul  li.taggs a:hover, ul  li.taggs  a:focus {
       top: 0.15rem;
       transform: rotate(-45deg);
       vertical-align: top;
-      color: var(--accent);
+      color: var(--black);
     }
     
 
@@ -1557,23 +1557,21 @@ ul  li.taggs a:hover, ul  li.taggs  a:focus {
 
     button.slick-prev.slick-arrow {
       display: inline-block;
-      height: 45px;
-      width: 45px;
       cursor: pointer;
       padding: 0;
       border: none;
       color:transparent;
+      background-color: var(--white);
     }
 
 
     button.slick-next.slick-arrow {
       display: inline-block;
-      height: 45px;
-      width: 45px;
       cursor: pointer;
       padding: 0;
       border: none;
       color:transparent;
+      background-color: var(--white);
     }
 
 
