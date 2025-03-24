@@ -95,19 +95,18 @@ a img {border: 0;}
 a {
   line-height: inherit;
   color: var(--textactive);
+  border: none;
   text-decoration: none;
   cursor: pointer;
-  border-bottom: 3px dotted var(--texthoverborder);
-  transition: all var(--transitionquick) ease-in-out;
+
  }
 
 
 
 a:hover {
-  color: var(--texthover);
-  border-bottom: 3px solid var(--texthoverborder);
-  transition: all var(--transitionquick) ease-in-out;
-  text-decoration: none;
+color: var(--texthover);
+border: none;
+text-decoration: none;
 
 }
 
