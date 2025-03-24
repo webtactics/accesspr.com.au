@@ -1555,7 +1555,7 @@ ul  li.taggs a:hover, ul  li.taggs  a:focus {
 
 
 
-    button.slick-prev.slick-arrow {
+ .slick-prev.slick-arrow {
       display: inline-block;
       cursor: pointer;
       padding: 0;
@@ -1565,7 +1565,7 @@ ul  li.taggs a:hover, ul  li.taggs  a:focus {
     }
 
 
-    button.slick-next.slick-arrow {
+ .slick-next.slick-arrow {
       display: inline-block;
       cursor: pointer;
       padding: 0;
@@ -1574,8 +1574,8 @@ ul  li.taggs a:hover, ul  li.taggs  a:focus {
       background-color: var(--white);
     }
 
-
-
+    .slick-arrow-text {font-size: 0;color:transparent;}
+ 
 
 
 
