@@ -1547,11 +1547,11 @@ ul  li.taggs a:hover, ul  li.taggs  a:focus {
       border-width: 0.5rem 0.5rem 0 0;
       content: '';
       display: inline-block;
-      height: 2rem;
-      width: 2rem;
-      left: 0.15rem;
+      height: 1.6rem;
+      width: 1.6rem;
+      left: 0;
       position: relative;
-      top: 0.15rem;
+      top: 0;
       transform: rotate(-45deg);
       vertical-align: top;
       color: var(--black);
