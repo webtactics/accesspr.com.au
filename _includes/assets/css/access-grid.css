@@ -1523,9 +1523,17 @@ ul  li.taggs a:hover, ul  li.taggs  a:focus {
      opacity: 1;}
   
   
+
+
      button.slick-prev.slick-arrow {
-display: inline-block;
-color: var(--white);
-background-color: var(--accent);
-cursor:pointer;
-     }
+      display: flex;
+      height: var(--navheight);
+      line-height: var(--navheight);
+      justify-content: center;
+      align-items: center;
+      cursor: pointer;
+      padding: 0 0 0 1rem;
+      background-image: /static/img/assets/arrow-64.svg;
+      background-color: var(--white);
+      
+    }
