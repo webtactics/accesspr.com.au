@@ -921,8 +921,8 @@ ul.footer-menu > li > a:hover {
 }
 ul.footer-menu > li.active-class > a {
   line-height: var(--navheight);
-color: var(--white);
-background-color: var(--black);
+  color: var(--black);
+  background-color: var(--white);
 text-transform: uppercase;
 -webkit-transition: all var(--transitionquick);
 -moz-transition: all var(--transitionquick);
