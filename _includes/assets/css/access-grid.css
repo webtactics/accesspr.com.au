@@ -263,10 +263,10 @@ font-size: calc(1.2rem + 1vw);
  }
 
  @media only screen and (max-width: 1400px) { 
-  .caption-text h1 { font-size: calc(1.3rem + 1vw); }
+  .caption-text h1 { font-size: calc(1.4rem + 1vw); }
   }
   @media only screen and (max-width: 800px) { 
-    .caption-text h1 { font-size: calc(1.4rem + 1vw); }
+    .caption-text h1 { font-size: calc(1.5rem + 1vw); }
     }
 
 .hero {
