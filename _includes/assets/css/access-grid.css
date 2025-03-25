@@ -423,7 +423,7 @@ font-size: calc(1.2rem + 1vw);
 
   
 
-@media screen and (min-width: 1025px) {
+@media screen and (min-width: 1080px) {
 
     .logo img {max-width:200px;aspect-ratio: 200 / 40;
 
@@ -463,7 +463,7 @@ font-size: calc(1.2rem + 1vw);
     -o-transition: all var(--transitionquick);
     transition: all var(--transitionquick);
       }
-@media screen and (max-width: 1025px) {
+@media screen and (max-width: 1080px) {
 .navwrapper, .socialwrapper {
 display: none;
 }
@@ -485,7 +485,7 @@ display: none;
   z-index: 5;
 }
 
-@media screen and (max-width: 1025px) {
+@media screen and (max-width: 1080px) {
 .offcanvas {
   position: fixed;
   top: 0;
@@ -570,9 +570,10 @@ span.title-bar-title {display:block;text-indent:34px;padding:0;}
 .navwrapper { margin: 0 0 0 auto;
 min-width: 1000px;}
 
-
-
-
+@media screen and (max-width: 1080px) {
+  .navwrapper { margin: 0 0 0 auto;
+    min-width: 400px;}
+  }
 
 .button {
   background-color: var(--primary);
@@ -1181,7 +1182,7 @@ text-align: left;
 }
 
 
-@media (min-width: 1025px) {
+@media (min-width: 1080px) {
 .grid-3-columns {
   grid-template-columns: repeat(3, 1fr);
   gap: 3rem;
