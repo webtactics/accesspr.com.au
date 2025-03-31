@@ -18,6 +18,7 @@
 --white50: hsla(0,0%,100%,0.5);
 --white80: hsla(0,0%,100%,0.8);
 --lightgrey: hsl(240, 1%, 72%);
+--greyeb: #ebebeb;
 --darkgrey: hsl(240, 1%, 36%);
 --darkergrey: hsl(240, 1%, 18%);
 --red: #D90000;
@@ -1293,7 +1294,7 @@ aspect-ratio: 450 / 270;
     margin: 0;
      padding: 1rem;
      background-color: var(--white);
-     border: 1px solid var(--lightgrey);
+     border: 1px solid var(--greyeb);
   }
   .NewsSummary:hover {
      box-shadow: 0 2px 8px #CFCFCF;
