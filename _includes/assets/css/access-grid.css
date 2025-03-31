@@ -1150,7 +1150,7 @@ background-color: var(--primary); font-weight: bold;}
   }
 
 
-.footer {
+.footerlow {
   background-color: var(--mattblack);
   padding: 1rem 0;
   z-index: 4;
