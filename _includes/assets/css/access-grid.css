@@ -672,15 +672,10 @@ background-color: var(--black);
 
 .footer.topbar {
   position:relative;
-  background-color: var(--white);
+  background-color: var(--black);
   width: 100%;
   padding: 0;
   z-index: 3;
-  -webkit-transition: all var(--transitionslow);
-  -moz-transition: all var(--transitionslow);
-  -ms-transition: all var(--transitionslow);
-  -o-transition: all var(--transitionslow);
-  transition: all var(--transitionslow);
 
 }
 
