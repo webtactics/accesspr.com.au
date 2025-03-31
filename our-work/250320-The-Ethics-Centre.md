@@ -13,8 +13,11 @@ imageAlt: Ethics Centre, a unique national not-for-profit organisation.
 tags:
   - Showcase
   - Slider
+  - Clients
 
 Homepage: true
+
+description: Access first began working for The Ethics Centre, a unique national not-for-profit organisation that brings ethics into everyday life, for its annual Festival of Dangerous Ideas (FODI).
 
 
 ---

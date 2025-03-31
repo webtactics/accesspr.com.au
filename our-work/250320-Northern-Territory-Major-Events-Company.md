@@ -13,8 +13,11 @@ imageAlt: Arelhe Urrperle a 6m tall puppet cast a striking impression at Parrtji
 tags:
   - Showcase
   - Slider
+  - Clients
 
 Homepage: true
+
+description: Access was first engaged by Northern Territory Major Events (NTMEC) in 2016 to manage PR for the internationally acclaimed Aboriginal light festival, Parrtjima – A Festival in Light.
 
 
 ---

@@ -14,8 +14,9 @@ imageAlt: Horses leave the starters gates at the Birdsville Races
 tags:
   - Showcase
   - Slider
+  - Clients
 
-
+description: The Access team have expertly managed PR for iconic outback Queensland event, the Birdsville Races, since 2016. When we were first engaged, the Birdsville Races received around 100 media stories annually, with no formal PR program in place. Fast forward almost a decade, and the races now attract around 7,000 attendees each September and generate thousands of pieces of coverage across national and international media.
 
 
 ---
