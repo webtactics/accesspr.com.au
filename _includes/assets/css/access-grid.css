@@ -1290,7 +1290,7 @@ aspect-ratio: 450 / 270;
 
   
   .NewsSummary {
-    margin: 0 0 2rem 0;
+    margin: 0;
      padding: 1rem;
      background-color: var(--white);
      border: 1px solid var(--lightgrey);
