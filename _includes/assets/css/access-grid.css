@@ -627,6 +627,8 @@ button.success, .button.success {
   -ms-transition: all var(--transitionslow);
   -o-transition: all var(--transitionslow);
   transition: all var(--transitionslow);
+  width:100%;
+  text-align: center;
 }
 button.success:hover, button.success:focus, .button.success:hover, .button.success:focus {
   background-color: var(--black);
@@ -1347,7 +1349,7 @@ aspect-ratio: 450 / 270;
 
  
   .postsumsummary {color:var(--text);padding:0.5rem 0;min-height:125px;font-size:1rem;}
-  .newssumbutton {margin:0 0 1rem 0;}
+  .newssumbutton {margin:0 0 1rem 0;width:100%;}
     
 
 .grid-detailpage-sidebar-summary {padding-bottom: 2rem;}
