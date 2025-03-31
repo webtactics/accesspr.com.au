@@ -19,7 +19,7 @@
 
 
 <div class="postsumsummary">
-{% if post.data.description %}<p>{{ post.data.description }}</p>{% endif %}
+{% if post.data.description %}<p>{{ post.data.description }}</p>{% else %}{{ data.content }}{% endif %}
 </div>
 
 <div class="right newssumbutton">
