@@ -898,7 +898,7 @@ ul.footer-menu > li > a {
   padding: 0;
   line-height: var(--navheight);
   font-size: 1rem;
-  color: var(--black);
+  color: var(--white);
   background-color: transparent;
 text-decoration: none;
 text-transform: uppercase;
@@ -913,14 +913,7 @@ position: relative;
   transition: all var(--transitionquick);
 }
 
-.scrolled ul.footer-menu > li > a {  
-  color: var(--white);
-  -webkit-transition: all var(--transitionquick);
-  -moz-transition: all var(--transitionquick);
-  -ms-transition: all var(--transitionquick);
-  -o-transition: all var(--transitionquick);
-  transition: all var(--transitionquick);
-}
+
 
 
 
