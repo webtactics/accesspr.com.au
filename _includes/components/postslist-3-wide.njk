@@ -22,7 +22,7 @@
 {% if post.data.description %}<p class="postsumhome">{{ post.data.description }}</p>{% else %}<p class="postsumhome">{{ post.content | safe }}</p>{% endif %}
 </div>
 
-<div class="right newssumbutton">
+<div class="newssumbutton">
 <a class="button success" role="button" title="{{ post.data.title }}" href="{{ post.url | url }}">Read more &gt;</a>
 </div>
 
