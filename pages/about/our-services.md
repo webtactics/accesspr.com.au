@@ -1,5 +1,5 @@
 ---
-layout: layouts/grid-one-column.njk
+layout: layouts/default.njk
 title: Our Services
 class: about services
 description: Our Services
