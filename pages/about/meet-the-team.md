@@ -8,7 +8,7 @@ permalink: /about/meet-the-team/
 eleventyNavigation:
   key: Meet The Team
   parent: About Us
-  order: 1
+  order: 2
 ---
 ### Like many sporting clubs, we could not function without our volunteers.
 
