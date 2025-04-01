@@ -1295,13 +1295,17 @@ aspect-ratio: 450 / 270;
      padding: 1rem;
      background-color: var(--white);
      border: 1px solid var(--greyeb);
+     -webkit-transition: all var(--transition1s) ease-in-out;
+     -moz-transition: all var(--transition1s) ease-in-out;
+     -o-transition: all var(--transition1s) ease-in-out;
+     transition: all var(--transition1s) ease-in-out;
   }
   .NewsSummary:hover {
      box-shadow: 0 2px 8px #CFCFCF;
-     -webkit-transition: box-shadow var(--transitionquick) ease-in-out;
-     -moz-transition: box-shadow var(--transitionquick) ease-in-out;
-     -o-transition: box-shadow var(--transitionquick) ease-in-out;
-     transition: box-shadow var(--transitionquick) ease-in-out;
+     -webkit-transition: all var(--transition1s) ease-in-out;
+     -moz-transition: all var(--transition1s) ease-in-out;
+     -o-transition: all var(--transition1s) ease-in-out;
+     transition: all var(--transition1s) ease-in-out;
      border: 1px solid var(--black);
   }
 
