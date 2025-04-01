@@ -1,5 +1,5 @@
 ---
-layout: layouts/default.njk
+layout: layouts/grid-tagtop.njk
 title: Who We Are
 description: Access launched as a start up in 2008 and since then has become one of the industry’s most respected independent communications and PR agencies.
 section: about
@@ -11,14 +11,17 @@ metadata:
 eleventyNavigation:
   key: About Us
   order: 1
+
+
+tagtop: Independent, connected, and experienced, Access PR has been shaping the success of iconic brands, destinations, events and organisations since 2008.
 ---
 
 
 
 
-<h2>Independent, connected, and experienced, Access PR has been shaping the success of iconic brands, destinations, events and organisations since 2008.</h2>
 
-<p class="largetext">Our consumer, corporate and creative services expertise crafts stories and strategies that captivate, influence and inspire.</p>
+
+<p class="text150">Our consumer, corporate and creative services expertise crafts stories and strategies that captivate, influence and inspire.</p>
 
 <h3>We deliver headline-grabbing campaigns that drive powerful media moments and exceptional results.</h3>
 
