@@ -16,11 +16,11 @@ eleventyNavigation:
 
 
 
-**Independent, connected, and experienced, Access PR has been shaping the success of iconic brands, destinations, events and organisations since 2008.**
+<h2>Independent, connected, and experienced, Access PR has been shaping the success of iconic brands, destinations, events and organisations since 2008.</h2>
 
-Our consumer, corporate and creative services expertise crafts stories and strategies that captivate, influence and inspire.
+<p class="largetext">Our consumer, corporate and creative services expertise crafts stories and strategies that captivate, influence and inspire.</p>
 
-We deliver headline-grabbing campaigns that drive powerful media moments and exceptional results.
+<h3>We deliver headline-grabbing campaigns that drive powerful media moments and exceptional results.</h3>
 
 Our corporate and strategic communications, reputation management, media training and crisis management skills help organisations –  from start-ups to governments – develop trust, engage stakeholders and drive results. 
 
