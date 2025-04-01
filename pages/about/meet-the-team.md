@@ -1,5 +1,5 @@
 ---
-
+layout: layouts/grid-one-column.njk
 title: Access Senior Team
 class: about team
 description: Access Senior Team

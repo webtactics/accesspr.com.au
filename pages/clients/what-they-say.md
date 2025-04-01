@@ -1,5 +1,5 @@
 ---
-
+layout: layouts/grid-one-column.njk
 title: What They Say
 class: clients what-they-say
 description: Access Senior Team
