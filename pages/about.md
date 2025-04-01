@@ -16,7 +16,7 @@ eleventyNavigation:
 
 
 
-Independent, connected, and experienced, Access PR has been shaping the success of iconic brands, destinations, events and organisations since 2008.
+**Independent, connected, and experienced, Access PR has been shaping the success of iconic brands, destinations, events and organisations since 2008.**
 
 Our consumer, corporate and creative services expertise crafts stories and strategies that captivate, influence and inspire.
 
