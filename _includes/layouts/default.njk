@@ -20,38 +20,17 @@
 <main class="content">  
     <div class="grid-2-columns-2x1">
 
-        <div class="detailwrapper">
+        <div class="contentwrapper">
             {{ content | safe }}
-
-{% if page.url == "/clients/" %}
-{% include "components/page-clients.njk" %}
-
-{% elif page.url == "/clients/our-work/" %}
-{% include "components/page-our-work.njk" %}
-
-{% elif page.url == "/clients/what-they-say/" %}
-{% include "components/page-what-they-say.njk" %}
-
-
-
-{% elif page.url == "/media-training/" %}
-{% include "components/page-what-they-say.njk" %}
-{% elif page.url == "/about/" %}
-{% include "components/page-what-they-say.njk" %}
-{% else %}
-{% endif %}
-
-
-
         </div>
 
-    <div class="sidebarwrapper">
-        <aside>
+        <div class="sidebarwrapper">
+          <aside>
             <h3>Our Work:</h3>
             {% set postslist = collections['Our-Work'] | reverse | limit (4) %} 
             {% include "components/postslist-sidebar.njk" %}
-        </aside>
-    </div>
+          </aside>
+        </div>
 
     </div>
 </main>
