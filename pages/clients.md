@@ -1,5 +1,5 @@
 ---
-layout: layouts/default.njk
+layout: layouts/grid-one-column.njk
 title: Clients
 class: clients
 description: How to contact James Taylor Bathurst Solictor
