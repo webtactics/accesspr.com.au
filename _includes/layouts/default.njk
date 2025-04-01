@@ -14,11 +14,14 @@
 
 
 <div class="container">
-   
-{% block content %}
 
+
+{% block content %} 
 <main class="content">  
-{{ content | safe }}
+    <div class="grid-2-columns-2x1">
+
+        <div class="detailwrapper">
+            {{ content | safe }}
 
 {% if page.url == "/clients/" %}
 {% include "components/page-clients.njk" %}
@@ -39,17 +42,20 @@
 {% endif %}
 
 
+
+        </div>
+
+    <div class="sidebarwrapper">
+        <aside>
+            <h3>Our Work:</h3>
+            {% set postslist = collections['Our-Work'] | reverse | limit(5) %}
+            {% include "components/postslist-sidebar.njk" %}
+        </aside>
+    </div>
+
+    </div>
 </main>
-
-{% if page.url == "/clients/" %}
-{% elif page.url == "/clients/our-work/"  %}
-{% else %}
-{% include "components/global/slider.html" %}
-{% endif %}
-
-
 {% endblock %}
-
 
 
 
@@ -60,16 +66,16 @@
 
 <footer id="footer" class="footer topbar headerwrapper">
 
-    <div class="hamburger"></div>
+    <div class="hamburger hide"></div>
 
-    <div class="logo"></div>
+    <div class="logo hide"></div>
 
     <div class="navwrapper">
       {% include "components/nav-footer.njk" %}
     </div>
 
 
-    <div class="socialwrapper"></div>
+    <div class="socialwrapper hide"></div>
 </footer>
 
 
