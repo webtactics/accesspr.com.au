@@ -29,4 +29,4 @@ Our corporate and strategic communications, reputation management, media trainin
 
 We are passionate about Aboriginal and Torres Strait Islander storytelling, and this sits at the heart of most of our work. Whether it’s across culture, creativity or business, we amplify First Nations’ voices to raise awareness and understanding, spark conversations and unlock opportunities.
 
-We reach the right people, with the right message, through the right channels, at the right time.
+<h3>We reach the right people, with the right message, through the right channels, at the right time.</h3>
