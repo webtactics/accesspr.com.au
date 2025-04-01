@@ -16,12 +16,14 @@ eleventyNavigation:
 
 
 
-Access launched as a start up in 2008 and since then has become one of the industry’s most respected independent communications and PR agencies. 
+Independent, connected, and experienced, Access PR has been shaping the success of iconic brands, destinations, events and organisations since 2008.
 
-Much of our work focuses on helping grow understanding and awareness of Indigenous cultures, enterprises and communities. 
+Our consumer, corporate and creative services expertise crafts stories and strategies that captivate, influence and inspire.
 
-We have two distinct, but connected, divisions: Consumer PR and Corporate Communications. 
+We deliver headline-grabbing campaigns that drive powerful media moments and exceptional results.
 
-Our consumer publicity campaigns inspire people to go places. Whether it’s travel destinations, major events, community festivals or creative activations.  
+Our corporate and strategic communications, reputation management, media training and crisis management skills help organisations –  from start-ups to governments – develop trust, engage stakeholders and drive results. 
 
-Our corporate work helps purpose-driven organisations and government bodies through strategic communications, media relations, stakeholder engagement, reputation management, positioning and media training.
+We are passionate about Aboriginal and Torres Strait Islander storytelling, and this sits at the heart of most of our work. Whether it’s across culture, creativity or business, we amplify First Nations’ voices to raise awareness and understanding, spark conversations and unlock opportunities.
+
+We reach the right people, with the right message, through the right channels, at the right time.
