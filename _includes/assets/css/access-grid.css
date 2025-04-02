@@ -1005,6 +1005,8 @@ transition: all var(--transitionquick);
     width: 100%;
   }
 
+  ul.footer-menu>li>a {  width: 100%;}
+
 .footer-menu > li > a {
   padding: 0 2rem;
   height: auto;
