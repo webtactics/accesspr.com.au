@@ -987,7 +987,7 @@ transition: all var(--transitionquick);
     display: block;
     margin: 0;
     width: 100%;
-    min-width: 100px;
+    min-width: 100%;
 
   }
 
