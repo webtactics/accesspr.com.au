@@ -997,6 +997,7 @@ transition: all var(--transitionquick);
     grid-template-columns: 1fr;
     justify-content: center;
     align-items: center;
+    width: 100%;
   }
   ul.footer-menu li {
     list-style: none;
