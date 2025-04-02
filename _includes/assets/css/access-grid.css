@@ -987,6 +987,7 @@ transition: all var(--transitionquick);
     display: block;
     margin: 0;
     width: 100%;
+    min-width: 100px;
 
   }
 
@@ -1001,12 +1002,14 @@ transition: all var(--transitionquick);
     list-style: none;
     display: inline-block;
     padding: 0;
+    width: 100%;
   }
 
 .footer-menu > li > a {
   padding: 0 2rem;
   height: auto;
   border-bottom:1px solid var(--lightgrey);
+  width: 100%;
 }
 .footer-menu > li > a:hover{
 padding: 0 2rem;
