@@ -979,6 +979,10 @@ transition: all var(--transitionquick);
 
 @media (max-width: 1099px) {
 
+  .footer.topbar .hamburger,  .footer.topbar .logo {
+    display: none;
+  }
+
   .footer.topbar .navwrapper {
     display: block;
   }
