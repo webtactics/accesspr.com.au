@@ -270,10 +270,12 @@ padding:0;}
 .caption-text { 
   width: calc(100vw - 2rem);
   max-width: 1280px;
-padding: 0 1rem;
+padding: 0 2rem;
 margin:0 auto;  
 position: relative;
-display: flex;justify-content: start;align-items: center;
+display: flex;
+justify-content: flex-start;
+align-items: center;
 text-align: left;
 }
 
