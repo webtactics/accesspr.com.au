@@ -464,6 +464,12 @@ font-size: calc(1.2rem + 1vw);
       .logo { grid-area: logo; }
       .navwrapper { grid-area: navwrapper;}
       .socialwrapper { grid-area: socialwrapper; }
+
+
+      .foothamburger { grid-area: foothamburger; }
+      .footlogo { grid-area: footlogo; }
+      .footnavwrapper { grid-area: footnavwrapper;}
+      .footsocialwrapper { grid-area: footsocialwrapper; }
       
         
       .close, .closed {
