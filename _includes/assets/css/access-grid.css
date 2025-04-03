@@ -1022,7 +1022,7 @@ padding: 0 2rem;
 
 
 .footer-menu > li:last-child  > a {
-  padding: 0 2rem;
+  padding: 0 6rem;
   height: auto;
   border-bottom:1px solid transparent;
 }
