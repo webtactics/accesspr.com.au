@@ -1212,7 +1212,8 @@ background-color: var(--primary); font-weight: bold;}
 .footerlow {
   background-color: var(--mattblack);
   padding: 1rem 0;
-  z-index: 4;
+  z-index: 2;
+  position: relative;
 }
 .footerwrap {
   width: calc(100vw - 2rem);
