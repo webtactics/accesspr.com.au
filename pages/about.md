@@ -27,6 +27,8 @@ Our consumer, corporate and creative services expertise crafts stories and strat
 
 Our corporate and strategic communications, reputation management, media training and crisis management skills help organisations –  from start-ups to governments – develop trust, engage stakeholders and drive results. 
 
-We are passionate about Aboriginal and Torres Strait Islander storytelling, and this sits at the heart of most of our work. Whether it’s across culture, creativity or business, we amplify First Nations’ voices to raise awareness and understanding, spark conversations and unlock opportunities.
+We are passionate about Aboriginal and Torres Strait Islander storytelling, and this sits at the heart of most of our work. 
+
+Whether it’s across culture, creativity or business, we amplify First Nations’ voices to raise awareness and understanding, spark conversations and unlock opportunities.
 
 ### We reach the right people, with the right message, through the right channels, at the right time. ###
