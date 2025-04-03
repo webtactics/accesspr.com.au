@@ -984,7 +984,7 @@ transition: all var(--transitionquick);
   }
 
   .footer.topbar .navwrapper {
-    display: block;
+    display: grid;
     margin: 0;
     width: 100%;
     min-width: 100%;
@@ -1009,20 +1009,20 @@ transition: all var(--transitionquick);
   ul.footer-menu>li>a {  width: 100%;}
 
 .footer-menu > li > a {
-  padding: 0 2rem;
+  padding: 0;
   height: auto;
   border-bottom:1px solid var(--lightgrey);
   width: 100%;
 }
 .footer-menu > li > a:hover{
-padding: 0 2rem;
+padding: 0;
   height: auto;
   border-bottom:1px solid var(--accent);
 }
 
 
 .footer-menu > li:last-child  > a {
-  padding: 0 2rem;
+  padding: 0;
   width: 100%;
   height: auto;
   border-bottom:1px solid transparent;
