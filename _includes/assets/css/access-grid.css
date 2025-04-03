@@ -418,6 +418,14 @@ font-size: calc(1.2rem + 1vw);
             grid-template-rows: var(--navheight);
    }  
 
+   .footerwrapper {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "navwrapper";
+      grid-template-rows: var(--navheight);
+}  
+
    @media only screen and (min-width: 769px) {  
     .headerwrapper {
     display: grid;
