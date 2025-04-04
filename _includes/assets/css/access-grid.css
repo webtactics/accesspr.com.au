@@ -1673,7 +1673,8 @@ ul  li.taggs a:hover, ul  li.taggs  a:focus {
       
           transition: box-shadow 0.2s ease-in-out;
       
-          border: 1px solid var(--white);}
+          border: 1px solid var(--white);
+        border-radius: 50%;}
       
       .imagebox:hover {
       
@@ -1689,7 +1690,7 @@ ul  li.taggs a:hover, ul  li.taggs  a:focus {
       
           border: 1px solid var(--greyeb);
       
-      }
+          border-radius: 50%;}
 
 
 .contentwrapper ul {
