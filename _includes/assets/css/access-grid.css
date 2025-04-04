@@ -1303,7 +1303,7 @@ text-align: left;
 
 .grid-2-columns-2x1 {
 grid-template-columns: 2fr 1fr;
-gap: 5rem;}
+gap: 6rem;}
 
 @media (max-width: 1024px) {
   .grid-2-columns-2x1 {
