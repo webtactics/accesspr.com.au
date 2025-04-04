@@ -1415,9 +1415,9 @@ aspect-ratio: 450 / 270;
   display: Flex;
   justify-content: flex-end;
   align-items: center;
-  padding-left: 1rem;
+  padding: 0;
   margin: 0;
-  border-left: 0.6rem solid var(--black);
+ 
   min-height: 7rem;}
 
 .detailpage-sidebar-summary-content-wrapper  {
