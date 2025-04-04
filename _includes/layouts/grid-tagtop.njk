@@ -11,12 +11,18 @@
 
         <div class="contentwrapper">
             {{ content | safe }}
+
+
+{% if page.url == "/about/meet-the-team/" %}
+{% include "components/page-meet-the-team.njk" %}
+{% endif %}
+
         </div>
 
         <div class="sidebarwrapper">
           <aside>
             <h3>Our Work:</h3>
-              {% set postslist = collections['Sidebar'] | limit (4) %} 
+              {% set postslist = collections.work['Sidebar'] | limit (4) %} 
             {% include "components/postslist-sidebar-our-work.njk" %}
           </aside>
         </div>

@@ -1,0 +1,16 @@
+<section class="grid-3-columns" >
+{% for post in postslist | reverse %}
+
+<div class="items">
+<div class="maintestlisewrapper">
+ <blockquote class="block-italic">
+{{ post.content | safe }}
+</blockquote>
+<p><strong>{{ post.data.Name }}, {{ post.data.Position }}</strong></p>
+<p><a title="{{ post.data.title }}" href="{{ post.data.Website }}" target="_blank" rel="noopener">{{ post.data.title }}</a></p>  
+</div> 
+</div>
+
+{% endfor %}
+</section>
+
