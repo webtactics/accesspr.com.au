@@ -2,11 +2,13 @@
 
 title: Rob Verschuer
 Position: Head of Consumer
-image: /static/img/team/Rob-Verschuer.jpg
+image: /static/img/about/team/Rob-Verschuer.jpg
 
 date: 2025-03-03
 
-tags:
+tags: 
+  - Access-Team
+
 
   
 description: As the former PR Manager for Tourism NT, Rob spearheaded highly successful integrated PR campaigns spanning publicity, content, digital, partnerships, ambassadorships and famils.

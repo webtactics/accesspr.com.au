@@ -2,7 +2,7 @@
 
 title: Andrea Kerekes
 Position: Owner, CEO
-image: /static/img/team/Andrea-Kerekes.jpg
+image: /static/img/about/team/Andrea-Kerekes.jpg
 
 date: 2025-03-01
 

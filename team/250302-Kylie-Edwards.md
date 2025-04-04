@@ -2,11 +2,12 @@
 
 title: Kylie Edwards
 Position: Director of PR
-image: /static/img/team/Andrea-Kerekes.jpg
+image: /static/img/about/team/Kylie-Edwards.jpg
 
 date: 2025-03-02
 
-tags:
+tags: 
+  - Access-Team
 
   
 description: Kylie has delivered everything from traditional media campaigns to high-impact integrated strategies, including celebrity ambassadorships, stunts, activations, and famil programs.
