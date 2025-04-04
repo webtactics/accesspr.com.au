@@ -1371,7 +1371,7 @@ aspect-ratio: 450 / 270;
    }
   .teamlistimg {
     height:auto;
-    width:400px;
+    max-width:200px;
     aspect-ratio: 4 / 5;
      }
   
