@@ -510,7 +510,8 @@ font-size: calc(1.2rem + 1vw);
     -o-transition: all var(--transitionquick);
     transition: all var(--transitionquick);
       }
-.scrolled .logo img.logo-black {
+.scrolled .logo img.logo-black, .home .logo img.logo-white {
+
   display: none;
   -webkit-transition: all var(--transitionquick);
     -moz-transition: all var(--transitionquick);
