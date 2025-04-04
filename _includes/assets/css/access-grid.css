@@ -1424,6 +1424,16 @@ aspect-ratio: 450 / 270;
   border-radius: 12px;
 }
 
+.grid-detailpage-sidebar-summary:hover .sidebarsumborderwrap {
+  display: Flex;
+  justify-content: flex-end;
+  align-items: center;
+  width:1rem;
+  min-height: 7rem;
+  background-color: var(--accent);
+  border-radius: 12px;
+}
+
 .sidebarsumpic {  
   display: Flex;
   justify-content: flex-end;
