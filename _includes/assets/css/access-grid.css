@@ -1283,7 +1283,8 @@ text-align: left;
 
     .grid-2-columns-team {
       grid-template-columns: 200px 1fr;
-      gap: 2rem;
+      column-gap: 2rem;
+      row-gap: 6rem;
     }
 
 .grid-3-columns-large-gap {
