@@ -1410,7 +1410,7 @@ aspect-ratio: 450 / 270;
   align-items: center;
   width:1rem;
   min-height: 7rem;
-  background-color: var(--black);
+  background-color: transparent;
   border-radius: 12px;
 }
 
@@ -1424,12 +1424,12 @@ aspect-ratio: 450 / 270;
   border-radius: 12px;
 }
 
-.grid-detailpage-sidebar-summary:hover .sidebarsumborderwrap {
+.grid-detailpage-sidebar-summary:hover .sidebarsumborder {
   display: Flex;
-  justify-content: flex-end;
+  justify-content: center;
   align-items: center;
-  width:1rem;
-  min-height: 7rem;
+  width:.6rem;
+  height:100%;
   background-color: var(--accent);
   border-radius: 12px;
 }
