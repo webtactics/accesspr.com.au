@@ -6,7 +6,9 @@ image: /static/img/team/Andrea-Kerekes.jpg
 
 date: 2025-03-01
 
-tags:
+tags: 
+  - Access-Team
+
 
   
 description: A former journalist, Andrea has extensive experience in delivering effective and strategic publicity, media relations, reputation management, communications strategy, media training and crisis management in Australia and in New York, where she worked for two years.
