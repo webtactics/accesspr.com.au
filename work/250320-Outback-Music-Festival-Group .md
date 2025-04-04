@@ -1,11 +1,11 @@
 ---
 title: Outback Music Festival Group 
-Website: https://vimeo.com/bigrunevents/videos
+Website: www.mundimundibash.com.au
 
-logo: 
+logo: /static/img/clients/logos/outback-music-festival-group.jpg
 
 
-date: 2025-03-20
+date: 2025-03-17
 
 
 image: /static/img/clients/our-work/Outback-Music-Festival-Group-1500x1000.jpg
@@ -13,6 +13,7 @@ imageAlt: The Access team has managed PR for Outback Music Festival Group since 
 
 tags:
   - Showcase
+  - Clients
 
 
 description: The Access team has managed PR for Outback Music Festival Group since 2019, driving awareness and attendance to two of Australia’s biggest annual outback events – the Birdsville Big Red Bash and the Broken Hill Mundi Mundi Bash.

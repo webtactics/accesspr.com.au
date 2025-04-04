@@ -4,7 +4,7 @@ Website: https://ntmajorevents.com.au/
 
 logo: /static/img/clients/logos/NTMEC-Logo.jpg
 
-date: 2025-03-20
+date: 2025-03-19
 
 
 image: /static/img/clients/our-work/NTMEC-Arelhe-Urrperle-a-6m-tall-puppet-cast-a-striking-impression-at-Parrtjima-as-she-glided-around-the-site.jpg

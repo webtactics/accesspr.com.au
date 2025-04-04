@@ -2,10 +2,10 @@
 title: Noël Sydney
 Website: https://agbcreative.com/
 
-logo: /static/img/clients/logos/noel-sydney-400x300.jpg
+logo: /static/img/clients/logos/AGB-Creative.jpg
 
 
-date: 2025-03-20
+date: 2025-03-18
 
 
 image: /static/img/clients/our-work/Noël-Sydney.jpg
