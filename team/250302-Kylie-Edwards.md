@@ -1,19 +1,25 @@
 ---
-title: Charles Darwin University
-Name: Shannon Holborn
-Position: Vice-President Global and External Relations
-Website: https://www.cdu.edu.au/
+
+title: Kylie Edwards
+Position: Director of PR
+image: /static/img/team/Andrea-Kerekes.jpg
 
 date: 2025-03-02
 
 tags:
-  - testimonials
+
   
-description: Access feels part of the NT family and an extension of our internal team that ensures nothing slips through the cracks and together we consistently brainstorm new ideas and maximise any opportunity available.
+description: Kylie has delivered everything from traditional media campaigns to high-impact integrated strategies, including celebrity ambassadorships, stunts, activations, and famil programs.
+
 
 
 ---
 
-"Access PR has made a significant difference to CDU’s reputation and overall communications approach and strategy.
+Kylie is a highly experienced and respected PR expert, having worked in media for almost 30 years in both Australia and New York.
 
-Access’s dedication, insights and ability to deliver across our communications requirements has been brilliant."
+She has worked with an impressive roster of clients including Disney Destinations, David Jones, Australian Consolidated Press (now Are Media), The Australian Women’s Weekly, Jamie Oliver, Nestle Australia, Estee Lauder, Tourism & Events Queensland, Destination NSW, Hurley, Red Bull, Sydney Film Festival, Outback Music Festival Group, Birdsville Races, Nine Entertainment (formerly Fairfax Media) and more.
+
+Kylie has delivered everything from traditional media campaigns to high-impact integrated strategies, including celebrity ambassadorships, stunts, activations, and famil programs.
+
+Based in NSW, Kylie’s rare mix of strategic vision, creative flair, and deep media expertise has earned her a reputation as one of the most connected PR professionals in the country.
+
