@@ -2,7 +2,7 @@
 title: Good Food Month and Good Food Guide
 Website: www.goodfoodevents.com.au
 
-logo: /static/img/clients/logos/good-food.jpg
+logo: /static/img/clients/logos/good-food-month.jpg
 
 
 date: 2025-03-14
