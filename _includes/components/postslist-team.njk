@@ -16,7 +16,7 @@
 
 
 <div class="teamsumsummary">
-<p class="postsumhome">{{ post.content | safe }}</p>
+{% if post.data.description %}<p class="postsumhome">{{ post.data.description }}</p>{% else %}<div class="postsumhome">{{ post.content | safe }}</div>{% endif %}
 </div>
 
 </div>
