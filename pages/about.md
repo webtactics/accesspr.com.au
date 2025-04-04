@@ -17,10 +17,6 @@ tagtop: Independent, connected, and experienced, Access PR has been shaping the 
 ---
 
 
-
-
-
-
 Our consumer, corporate and creative services expertise crafts stories and strategies that captivate, influence and inspire.
 
 <strong>We deliver headline-grabbing campaigns that drive powerful media moments and exceptional results.</strong>
@@ -31,4 +27,4 @@ We are passionate about Aboriginal and Torres Strait Islander storytelling, and 
 
 Whether it’s across culture, creativity or business, we amplify First Nations’ voices to raise awareness and understanding, spark conversations and unlock opportunities.
 
-### We reach the right people, with the right message, through the right channels, at the right time. ###
+<strong>We reach the right people, with the right message, through the right channels, at the right time.</strong>
