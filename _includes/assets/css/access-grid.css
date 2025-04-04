@@ -1369,7 +1369,11 @@ aspect-ratio: 450 / 270;
   width:150px;
   aspect-ratio: 1 / 1;
    }
-
+  .teamlistimg {
+    height:auto;
+    width:400px;
+    aspect-ratio: 4 / 5;
+     }
   
   .NewsSummary {
     margin: 0;
