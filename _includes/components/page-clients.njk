@@ -1,9 +1,3 @@
-<section class="page-wrapper">
+{% set postslist = collections['Clients']  %} 
+{% include "components/postslist-clients.njk" %}
 
-<div class="our-work content">
-{% set postslist = collections['Slider']  %} 
-{% include "components/postslist-our-work-cover.njk" %}
-</div>
-    
-
-</section>
