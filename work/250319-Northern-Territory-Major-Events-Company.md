@@ -15,6 +15,7 @@ tags:
   - Slider
   - Clients
   - Our Work
+  - Sidebar
 
 Homepage: true
 

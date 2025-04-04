@@ -16,6 +16,7 @@ tags:
   - Slider
   - Clients
   - Our Work
+  - Sidebar
 
 
 description: The Access team has managed PR for Outback Music Festival Group since 2019, driving awareness and attendance to two of Australia’s biggest annual outback events – the Birdsville Big Red Bash and the Broken Hill Mundi Mundi Bash.
