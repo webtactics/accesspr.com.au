@@ -494,7 +494,7 @@ font-size: calc(1.2rem + 1vw);
 
       }
 
-.logo img.logo-black {
+.home .logo img.logo-black {
         display: block;
       -webkit-transition: all var(--transitionquick);
     -moz-transition: all var(--transitionquick);
@@ -503,7 +503,7 @@ font-size: calc(1.2rem + 1vw);
     transition: all var(--transitionquick);
       }
 .logo img.logo-white {
-        display: none;
+  display: block;
         -webkit-transition: all var(--transitionquick);
     -moz-transition: all var(--transitionquick);
     -ms-transition: all var(--transitionquick);
