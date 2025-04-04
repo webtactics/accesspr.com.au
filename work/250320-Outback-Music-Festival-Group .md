@@ -13,6 +13,7 @@ imageAlt: The Access team has managed PR for Outback Music Festival Group since 
 
 tags:
   - Showcase
+  - Slider
   - Clients
 
 

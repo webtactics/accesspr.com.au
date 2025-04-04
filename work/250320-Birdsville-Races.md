@@ -5,7 +5,7 @@ Website: https://www.darwinfestival.org.au/
 logo: /static/img/clients/logos/birdsville-races-logo.jpg
 
 
-date: 2025-03-20
+date: 2025-03-15
 
 
 image: /static/img/clients/our-work/Birdsville-Races-Horses-leave-the-starters-gates-at-the-Birdsville-Races.jpg
