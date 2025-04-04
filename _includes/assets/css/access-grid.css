@@ -1297,7 +1297,7 @@ gap: 5rem;}
   }
 
 .grid-detailpage-sidebar-summary {
-  grid-template-columns: 2fr 3fr;}
+  grid-template-columns: 1fr 1fr;}
 
 .grid-detailpage-sidebar-summary:hover img {
   filter: brightness(1.2);
