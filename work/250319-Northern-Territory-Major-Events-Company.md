@@ -14,6 +14,7 @@ tags:
   - Showcase
   - Slider
   - Clients
+  - Our Work
 
 Homepage: true
 

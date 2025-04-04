@@ -15,6 +15,7 @@ tags:
   - Showcase
   - Slider
   - Clients
+  - Our Work
 
 
 description: From strategy to execution, we drive awareness, attendance and ticket sales with impactful editorial coverage, working closely with the festival’s artistic director and key talent to secure high-value, on-message exposure across interstate and local media.

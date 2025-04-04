@@ -15,6 +15,7 @@ tags:
   - Showcase
   - Slider
   - Clients
+  - Our Work
 
 description: Our key objective was to position The Star as a distinct, must-visit Sydney destination and to drive visitation to its restaurants, entertainment and retail precincts. We managed an always-on press office, media and influencer famils, VIP and celebrity engagement, and ad hoc projects across lifestyle, dining, retail, events, and community relations.
 

@@ -15,6 +15,7 @@ tags:
   - Showcase
   - Slider
   - Clients
+  - Our Work
 
 description: Our key objective was to drive awareness and visitation to Sydney’s iconic Good Food Month, a month-long celebration of chefs, restaurants, pop-ups, masterclasses, collaborations, and exclusive events. With Destination NSW as a key partner, our efforts targeted not just locals, but interstate and international audiences. 
 

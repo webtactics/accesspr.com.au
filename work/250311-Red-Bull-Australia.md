@@ -15,6 +15,7 @@ tags:
   - Showcase
   - Slider
   - Clients
+  - Our Work
 
 description: One of our standout early projects was managing Josh Sheehan's national media tour ahead of his history-making Moto X double backflip at the X Games. Our efforts secured widespread coverage, including nationally syndicated full-page News Corp features, interviews on The Today Show and Sunrise, a major Sun Herald feature, and more. 
 
