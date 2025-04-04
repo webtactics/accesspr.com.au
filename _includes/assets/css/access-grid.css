@@ -1660,7 +1660,35 @@ ul  li.taggs a:hover, ul  li.taggs  a:focus {
 
 
   
- 
+    .imagebox {
+
+      box-shadow: 0 2px 8px var(--white);
+      
+          -webkit-transition: box-shadow 0.2s ease-in-out;
+      
+          -moz-transition: box-shadow 0.2s ease-in-out;
+      
+          -o-transition: box-shadow 0.2s ease-in-out;
+      
+          transition: box-shadow 0.2s ease-in-out;
+      
+          border: 1px solid var(--white);}
+      
+      .imagebox:hover {
+      
+          box-shadow: 0 2px 8px #CFCFCF;
+      
+          -webkit-transition: box-shadow 0.2s ease-in-out;
+      
+          -moz-transition: box-shadow 0.2s ease-in-out;
+      
+          -o-transition: box-shadow 0.2s ease-in-out;
+      
+          transition: box-shadow 0.2s ease-in-out;
+      
+          border: 1px solid var(--greyeb);
+      
+      }
 
 
 
