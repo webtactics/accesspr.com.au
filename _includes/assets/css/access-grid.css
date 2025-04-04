@@ -1408,7 +1408,7 @@ aspect-ratio: 450 / 270;
   display: Flex;
   justify-content: flex-end;
   align-items: center;
-  width:.6rem;
+  width:1rem;
   min-height: 7rem;
   background-color: var(--black);
   border-radius: 12px;
@@ -1416,7 +1416,7 @@ aspect-ratio: 450 / 270;
 
 .sidebarsumborder {
   display: Flex;
-  justify-content: flex-end;
+  justify-content: center;
   align-items: center;
   width:.6rem;
   height:80%;
