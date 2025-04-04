@@ -11,7 +11,7 @@ tags:
 
 
   
-description: Bethaney has more than 15 years ‘experience as a highly skilled communications and community engagement specialist across both private sector and Territory Government projects.
+description: Bethaney has more than 15 years ‘experience as a highly skilled communications and community engagement specialist across both private sector and Territory Government projects. As a former national Nine Network journalist and presenter, she also has extensive experience in front of, and behind, the camera, giving her an edge when it comes to media training and message development.
 
 
 

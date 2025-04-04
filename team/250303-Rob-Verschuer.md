@@ -11,7 +11,7 @@ tags:
 
 
   
-description: Rob is an award-winning PR and communications expert with more than decade of agency and in-house experience across Australia, the UK and the Middle East.
+description: Rob is an award-winning PR and communications expert with more than decade of agency and in-house experience across Australia, the UK and the Middle East. Based in Sydney, he has worked in Australia and abroad with high profile brands including Tourism & Events QLD, Destination NSW, IMG, Fairfax Media (now Nine), Sydney Gay & Lesbian Mardi Gras, Sony Home Entertainment, Fantastic Furniture, Oxford Street London, Global Citizen, Doha Tribeca Film Festival, Century 21, and more.
 
 
 

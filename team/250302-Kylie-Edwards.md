@@ -10,7 +10,7 @@ tags:
   - Access-Team
 
   
-description: Kylie is a highly experienced and respected PR expert, having worked in media for almost 30 years in both Australia and New York.
+description: Kylie is a highly experienced and respected PR expert, having worked in media for almost 30 years in both Australia and New York. She has worked with an impressive roster of clients including Disney Destinations, David Jones, Australian Consolidated Press (now Are Media), The Australian Women’s Weekly, Jamie Oliver, Nestle Australia, Estee Lauder, Tourism & Events Queensland, Destination NSW, Hurley, Red Bull, Sydney Film Festival, Outback Music Festival Group, Birdsville Races, Nine Entertainment (formerly Fairfax Media) and more.
 
 
 

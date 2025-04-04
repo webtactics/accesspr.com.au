@@ -5,13 +5,13 @@
 	
 
 <div class="teamimgwrapper">
-    <a href="{{ post.url | url }}"><img src="https://ik.imagekit.io/webtactics/accesspr{{ post.data.image }}/tr:w-400,h-500" alt="{{ post.data.title }}" title="{{ post.data.title }}" width="200px" height="auto" class="teamlistimg">
+    <a href="{{ post.url | url }}"><img src="https://ik.imagekit.io/webtactics/accesspr{{ post.data.image }}/tr:w-400,h-500" title="{{ post.data.title }}, {{ post.data.Position }}" alt="{{ post.data.title }}, {{ post.data.Position }}" width="200px" height="auto" class="teamlistimg">
     </a>
 </div>
 
 <div class="teamcontentwrapper">
 <div class="teamsumtitle">
-<h3 class="team-sum-title"><a href="{{ post.url | url }}" title="{{ post.data.title }}">{{ post.data.title }}</a></h3>
+<h3 class="team-sum-title"><a href="{{ post.url | url }}" title="{{ post.data.title }}, {{ post.data.Position }}" alt="{{ post.data.title }}, {{ post.data.Position }}">{{ post.data.title }}</a></h3>
 </div>
 <div class="teamsumtitle">
 <h3 class="team-sum-title"><a href="{{ post.url | url }}" title="{{ post.data.title }}, {{ post.data.Position }}" alt="{{ post.data.title }}, {{ post.data.Position }}">{{ post.data.Position }}</a></h3>

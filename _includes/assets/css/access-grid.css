@@ -202,6 +202,29 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
     transition: color .6s;
   }
 
+
+  h3.team-sum-title,   h3.team-sum-title a {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    color: var(--primary);
+    background: var(--white);
+    font-size: var(--h3sum);
+    line-height: 1.2;
+    white-space: normal;
+    transition: color .6s;
+    width: 100%;
+    margin: 0;
+    min-height: 6rem;
+  }
+
+
+  h3.team-sum-title a:hover {
+    color: var(--accent);
+    background: var(--white);
+    transition: color .6s;
+  }
+
   .postsumhome {
     display: -webkit-box;
     -webkit-line-clamp: 3;
