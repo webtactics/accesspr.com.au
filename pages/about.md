@@ -23,7 +23,7 @@ tagtop: Independent, connected, and experienced, Access PR has been shaping the 
 
 Our consumer, corporate and creative services expertise crafts stories and strategies that captivate, influence and inspire.
 
-### We deliver headline-grabbing campaigns that drive powerful media moments and exceptional results. ###
+<strong>We deliver headline-grabbing campaigns that drive powerful media moments and exceptional results.</strong>
 
 Our corporate and strategic communications, reputation management, media training and crisis management skills help organisations –  from start-ups to governments – develop trust, engage stakeholders and drive results. 
 
