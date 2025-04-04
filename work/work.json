@@ -3,8 +3,7 @@
     "permalink": "/clients/our-work/{{ title | slug }}/index.html",
     "class": "clients our-work",
     "tags": [
-      "Clients",
-      "Our-Work"
+      "Work"
     ]
   }
   
