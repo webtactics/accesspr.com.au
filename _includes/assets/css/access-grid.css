@@ -707,6 +707,21 @@ button.blogdetail, .button.blogdetail {margin:0;}
 }
 .topbar {
   position: fixed;
+  background-color: var(--black);
+  width: 100%;
+  padding: 0;
+  top: 0px;
+  z-index: 3;
+  -webkit-transition: all var(--transitionslow);
+  -moz-transition: all var(--transitionslow);
+  -ms-transition: all var(--transitionslow);
+  -o-transition: all var(--transitionslow);
+  transition: all var(--transitionslow);
+
+}
+
+.home .topbar {
+  position: fixed;
   background-color: var(--white);
   width: 100%;
   padding: 0;
