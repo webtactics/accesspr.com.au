@@ -1,8 +1,8 @@
 ---
 layout: layouts/grid-tagtop.njk
-title: Access Senior Team
+title: Meet the Access senior team.
 class: about team
-description: Access Senior Team
+description: Meet the Access senior team.
 date: 2024-08-22
 permalink: /about/meet-the-team/
 eleventyNavigation:
@@ -11,5 +11,5 @@ eleventyNavigation:
   order: 2
 
 
-tagtop: Meet the senior Access team.
+tagtop: Meet the Access senior team.
 ---
