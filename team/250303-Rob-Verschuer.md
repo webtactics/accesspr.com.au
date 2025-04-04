@@ -11,7 +11,7 @@ tags:
 
 
   
-description: As the former PR Manager for Tourism NT, Rob spearheaded highly successful integrated PR campaigns spanning publicity, content, digital, partnerships, ambassadorships and famils.
+description: Rob is an award-winning PR and communications expert with more than decade of agency and in-house experience across Australia, the UK and the Middle East.
 
 
 

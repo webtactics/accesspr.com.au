@@ -10,7 +10,7 @@ tags:
   - Access-Team
 
   
-description: Kylie has delivered everything from traditional media campaigns to high-impact integrated strategies, including celebrity ambassadorships, stunts, activations, and famil programs.
+description: Kylie is a highly experienced and respected PR expert, having worked in media for almost 30 years in both Australia and New York.
 
 
 

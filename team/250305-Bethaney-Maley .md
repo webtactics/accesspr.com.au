@@ -2,7 +2,7 @@
 
 title: Bethaney Maley 
 Position: Managing Director, Darwin
-image: /static/img/about/team/Bethaney-Maley .jpg
+image: /static/img/about/team/Bethaney-Maley.jpg
 
 date: 2025-03-05
 

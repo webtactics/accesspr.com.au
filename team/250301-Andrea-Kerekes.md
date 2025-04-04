@@ -11,7 +11,7 @@ tags:
 
 
   
-description: A former journalist, Andrea has extensive experience in delivering effective and strategic publicity, media relations, reputation management, communications strategy, media training and crisis management in Australia and in New York, where she worked for two years.
+description: Andrea co-founded Access in 2008 with a foundation portfolio of B2B clients that included many of the country’s biggest media companies and publishers, along with global advertising, digital and media agencies.
 
 
 
