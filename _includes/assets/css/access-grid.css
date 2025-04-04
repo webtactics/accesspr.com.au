@@ -1405,10 +1405,14 @@ aspect-ratio: 450 / 270;
 .grid-detailpage-sidebar-summary {padding-bottom: 2rem;}
 
 .sidebarsumborder {
-  width:1rem;
+  display: Flex;
+  justify-content: flex-end;
+  align-items: center;
+  width:.6rem;
   min-height: 7rem;
+  height:80%;
   background-color: var(--black);
-  border-radius: 10px;
+  border-radius: 12px;
 }
 
 .sidebarsumpic {  
