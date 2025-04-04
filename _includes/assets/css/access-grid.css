@@ -1414,18 +1414,13 @@ aspect-ratio: 450 / 270;
   min-height: 7rem;}
 
 .detailpage-sidebar-summary-content-wrapper  {
-  padding: 0 0 0 1rem;
-  margin: 0 0 0 1rem;
-  border-left: 0.6rem solid var(--white);
-  min-height: 3rem;
+  display: Flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
 }
 
-.detailpage-sidebar-summary-content-wrapper:hover {
-  padding: 0 0 0 1rem;
-  margin: 0 0 0 1rem;
-  border-left: 0.6rem solid var(--accent);
-  min-height: 3rem;
-}
+
 
 
 .right {float:right;text-align:right;}
