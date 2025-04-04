@@ -1415,9 +1415,9 @@ aspect-ratio: 450 / 270;
 
 .detailpage-sidebar-summary-content-wrapper  {
   display: Flex;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
-  padding: 1rem;
+  padding: 0;
 }
 
 
