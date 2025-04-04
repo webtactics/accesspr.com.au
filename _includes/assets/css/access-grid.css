@@ -497,7 +497,6 @@ font-size: calc(1.2rem + 1vw);
 
 
       .logo img.logo-black,  .scrolled .logo img.logo-black, .home .logo img.logo-white {
-
         display: none;
         -webkit-transition: all var(--transitionquick);
           -moz-transition: all var(--transitionquick);
@@ -506,7 +505,7 @@ font-size: calc(1.2rem + 1vw);
           transition: all var(--transitionquick);
             }
 
-            .home .logo img.logo-black {
+            .home .logo img.logo-black, .home .scrolled .logo img.logo-white, .logo img.logo-white {
               display: block;
             -webkit-transition: all var(--transitionquick);
           -moz-transition: all var(--transitionquick);
@@ -515,14 +514,7 @@ font-size: calc(1.2rem + 1vw);
           transition: all var(--transitionquick);
             }
     
-.logo img.logo-white {
-  display: block;
-        -webkit-transition: all var(--transitionquick);
-    -moz-transition: all var(--transitionquick);
-    -ms-transition: all var(--transitionquick);
-    -o-transition: all var(--transitionquick);
-    transition: all var(--transitionquick);
-      }
+
 
 
 @media screen and (max-width: 1100px) {
