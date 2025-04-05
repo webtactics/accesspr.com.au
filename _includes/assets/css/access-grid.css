@@ -2,6 +2,9 @@
 
 --body-font-size: round(calc(var(--font-size-base) / var(--html-font-size) * 1rem), 1px);
 
+--ptextsize: 1.25rem;
+--ptextlineheight: 1.8rem;
+
 --textactive: #000000;
 --texthover: #ffffff;
 --texthoverborder: #b300d7;
@@ -276,8 +279,8 @@ font-style: normal;
 font-weight: 400;
 color: var(--text);
 text-rendering: optimizeLegibility;
-font-size: 1.25rem;
-line-height: 1.8rem;
+font-size: var(--ptextsize);
+line-height: var(--ptextlineheight);
 margin: 0 0 1rem 0;
 padding:0;}
 
@@ -1843,3 +1846,13 @@ ul  li.taggs a:hover, ul  li.taggs  a:focus {
   max-width: 600px;
 }
  
+.contentwrapper li {
+font-family: 'DM Sans', sans-serif;
+font-style: normal;
+font-weight: 400;
+color: var(--text);
+text-rendering: optimizeLegibility;
+font-size: var(--ptextsize);
+line-height: var(--ptextlineheight);
+margin: 0 0 1rem 0;
+padding:0;}
