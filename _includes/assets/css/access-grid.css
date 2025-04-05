@@ -33,7 +33,7 @@
 
 
 --h3sum: calc(1.4rem + 0.5rem);
---h4sum: 1.2rem;
+--h4sum: calc(1.2rem + 0.5rem);
 --h3h4sumpadding: 0.25rem 0.75rem;
 
 --transition1s: 1s;
@@ -215,7 +215,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
     transition: color .6s;
     width: 100%;
     margin: 0;
-    min-height: 6rem;
+    min-height: 2rem;
   }
 
 
@@ -224,6 +224,30 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
     background: var(--white);
     transition: color .6s;
   }
+
+
+  h4.team-sum-title,   h4.team-sum-title a {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    color: var(--primary);
+    background: var(--white);
+    font-size: var(--h4sum);
+    line-height: 1.2;
+    white-space: normal;
+    transition: color .6s;
+    width: 100%;
+    margin: 0;
+    min-height: 2rem;
+  }
+
+
+  h4.team-sum-title a:hover {
+    color: var(--accent);
+    background: var(--white);
+    transition: color .6s;
+  }
+
 
   .postsumhome {
     display: -webkit-box;
