@@ -1832,16 +1832,6 @@ ul  li.taggs a:hover, ul  li.taggs  a:focus {
           border-radius: 50%;}
 
 
-.contentwrapper ul {
-font-family: 'DM Sans', sans-serif;
-font-style: normal;
-font-weight: 400;
-color: var(--text);
-text-rendering: optimizeLegibility;
-font-size: 1.25rem;
-line-height: 1.8rem;
-margin: 0 0 1rem 0;
-padding:0;}
 
 
 
