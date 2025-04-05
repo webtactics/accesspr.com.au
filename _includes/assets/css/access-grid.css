@@ -1395,6 +1395,10 @@ text-align: left;
   filter: brightness(1.2);
   }
 
+  .grid-our-work-sidebar {
+    grid-template-columns: 1rem 1fr;
+    padding-bottom: 2rem;}
+  
 
 
   .Postimagehover {position:relative;text-align:center}
@@ -1532,7 +1536,7 @@ aspect-ratio: 450 / 270;
   border-radius: 12px;
 }
 
-.grid-detailpage-sidebar-summary:hover .sidebarsumborder {
+.grid-detailpage-sidebar-summary:hover .sidebarsumborder, .grid-our-work-sidebar:hover .sidebarsumborder {
   display: Flex;
   justify-content: center;
   align-items: center;
