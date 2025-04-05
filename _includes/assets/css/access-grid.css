@@ -1590,7 +1590,7 @@ figcaption {
 li::marker {
   color: var(--primary);
   font-size: 1.5em;
-  padding-left: 2rem;
+
 }
 
 blockquote {
