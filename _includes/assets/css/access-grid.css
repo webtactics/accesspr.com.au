@@ -526,10 +526,7 @@ font-size: calc(1.6rem + 1vw);
       .socialwrapper { grid-area: socialwrapper; }
 
 
-      .foothamburger { grid-area: foothamburger; }
-      .footlogo { grid-area: footlogo; }
-      .footnavwrapper { grid-area: footnavwrapper;}
-      .footsocialwrapper { grid-area: footsocialwrapper; }
+      
       
         
       .close, .closed {
@@ -1197,7 +1194,7 @@ svg {
   -o-transition: all var(--transitionquick);
   transition: all var(--transitionquick);
 }
-.scrolled svg {
+svg, .scrolled svg {
   color: var(--white);
   -webkit-transition: all var(--transitionquick);
   -moz-transition: all var(--transitionquick);
