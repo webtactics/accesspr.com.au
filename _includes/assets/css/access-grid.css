@@ -1845,3 +1845,11 @@ padding:0;}
 
 
 
+.eightypercentborder3rem {
+  margin: 0 auto 3rem auto;
+  height: 58px;
+  border-bottom: 4px dotted var(--greyeb);
+  width: calc(80vw - 6rem);
+  max-width: 600px;
+}
+ 
