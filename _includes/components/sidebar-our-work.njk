@@ -5,6 +5,6 @@
     <div class="sidebarsumtitle"><h3><a href="/clients/our-work/" title="Our Work" alt="Our Work">Our Work:</a></h3></div>
 </div>
            
-            {% set postslist = collections['Sidebar'] | limit(3) %} 
+            {% set postslist = collections['Sidebar'] | reverse | limit(3) %} 
             {% include "components/postslist-sidebar-our-work.njk" %}
 </aside>
