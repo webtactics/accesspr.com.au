@@ -176,6 +176,9 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   font-size: calc(1.2rem + 0.5rem);}
 
   .sidebarwrapper h3 {color: var(--black);font-size: calc(1.4rem + 0.5rem);}
+  .sidebarwrapper h3 a {color: var(--black);font-size: calc(1.4rem + 0.5rem);text-decoration: none;border:none;}
+  .sidebarwrapper h3 a:hover {color: var(--accent);font-size: calc(1.4rem + 0.5rem);text-decoration: none;border:none;}
+
   .servicescontent h3 {color: var(--black); font-size: calc(1.4rem + 0.5rem);}
 
   .postsumtitle {padding:1rem 0 0 0;}
