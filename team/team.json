@@ -1,5 +1,5 @@
 {
-  "layout": "layouts/post-our-work.njk",
+  "layout": "layouts/post-team.njk",
   "permalink": "/about/meet-the-team/{{ title | slug }}/index.html",
   "class": "about team",
   "tags": [

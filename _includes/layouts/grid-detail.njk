@@ -4,7 +4,9 @@
 
 {% block content %} 
 <main class="content">  
-    <div class="tagtop"><h1>{{ title }}</h1></div>
+    <div class="tagtop"><h1>{{ title }}</h1>
+      {% if Position %}<h2>{{ Position }}</h2>{% endif %}
+    </div>
     <div class="grid-2-columns-2x1">
 
         <div class="detailwrapper">
