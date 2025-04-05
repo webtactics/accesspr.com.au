@@ -1,0 +1,10 @@
+<aside>
+
+<div class="grid-our-work-sidebar">
+    <div class="sidebarsumborder"></div>
+    <div class="sidebarsumtitle"><h3><a href="/clients/our-work/" title="Our Work" alt="Our Work">Our Work:</a></h3></div>
+</div>
+           
+            {% set postslist = collections['Sidebar'] | limit(3) %} 
+            {% include "components/postslist-sidebar-our-work.njk" %}
+</aside>
