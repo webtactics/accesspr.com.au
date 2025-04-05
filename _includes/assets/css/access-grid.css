@@ -1428,6 +1428,14 @@ aspect-ratio: 450 / 270;
     max-width:200px;
     aspect-ratio: 4 / 5;
      }
+
+
+     .teamlistimg:hover {
+      height:auto;
+      max-width:200px;
+      aspect-ratio: 4 / 5;
+        filter: brightness(1.2);
+       }
      .teamimg {
       height:auto;
       width:800px;
