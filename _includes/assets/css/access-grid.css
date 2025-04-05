@@ -583,6 +583,10 @@ font-size: calc(1.6rem + 1vw);
 .navwrapper, .socialwrapper {
 display: none;
 }
+
+.footer .socialwrapper {
+  display: block;
+} 
 .logo {position:absolute;right:0;text-align: right;}
 
 }
