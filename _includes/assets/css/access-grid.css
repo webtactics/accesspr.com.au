@@ -1466,8 +1466,9 @@ aspect-ratio: 450 / 270;
        }
      .teamimg {
       height:auto;
-      width:800px;
+      width:400px;
       aspect-ratio: 4 / 5;
+      margin: 0 auto;
        }
   .NewsSummary {
     margin: 0;
