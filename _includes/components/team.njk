@@ -1,4 +1,8 @@
 <div class="photo-gallery grid-5-columns">
+
+ <div class="postdetailimage" align="center"><img src="https://ik.imagekit.io/webtactics/accesspr{{ image }}/tr:w-400,h-500" alt="{{ imageAlt }}" title="{{ imageAlt }}" width="400px" height="auto" class="teamimg"></div>
+
+
 {% for image in galleryimages %}
 <div class="img">
 <a class="group" href="https://ik.imagekit.io/webtactics/changs/img/recipes/{{ image.url }}" alt="{{ title }}-{{ image.alt }}" title="{{ image.alt }}" data-title="{{ image.alt }}" data-lightbox="{{ title }}">
