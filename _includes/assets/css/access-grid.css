@@ -1397,7 +1397,7 @@ text-align: left;
 @media (max-width: 1024px) {
 
   .grid-detailpage-sidebar-summary {
-    grid-template-columns: 1rem 1fr 1fr;}
+    grid-template-columns: 1rem 150px 1fr;}
 
   .grid-2-columns-2x1 {
     grid-template-columns: 1fr;
