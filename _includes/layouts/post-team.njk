@@ -10,7 +10,15 @@ section: post
             <div class="postdetailimage" align="center"><img src="https://ik.imagekit.io/webtactics/accesspr{{ image }}/tr:w-800,h-1000" alt="{{ imageAlt }}" title="{{ imageAlt }}" width="800px" height="auto" class="teamimg"></div>
         {% endif %}
 
-        <div class="postdetailcontent">     
+        <div class="postdetailcontent">   
+
+
+<div class="teamwrapper">
+{% include "components/team.njk" %}
+</div>
+
+
+
             {{ content | safe }}
             
                

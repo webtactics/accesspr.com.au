@@ -1518,7 +1518,7 @@ aspect-ratio: 450 / 270;
   transition: color 0.6s,text-decoration-color 2s;
 }
 
-.postdetailcontent {padding: 2rem 0;}
+.postdetailcontent {padding: 2rem 0;} 
 
 @media (max-width: 768px) {
 
