@@ -183,12 +183,21 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   .sidebarwrapper h4 a {color: var(--black);font-size: calc(1.1rem + 0.5rem);text-decoration: none;border:none;}
   .sidebarwrapper h4 a:hover {color: var(--accent);font-size: calc(1.1rem + 0.5rem);text-decoration: none;border:none;}
 
-
+  .more-meet-team-wrapper {
+    display: Flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: auto;
+    height: auto;
+    min-height:5rem;
+    padding-top:10rem;
+    background-color: var(--greyeb);
+  }
 
   .more-meet-team {  display: Flex;
     justify-content: flex-start;
     align-items: center;
-  padding-top:10rem;}
+ }
 
   .more-meet-team h4 {color: var(--black);font-size: calc(1.1rem + 0.5rem);}
   .more-meet-team h4 a {color: var(--black);font-size: calc(1.1rem + 0.5rem);text-decoration: none;border:none;}
