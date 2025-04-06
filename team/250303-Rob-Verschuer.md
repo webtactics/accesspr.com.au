@@ -17,28 +17,11 @@ description: Rob is an award-winning PR and communications expert with more than
 
 ---
 
-<div class="grid-2-columns-team">		
-	
-<div class="teamimgwrapper">
-    <a href="{{ post.url | url }}"><img src="https://ik.imagekit.io/webtactics/accesspr{{ image }}/tr:w-400,h-500" title="{{ title }}" alt="{{ title }}" width="200px" height="auto" class="teamlistimg">
-    </a>
-</div>
 
-<div class="teamcontentwrapper">
-
-<div class="teamsumtitle">
 
 <p>Rob is an award-winning PR and communications expert with more than decade of agency and in-house experience across Australia, the UK and the Middle East.</p>
 
 <p>Based in Sydney, he has worked in Australia and abroad with high profile brands including Tourism & Events QLD, Destination NSW, IMG, Fairfax Media (now Nine), Sydney Gay & Lesbian Mardi Gras, Sony Home Entertainment, Fantastic Furniture, Oxford Street London, Global Citizen, Doha Tribeca Film Festival, Century 21, and more.</p>
-
-</div>
-
-</div>
-
-</div>
-
-
 
 
 As the former PR Manager for Tourism NT, Rob spearheaded highly successful integrated PR campaigns spanning publicity, content, digital, partnerships, ambassadorships and famils. He led the in-house team behind the groundbreaking ChatNT AI campaign with Abbie Chatfield, which earned multiple accolades, including wins at the Mumbrella Travel Awards and PR Awards Asia Pacific, as well as nominations at Mumbrella CommsCon Awards.
