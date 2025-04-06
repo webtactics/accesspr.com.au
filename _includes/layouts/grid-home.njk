@@ -1,7 +1,15 @@
 {% extends "layouts/default.njk" %}
 
 {% block hero %}
-{% include "components/tagtop-home.njk" %}
+<div class="container">
+    
+    <main class="content">
+    
+        <div class="tagtop">{{ content | safe }}</div>
+
+    </main>
+
+</div>
 
 <div class="hero hide-for-print">
 
