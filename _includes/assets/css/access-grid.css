@@ -1345,7 +1345,7 @@ text-align: left;
 .grid-detailpage-sidebar-summary {
   grid-template-columns: 1rem 2fr 3fr;
 padding-bottom: 2rem;
-min-height:150px;
+min-height:200px;
 }
 
 .grid-detailpage-sidebar-summary:hover img {
