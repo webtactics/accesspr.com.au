@@ -17,9 +17,26 @@ description: Bethaney has more than 15 years ‘experience as a highly skilled c
 
 ---
 
-Bethaney has more than 15 years ‘experience as a highly skilled communications and community engagement specialist across both private sector and Territory Government projects. 
+<div class="grid-2-columns-team">		
+	
+<div class="teamimgwrapper">
+    <a href="{{ post.url | url }}"><img src="https://ik.imagekit.io/webtactics/accesspr{{ image }}/tr:w-400,h-500" title="{{ title }}" alt="{{ title }}" width="200px" height="auto" class="teamlistimg">
+    </a>
+</div>
 
-As a former national Nine Network journalist and presenter, she also has extensive experience in front of, and behind, the camera, giving her an edge when it comes to media training and message development.
+<div class="teamcontentwrapper">
+
+<div class="teamsumtitle">
+
+<p>Bethaney has more than 15 years ‘experience as a highly skilled communications and community engagement specialist across both private sector and Territory Government projects.</p>
+
+<p>As a former national Nine Network journalist and presenter, she also has extensive experience in front of, and behind, the camera, giving her an edge when it comes to media training and message development.</p>
+
+</div>
+
+</div>
+
+</div>
 
 Bethaney has worked in a variety of community engagement roles as a Territory-based consultant and spent more than five years as a policy and communications advisor to the Henderson and Martin Governments. Bethaney has extensive stakeholder engagement experiences and has developed communication and engagement strategies around sensitive Aboriginal issues including bilingual education, school attendance, alcohol policy and corrections reform. 
 
