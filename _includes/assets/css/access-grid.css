@@ -402,6 +402,10 @@ font-size: calc(1.2rem + 1vw);
 font-size: calc(1.6rem + 1vw);
 }
 
+.home .tagtop h1 {
+  font-size: calc(1.8rem + 1vw);
+  }
+
 .casestudyhover {position: relative;}
 
 .casestudyhover img {
