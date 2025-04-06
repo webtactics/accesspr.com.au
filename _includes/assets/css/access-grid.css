@@ -1898,7 +1898,7 @@ ul  li.taggs a:hover, ul  li.taggs  a:focus {
   height: auto;
   padding:0;
   margin:0;
-  background-color: var(--black);
+  background-color: var(--white);
 }
 
 .eightypercentborder3rem {
