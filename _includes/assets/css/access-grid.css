@@ -183,7 +183,19 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   .sidebarwrapper h4 a {color: var(--black);font-size: calc(1.1rem + 0.5rem);text-decoration: none;border:none;}
   .sidebarwrapper h4 a:hover {color: var(--accent);font-size: calc(1.1rem + 0.5rem);text-decoration: none;border:none;}
 
+  .teamlinkwrapper {
+  display: Flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 40vw;
+  height: auto;
+  min-height: 10rem;
+  }
 
+  .sidebarsumtitle{  display: Flex;
+    justify-content: flex-start;
+    align-items: center;}
+    
   .teamlinkwrapper h4 {color: var(--black);font-size: calc(1.1rem + 0.5rem);}
   .teamlinkwrapper h4 a {color: var(--black);font-size: calc(1.1rem + 0.5rem);text-decoration: none;border:none;}
   .teamlinkwrapper h4 a:hover {color: var(--accent);font-size: calc(1.1rem + 0.5rem);text-decoration: none;border:none;}
