@@ -1343,7 +1343,10 @@ text-align: left;
 }
 
 .grid-detailpage-sidebar-summary {
-  grid-template-columns: 1rem 2fr 3fr;}
+  grid-template-columns: 1rem 2fr 3fr;
+padding-bottom: 2rem;
+min-height:150px;
+}
 
 .grid-detailpage-sidebar-summary:hover img {
   filter: brightness(1.2);
@@ -1535,7 +1538,7 @@ aspect-ratio: 450 / 270;
   .newssumbutton {margin:0 0 1rem 0;width:100%;}
     
 
-.grid-detailpage-sidebar-summary {padding-bottom: 2rem;}
+
 
 .sidebarsumborderwrap {
   display: Flex;
