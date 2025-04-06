@@ -339,7 +339,7 @@ padding:0;}
 .hero-black {
   width:100%;
   min-height:20rem;
-  background-color: var(--black);
+  background-color: var(--white);
   color: var(--white);
   text-align: left;
   display: flex;
@@ -363,7 +363,7 @@ text-align: left;
 .caption-text h1 { 
 margin:0;
 text-align: left; 
-color: var(--white);
+color: var(--black);
 font-size: calc(1.2rem + 1vw);
  }
 
