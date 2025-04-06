@@ -87,6 +87,8 @@ font-family: 'DM Sans', sans-serif;
 font-weight: 400;
   font-size: var(--body-font-size);
   line-height: 1.5;
+
+  background: #f2f2f2 url(https://www.accesspr2.webtactics.com.au/uploads/simplex/images/body-background.png) repeat;
 }
 
 
