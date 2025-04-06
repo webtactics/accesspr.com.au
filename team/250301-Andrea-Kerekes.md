@@ -17,28 +17,11 @@ description: Andrea co-founded Access in 2008 with a foundation portfolio of B2B
 
 ---
 
-<div class="grid-2-columns-team">		
-	
-<div class="teamimgwrapper">
-    <a href="{{ post.url | url }}"><img src="https://ik.imagekit.io/webtactics/accesspr{{ image }}/tr:w-400,h-500" title="{{ title }}" alt="{{ title }}" width="200px" height="auto" class="teamlistimg">
-    </a>
-</div>
-
-<div class="teamcontentwrapper">
-
-<div class="teamsumtitle">
-
-<p>Andrea co-founded Access in 2008 with a foundation portfolio of B2B clients that included many of the country’s biggest media companies and publishers, along with global advertising, digital and media agencies.</p>
-
-<p>In 2011, she refocused the business on consumer publicity and reputation management, significantly growing the company and working with high-profile brands and organisations such as Woolworths, Destination NSW, Spotify, Sydney Airport, Gallery of NSW, St Vincent’s Private Hospitals, Star Sydney, Pizza Hut, Starlight Children’s Foundation, Barangaroo Reserve, Tourism NT, Charles Darwin University, the NT Major Events Company and more.</p>
-
-</div>
-
-</div>
-
-</div>
 
 
+Andrea co-founded Access in 2008 with a foundation portfolio of B2B clients that included many of the country’s biggest media companies and publishers, along with global advertising, digital and media agencies.
+
+In 2011, she refocused the business on consumer publicity and reputation management, significantly growing the company and working with high-profile brands and organisations such as Woolworths, Destination NSW, Spotify, Sydney Airport, Gallery of NSW, St Vincent’s Private Hospitals, Star Sydney, Pizza Hut, Starlight Children’s Foundation, Barangaroo Reserve, Tourism NT, Charles Darwin University, the NT Major Events Company and more.
 
 
 A former journalist, Andrea has extensive experience in delivering effective and strategic publicity, media relations, reputation management, communications strategy, media training and crisis management in Australia and in New York, where she worked for two years.
