@@ -1802,3 +1802,5 @@ font-size: var(--ptextsize);
 line-height: var(--ptextlineheight);
 margin: 0 0 1rem 0;
 padding:0;}
+
+.padding4rem {padding:2rem 0;}
