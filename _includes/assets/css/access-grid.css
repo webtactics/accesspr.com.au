@@ -429,7 +429,10 @@ padding:0;}
   aspect-ratio: 15 / 10;
 }
 
-.tagtop {padding: 0 0 6rem 0;}
+.tagtop {padding: 0 0 6rem 0;
+  width: 60vw;
+  max-width: 100px;
+}
 
 .tagtop h1, .tagtop h2 {
 font-size: calc(1.6rem + 1vw);
