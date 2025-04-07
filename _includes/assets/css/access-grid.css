@@ -205,7 +205,8 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   .more-meet-team-border { display: Flex;
     justify-content: center;
     align-items: center;
-    width: auto;
+    width: 60%;
+    max-width: 400px;
     height: .6rem;
     background-color: var(--black);
     border-radius:12px;
