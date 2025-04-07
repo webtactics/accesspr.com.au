@@ -11,8 +11,7 @@ image: /static/img/clients/our-work/The-Ethics-Centr.jpg
 imageAlt: Ethics Centre, a unique national not-for-profit organisation.
 
 tags:
-  - Slider
-  - Clients
+
 
 Homepage: true
 
