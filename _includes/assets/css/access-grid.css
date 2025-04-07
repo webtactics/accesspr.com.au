@@ -1096,11 +1096,13 @@ svg:hover {
 
 
 
-.mobilesocialwrapper {margin: 1rem 0 0 0;min-height:var(--navheight);}
+.mobilesocialwrapper {margin: 1rem 0 0 auto;min-height:var(--navheight);
+display:Flex;
+justify-content: flex-end;
+align-items: center;}
 
 .mobilesocialwrapper ul.menusocial li {
-float: left;
-margin: 0 10px;
+
 }
 
 
