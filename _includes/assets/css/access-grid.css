@@ -1068,15 +1068,8 @@ ul.menusocial li a.social-icon {
 
 
 
+
 svg {
-  color: var(--black);
-  -webkit-transition: all var(--transitionquick);
-  -moz-transition: all var(--transitionquick);
-  -ms-transition: all var(--transitionquick);
-  -o-transition: all var(--transitionquick);
-  transition: all var(--transitionquick);
-}
-svg, .scrolled svg {
   color: var(--white);
   -webkit-transition: all var(--transitionquick);
   -moz-transition: all var(--transitionquick);
@@ -1084,6 +1077,10 @@ svg, .scrolled svg {
   -o-transition: all var(--transitionquick);
   transition: all var(--transitionquick);
 }
+
+.mobilesocialwrapper svg {
+  color: var(--black);}
+  
 svg:hover {
   color: var(--accent);
   -webkit-transition: all var(--transitionquick);
