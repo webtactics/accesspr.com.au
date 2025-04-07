@@ -1724,7 +1724,13 @@ ul  li.taggs a:hover, ul  li.taggs  a:focus {
 
 .clientthree .item {padding:4rem;}
 
-  
+@media (max-width: 800px) {
+
+  .clientthree .item {padding:1rem;}
+
+}
+
+
     .imagebox {
 
       box-shadow: 0 2px 8px var(--white);
