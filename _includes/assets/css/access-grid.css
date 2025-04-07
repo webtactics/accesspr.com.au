@@ -441,6 +441,13 @@ font-size: calc(1.6rem + 1vw);
 .home .tagtop h1 {
   font-size: calc(1.8rem + 1vw);
   }
+  @media screen and (max-width: 1500px) {
+
+    .tagtop {padding: 0 0 6rem 0;
+      width: 90vw;
+      max-width: 1000px;
+    }
+  }
 
 .casestudyhover {position: relative;}
 
