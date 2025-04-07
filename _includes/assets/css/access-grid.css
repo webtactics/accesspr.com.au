@@ -767,8 +767,7 @@ span.title-bar-title {display:block;text-indent:34px;padding:0;}
 
 
 
-.navwrapper, .footnavwrapper { margin: 0 0 0 auto;
-min-width: 1000px;}
+.navwrapper { margin: 0 0 0 auto;}
 
 @media screen and (max-width: 1100px) {
   .navwrapper, , .footnavwrapper { margin: 0 0 0 auto;
