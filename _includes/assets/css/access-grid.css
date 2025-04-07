@@ -1656,7 +1656,7 @@ aspect-ratio: 450 / 270;
 
 
 
-.grid-detailpage-sidebar-summary:hover .sidebarsumborder a, .grid-our-work-sidebar:hover .sidebarsumborder a {
+.grid-detailpage-sidebar-summary:hover .sidebarsumborder a, .grid-our-work-sidebar:hover .sidebarsumborder a, .grid-our-work-sidebar:hover .sidebarwrapper h3 a {
   display: Flex;
   justify-content: center;
   align-items: center;
