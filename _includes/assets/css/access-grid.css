@@ -198,6 +198,24 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
     width: auto;
  }
 
+ .more-meet-team::before {
+  border-style:
+solid;
+  border-width:
+.6rem .6rem 0 0;
+  content: '';
+  display: inline-block;
+  height: 1.6rem;
+  width: 1.6rem;
+  left: 0;
+  position: relative;
+  top: 0;
+  transform: rotate(45deg);
+  vertical-align: top;
+  color: var(--black);
+  font-size: 0;
+}
+
   .more-meet-team h4 {color: var(--black);font-size: calc(1.1rem + 0.5rem);}
   .more-meet-team h4 a {color: var(--black);font-size: calc(1.1rem + 0.5rem);text-decoration: none;border:none;}
   .more-meet-team h4 a:hover {color: var(--accent);font-size: calc(1.1rem + 0.5rem);text-decoration: none;border:none;}
