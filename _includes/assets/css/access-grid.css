@@ -189,7 +189,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
     height: auto;
     min-height:5rem;
     padding-top:10rem;
-    background-color: var(--greyeb);
+    
   }
 
   .more-meet-team {  display: Flex;
@@ -205,7 +205,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   .more-meet-team-border { display: Flex;
     justify-content: center;
     align-items: center;
-    width: 100%;
+    width: auto;
     height: .6rem;
     background-color: var(--black);
     border-radius:12px;
