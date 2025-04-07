@@ -1654,7 +1654,9 @@ aspect-ratio: 450 / 270;
   border-radius: 12px;
 }
 
-.grid-detailpage-sidebar-summary:hover .sidebarsumborder, .grid-our-work-sidebar:hover .sidebarsumborder {
+
+
+.grid-detailpage-sidebar-summary:hover .sidebarsumborder a, .grid-our-work-sidebar:hover .sidebarsumborder a {
   display: Flex;
   justify-content: center;
   align-items: center;
