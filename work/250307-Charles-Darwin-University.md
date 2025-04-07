@@ -14,7 +14,6 @@ imageAlt: CDU is a multi-sector university with more than 21,000 students across
 tags:
   - Showcase
   - Slider
-  - Clients
   - Our Work
 
 description: For four years, Access worked with a number of Charles Darwin University’s (CDU) departments on major projects from corporate restructuring to student services, digital transformation to issues management. 

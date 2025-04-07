@@ -14,7 +14,6 @@ imageAlt: Mates4Mates is a national charity that actively supports veterans, Def
 tags:
   - Showcase
   - Slider
-  - Clients
   - Our Work
 
 description: Mates4Mates is a national charity that actively supports veterans, Defence Force members and their families by providing social connection activities, psychological support, physical rehabilitation and skills for recovery programs.

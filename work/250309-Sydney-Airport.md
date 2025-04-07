@@ -14,7 +14,6 @@ imageAlt: Our biggest project was the multi-million-dollar upgrade of T1 Interna
 tags:
   - Showcase
   - Slider
-  - Clients
   - Our Work
 
 description: Our biggest project was the multi-million-dollar upgrade of T1 International, which included the launch of its luxury retail precinct, duty-free, dining, and the revamped T2 Domestic offerings. To support this, we executed media calls, famils and influencer partnerships, and produced a digital content series featuring well-known airport characters such as celebrity chef Luke Mangan. 

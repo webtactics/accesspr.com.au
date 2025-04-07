@@ -14,7 +14,6 @@ imageAlt: Access was the first external PR agency hired by St Vincent’s Hospit
 tags:
   - Showcase
   - Slider
-  - Clients
   - Our Work
 
 description: Access was the first external PR agency hired by St Vincent’s Hospitals’ central marketing team to develop a consistent publicity and social media program across all nine of their private hospitals. The brief was significant, given the organisation’s complex stakeholder mix, limited spokespeople and strict communications regulations.

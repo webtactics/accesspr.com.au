@@ -14,7 +14,6 @@ imageAlt: We managed an always-on press office,and numerous projects, campaigns 
 tags:
   - Showcase
   - Slider
-  - Clients
   - Our Work
 
 description: We managed an always-on press office,and numerous projects, campaigns and major events spanning Aboriginal cultures and education, general entertainment, ceremonies, New Year’s Eve parties, Aboriginal art projects, contemporary art and culture events, the BLAK Markets, NAIDOC Week and more.
