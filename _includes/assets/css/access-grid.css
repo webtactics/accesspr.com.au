@@ -405,32 +405,7 @@ padding:0;}
   align-items: center;
   position: relative;} 
 
-.caption-text { 
-  width: calc(100vw - 2rem);
-  max-width: 1280px;
-padding: 2rem 0;
-margin:0 auto;  
-position: relative;
-display: flex;
-justify-content: flex-start;
-align-items: center;
-text-align: left;
-}
 
-
-.caption-text h1 { 
-margin:0;
-text-align: left; 
-color: var(--black);
-font-size: calc(1.2rem + 1vw);
- }
-
- @media only screen and (max-width: 1400px) { 
-  .caption-text h1 { font-size: calc(1.6rem + 1vw); width: 60vw; max-width: 800px; }
-  }
-  @media only screen and (max-width: 800px) { 
-    .caption-text h1 { font-size: calc(1.8rem + 1vw); }
-    }
 
 .hero {
 
