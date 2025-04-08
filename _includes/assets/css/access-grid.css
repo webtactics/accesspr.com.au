@@ -1279,6 +1279,12 @@ min-height:200px;
 }
 
 }
+@media (max-width: 800px) {
+.grid-4-columns-clients {
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
+}
 
 
 @media (max-width: 600px) {
