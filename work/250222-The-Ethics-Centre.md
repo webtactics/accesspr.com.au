@@ -4,14 +4,14 @@ Website: https://ethics.org.au/
 
 logo: /static/img/clients/logos/The-Ethics-Centre.jpg
 
-date: 2025-03-20
+date: 2025-02-22
 
 
 image: /static/img/clients/our-work/The-Ethics-Centr.jpg
 imageAlt: Ethics Centre, a unique national not-for-profit organisation.
 
 tags:
-
+  - Clients
 
 Homepage: true
 
