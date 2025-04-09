@@ -87,6 +87,7 @@ font-family: 'DM Sans', sans-serif;
 font-weight: 400;
   font-size: var(--body-font-size);
   line-height: 1.5;
+  text-wrap: pretty;
 }
 
 
