@@ -3,6 +3,6 @@
         "njk": "nunjucks"
     },
     "files.exclude": {
-        "**/_notes": true
+        "_notes/": true
     }
 }
