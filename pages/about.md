@@ -17,7 +17,7 @@ tagtop: Independent, connected, and experienced, Access PR has been shaping the 
 ---
 
 
-Our consumer, corporate and creative services expertise crafts stories and strategies that captivate, influence and inspire.
+Our consumer, corporate and creative services expertise crafts stories and strategies that captivate, influence and inspire..
 
 <strong>We deliver headline-grabbing campaigns that drive powerful media moments and exceptional results.</strong>
 
