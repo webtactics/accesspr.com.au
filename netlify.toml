@@ -22,12 +22,12 @@ package = "@netlify/plugin-sitemap"
   prettyURLs = true
   exclude = [
 
-  'https://jamestaylorsolicitor.com.au/404/',
-  'https://jamestaylorsolicitor.com.au/404.html',
-  'https://jamestaylorsolicitor.com.au/admin/',
-  'https://jamestaylorsolicitor.com.au/admin/email-templates/confirmation.html',
-  'https://jamestaylorsolicitor.com.au/admin/email-templates/email-change.html',
-  'https://jamestaylorsolicitor.com.au/admin/email-templates/invitation.html',
+  'https://www.accesspr.com.au/404/',
+  'https://www.accesspr.com.au/404.html',
+  'https://www.accesspr.com.au/admin/',
+  'https://www.accesspr.com.au/admin/email-templates/confirmation.html',
+  'https://www.accesspr.com.au/admin/email-templates/email-change.html',
+  'https://www.accesspr.com.au/admin/email-templates/invitation.html',
 
   
   
