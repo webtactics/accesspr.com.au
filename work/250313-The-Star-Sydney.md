@@ -8,7 +8,7 @@ logo: /static/img/clients/logos/The-Star-Sydney.jpg
 date: 2025-03-13
 
 
-image: /static/img/clients/our-work/The-Star-Sydney.jpg
+image: https://ik.imagekit.io/webtactics/access/static/img/clients/our-work/The-Star-Sydney_nYuyXu-zf.jpg
 imageAlt: Our remit grew to cover The Star’s full portfolio of signature venues, including Sky Terrace and Momofuku Seiōbo, as well as PR for major partnerships including Sydney Festival, Vivid Sydney, and the Sydney Swans.
 
 tags:
