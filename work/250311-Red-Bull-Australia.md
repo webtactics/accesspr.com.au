@@ -8,7 +8,7 @@ logo: /static/img/clients/logos/Red-Bull-Australia.jpg
 date: 2025-03-11
 
 
-image: /static/img/clients/our-work/Red-Bull-Australia.jpg
+image: https://ik.imagekit.io/webtactics/access/static/img/clients/our-work/Red-Bull-Australia_zrNeVLpdK.jpg
 imageAlt: One of our standout early projects was managing Josh Sheehan's national media tour ahead of his history-making Moto X double backflip at the X Games. Our efforts secured widespread coverage, including nationally syndicated full-page News Corp features, interviews on The Today Show and Sunrise, a major Sun Herald feature, and more.
 
 tags:

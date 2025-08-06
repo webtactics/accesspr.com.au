@@ -8,7 +8,7 @@ logo: /static/img/clients/logos/Barangaroo-Delivery-Authority.jpg
 date: 2025-03-10
 
 
-image: /static/img/clients/our-work/Barangaroo.jpg
+image: https://ik.imagekit.io/webtactics/access/static/img/clients/our-work/Barangaroo_Sh9l6y8J7.jpg
 imageAlt: We managed an always-on press office,and numerous projects, campaigns and major events spanning Aboriginal cultures and education, general entertainment, ceremonies, New Year’s Eve parties, Aboriginal art projects, contemporary art and culture events, the BLAK Markets, NAIDOC Week and more.
 
 tags:

@@ -8,7 +8,7 @@ logo: /static/img/clients/logos/birdsville-races-logo.jpg
 date: 2025-03-15
 
 
-image: /static/img/clients/our-work/Birdsville-Races-Horses-leave-the-starters-gates-at-the-Birdsville-Races.jpg
+image: https://ik.imagekit.io/webtactics/access/static/img/clients/our-work/Birdsville-Races-Horses-leave-the-starters-gates-at-the-Birdsville-Races_7YV-mur4S.jpg
 imageAlt: Horses leave the starters gates at the Birdsville Races
 
 tags:

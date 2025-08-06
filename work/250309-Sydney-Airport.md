@@ -8,7 +8,7 @@ logo: /static/img/clients/logos/Sydney-Airport.jpg
 date: 2025-03-09
 
 
-image: /static/img/clients/our-work/Sydney-Airport.jpg
+image: https://ik.imagekit.io/webtactics/access/static/img/clients/our-work/Sydney-Airport_fVHoRbUqZ.jpg
 imageAlt: Our biggest project was the multi-million-dollar upgrade of T1 International, which included the launch of its luxury retail precinct, duty-free, dining, and the revamped T2 Domestic offerings. To support this, we executed media calls, famils and influencer partnerships, and produced a digital content series featuring well-known airport characters such as celebrity chef Luke Mangan. 
 
 tags:
