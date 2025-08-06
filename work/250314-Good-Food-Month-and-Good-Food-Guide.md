@@ -8,7 +8,7 @@ logo: /static/img/clients/logos/Good-Food-Month-Guide.jpg
 date: 2025-03-14
 
 
-image: /static/img/clients/our-work/good-food-month.jpg
+image: https://ik.imagekit.io/webtactics/access/static/img/clients/our-work/good-food-month_8OGGFDzwQ.jpg
 imageAlt: Sydney’s iconic Good Food Month is a month-long celebration of chefs, restaurants, pop-ups, masterclasses, collaborations, and exclusive events.
 
 tags:
