@@ -7,7 +7,7 @@ logo: /static/img/clients/logos/NTMEC-Logo.jpg
 date: 2025-03-19
 
 
-image: /static/img/clients/our-work/NTMEC-Arelhe-Urrperle-a-6m-tall-puppet-cast-a-striking-impression-at-Parrtjima-as-she-glided-around-the-site.jpg
+image: https://ik.imagekit.io/webtactics/access/static/img/clients/our-work/NTMEC-Arelhe-Urrperle-a-6m-tall-puppet-cast-a-striking-impression-at-Parrtjima-as-she-glided-around-the-site_9QLVHTMZf.jpg
 imageAlt: Arelhe Urrperle a 6m tall puppet cast a striking impression at Parrtjima as she glided around the site
 
 tags:
