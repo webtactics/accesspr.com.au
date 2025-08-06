@@ -8,7 +8,7 @@ logo: /static/img/clients/logos/Mates-4-Mates.jpg
 date: 2025-03-06
 
 
-image: /static/img/clients/our-work/Mate4Mates.jpg
+image: https://ik.imagekit.io/webtactics/access/static/img/clients/our-work/Mates-4-Mates_HI1K-r5VN.jpg
 imageAlt: Mates4Mates is a national charity that actively supports veterans, Defence Force members and their families by providing social connection activities, psychological support, physical rehabilitation and skills for recovery programs.
 
 tags:

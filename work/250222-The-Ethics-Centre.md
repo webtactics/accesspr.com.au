@@ -7,7 +7,7 @@ logo: /static/img/clients/logos/The-Ethics-Centre.jpg
 date: 2025-02-22
 
 
-image: /static/img/clients/our-work/The-Ethics-Centr.jpg
+image: https://ik.imagekit.io/webtactics/access/static/img/clients/our-work/The-Ethics-Centr_lBvdQNPMK.jpg
 imageAlt: Ethics Centre, a unique national not-for-profit organisation.
 
 tags:
