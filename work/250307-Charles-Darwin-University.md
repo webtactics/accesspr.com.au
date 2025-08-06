@@ -8,7 +8,7 @@ logo: /static/img/clients/logos/Charles-Darwin-University.jpg
 date: 2025-03-07
 
 
-image: /static/img/clients/our-work/Charles-Darwin-University.jpg
+image: https://ik.imagekit.io/webtactics/access/static/img/clients/our-work/Charles-Darwin-University_O3m9RCQXT.jpg
 imageAlt: CDU is a multi-sector university with more than 21,000 students across eight campuses and centres, and it has undergone some significant changes over time, requiring a robust, consistent and agile communications approach.
 
 tags:

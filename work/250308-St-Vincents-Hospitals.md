@@ -8,7 +8,7 @@ logo: /static/img/clients/logos/St-Vincents-Hospital-Australia.jpg
 date: 2025-03-08
 
 
-image: /static/img/clients/our-work/st-vincents.jpg
+image: https://ik.imagekit.io/webtactics/access/static/img/clients/our-work/st-vincents_K_34Y7N4U.jpg
 imageAlt: Access was the first external PR agency hired by St Vincent’s Hospitals’ central marketing team to develop a consistent publicity and social media program across all nine of their private hospitals. The brief was significant, given the organisation’s complex stakeholder mix, limited spokespeople and strict communications regulations.
 
 tags:
