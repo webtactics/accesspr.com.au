@@ -8,7 +8,7 @@ logo: /static/img/clients/logos/Darwin-Festival-400x300.jpg
 date: 2025-03-16
 
 
-image: /static/img/clients/our-work/Darwin-Festival.jpg
+image: https://ik.imagekit.io/webtactics/access/static/img/clients/our-work/Darwin-Festival_p6ukDg0oT.jpg
 imageAlt: The Darwin Festival, founded as the Bougainvillea Festival in 1979 and named Festival of Darwin from 1996 to 2002, is an annual arts festival in Darwin, Northern Territory.
 
 tags:
