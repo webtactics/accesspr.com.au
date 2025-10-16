@@ -1,5 +1,6 @@
 ---
 title: You can't fake good strategy
+permalink: "newsroom/you-cant-fake-good-strategy/"
 
 date: 2013-09-27
 
