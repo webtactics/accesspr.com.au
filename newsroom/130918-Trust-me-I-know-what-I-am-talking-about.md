@@ -14,24 +14,19 @@ image:
 tags:
   - Blog
   - 2013-Year
+  - Andrea Kerekes
 
 
 
 
 ---
-<p><strong>PR practitioners and marketers are expected to be the valiant wardens of brand identity - the guardians of good grammar and the enforcers of clear and effective communication.</strong></p>
-<p>So why do so many marketers allow appalling assaults on the English language to slip through the cracks?</p>
-<p>Sloppy syntax, poor punctuation and deficient grammar are white-anting the communication materials of some of Australia's biggest and most recognisable brands.</p>
-<p>I'm not talking about the occasional typo or casual grammatical error, either. Too often we see global brands consciously or unconsciously pushing out defective grammar to the detriment of the brand identity and message.</p>
-<p>It's important to make sure your nouns and verbs agree too. A company is an 'it.' This one is a simple but common error made by many brands that use words like 'their' and 'they' in reference to the company.</p>
-<p>And while I&rsquo;m at it, there&rsquo;s nothing wrong with starting a sentence with a conjunction, either.</p>
-<p>I think there are a couple of explanations for this:</p>
-<div class="libox">
-<ul class="square">
-<li><strong>Sign-off doom.</strong> When deadlines loom the dreaded approval process can cause some marketers to compromise with clients, stakeholders and superiors. Many buckle under pressure from the powers-that-be to intentionally move ahead with a grammatically flawed media release, campaign or quote.</li>
-<li><strong>Cat got your tongue? </strong>Many marketers just aren't confident enough in their own knowledge of grammar to challenge errors and justify their reasons.</li>
-<li><strong>"But it sounds right."</strong> Sometimes accurate grammar doesn&rsquo;t sound correct, and so inaccurate grammar is favoured. Consult the grammar rule book to reinforce your recommendations and educate the other parties about the potential damage of publishing errors.</li>
-</ul>
-</div>
-<p>What's the worst thing that can happen if poor grammar prevails?<br /> The brand loses credibility and the target audience and the media might think the marketers are too stupid to notice. Both terrible outcomes.</p>
-<p>Challenging the status quo and making changes may not always be ideal. But why risk causing unnecessary damage?<br /> Failing to defend good communication causes irreversible brand damage. So, for the sake of your message, hold your ground.</p>
+<p><strong>We knew it and Nielsen has again confirmed it! </strong></p>
+<p>If trust is key for your brand, then earned media (eg editorial and word of mouth rather than paid-for advertising) is tops.</p>
+<p>And conversation (not just content) is king, with online consumer reviews the second most trusted source of brand information and messaging.<strong>*</strong></p>
+<p>So while plenty of people are banging on about the blurring of lines between advertising and editorial, and the turf war between ad agencies, media agencies and PR agencies, one thing is clear.</p>
+<p>You HAVE to have people on your team who understand how digital and &lsquo;traditional&rsquo; journalists, editors and producers think and work if you want consumers to trust you.</p>
+<p>Do ad agency creatives or suits know how many deadlines a day a newspaper journo has with a single story? (It&rsquo;s three by the way - two of them online and one for print if the story has legs.)</p>
+<p>And on the flip side, how many PR agencies would be able to create a media schedule or write a Cannes Lion-winning 60-second piece of film?</p>
+<p>So yes, marketers should keep us all working together but don&rsquo;t blur lines when trust is on the line.</p>
+<p><strong>*Read the report here &gt; </strong><a title="Earned advertising more trusted than ever, but paid media still strong: Nielsen" href="http://www.nielsen.com/us/en/reports/2012/global-trust-in-advertising-and-brand-messages.html" target="_blank" rel="noopener">Earned advertising more trusted than ever, but paid media still strong: Nielsen</a></p>
+<p><strong>Andrea Kerekes</strong></p>
