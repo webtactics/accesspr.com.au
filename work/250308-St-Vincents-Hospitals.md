@@ -1,5 +1,5 @@
 ---
-title: St Vincent’s Hospitals
+title: St Vincents Hospitals
 Website: https://www.svph.org.au/
 
 logo: /static/img/clients/logos/St-Vincents-Hospital-Australia.jpg
