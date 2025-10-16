@@ -1,0 +1,9 @@
+{
+    "layout": "layouts/post-newsroom.njk",
+    "permalink": "newsroom/{{ title | slug }}/index.html",
+    "author": "Anonymous",
+    "tags": [
+     "Newsroom"
+    ]
+  }
+  
