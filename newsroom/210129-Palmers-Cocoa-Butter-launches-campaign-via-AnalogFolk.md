@@ -1,6 +1,6 @@
 ---
 title: Palmer’s Cocoa Butter launches campaign via AnalogFolk
-
+permalink: "newsroom/Palmers-Cocoa-Butter-launches-campaign-via-AnalogFolk/"
 date: 2021-01-29
 
 eventdate:
