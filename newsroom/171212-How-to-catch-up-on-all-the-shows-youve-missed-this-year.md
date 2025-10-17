@@ -1,5 +1,6 @@
 ---
 title: How to catch up on all the shows you’ve missed this year 
+permalink: "newsroom/How-to-catch-up-on-all-the-shows-youve-missed-this-year/"
 
 date: 2017-12-12
 
