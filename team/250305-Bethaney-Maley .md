@@ -1,7 +1,7 @@
 ---
 eleventyExcludeFromCollections: false
 title: Bethaney Maley 
-Position: Senior Strategic consultant
+Position: Senior Strategic Consultant
 image: /static/img/about/team/Bethaney-Maley.jpg
 
 date: 2025-03-05
