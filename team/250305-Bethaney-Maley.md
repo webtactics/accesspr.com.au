@@ -1,7 +1,7 @@
 ---
 eleventyExcludeFromCollections: false
 title: Bethaney Maley 
-Position: Senior Strategic Consultant
+Position: Managing Director, Darwin
 image: /static/img/about/team/Bethaney-Maley.jpg
 
 date: 2025-03-05
