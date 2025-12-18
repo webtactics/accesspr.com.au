@@ -1457,7 +1457,7 @@ aspect-ratio: 450 / 270;
   border-radius: 12px;
 }
 
-.grid-our-work-sidebar:hover .sidebarsumtitle h4 a {color: var(--accent);}
+.grid-detailpage-sidebar-summary:hover .pricelistsum h4 a, .grid-our-work-sidebar:hover .sidebarsumtitle h4 a {color: var(--accent);}
 
 .grid-detailpage-sidebar-summary:hover .sidebarsumborder a, .grid-our-work-sidebar:hover .sidebarsumborder a, .grid-our-work-sidebar:hover .sidebarwrapper h3 a {
   display: Flex;
