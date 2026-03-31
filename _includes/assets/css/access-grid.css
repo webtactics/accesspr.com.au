@@ -164,7 +164,6 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
 .text150 {font-size: 150%;}
 .text120 {font-size: 120%;}
 
-.pad3rem {padding: 1.5rem 0;height:48px;}
 
 .h1, h1 {
   font-size: calc(2rem + 1vw); 
@@ -1814,6 +1813,9 @@ display: Flex;
   max-width: 600px;
 }
  
+
+.contentwrapper ul {list-style-type: square;}
+
 .contentwrapper li {
 font-family: 'DM Sans', sans-serif;
 font-style: normal;
@@ -1825,4 +1827,6 @@ line-height: var(--ptextlineheight);
 margin: 0 0 1rem 0;
 padding:0;}
 
+
+.pad3rem {padding: 1.5rem 0;height:48px;}
 .padding4rem {padding:2rem 0;}
