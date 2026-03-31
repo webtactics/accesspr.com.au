@@ -1,4 +1,5 @@
 ---
+eleventyExcludeFromCollections: true
 title: Northern Territory Major Events Company (NTMEC) 
 Website: https://ntmajorevents.com.au/
 
