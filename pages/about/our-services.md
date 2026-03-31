@@ -32,6 +32,7 @@ tagtop: We offer a full suite of PR, communication and creative solutions, bring
 <li>Media training and workshops</li>
 <li>Corporate and internal communications</li>
  </ul>
+ <div class="pad3rem"></div>
 <h3>Integrated Marketing</h3>
 <ul>
 <li>Integrated campaign planning and management</li>
@@ -46,6 +47,7 @@ tagtop: We offer a full suite of PR, communication and creative solutions, bring
 <li>Video production and creative</li>
 <li>Performance monitoring, analytics and reporting</li>
  </ul>
+  <div class="pad3rem"></div>
 <h3>Cultural Communications & Consulting</h3>
 <ul>
 <li>Cross-cultural internal and external communications</li>
@@ -53,13 +55,13 @@ tagtop: We offer a full suite of PR, communication and creative solutions, bring
 <li>Cross-cultural engagement</li>
 <li>Business marketing development</li>
  </ul>
-
+ <div class="pad3rem"></div>
 <h3>Media</h3>
 <ul>
 <li>Through Access Media, a joint venture between Involved Media and Access, we offer a full-service media business including media strategy, planning and buying
  </ul>
 
-
+ <div class="pad3rem"></div>
 <h3>Brand and Corporate purpose</h3>
 <ul>
 <li>Through our partnership with strategy advisory firm Brand Council we offer deep expertise in unearthing and enacting corporate purpose and brand transformation.</li>
