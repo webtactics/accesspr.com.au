@@ -1,6 +1,6 @@
 ---
 title: Do you value content?
-
+permalink: "/newsroom/Do-you-value-content/"
 date: 2013-10-04
 
 eventdate:
