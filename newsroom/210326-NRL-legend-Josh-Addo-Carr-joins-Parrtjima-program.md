@@ -1,14 +1,14 @@
 ---
-title: Aussie music icon Bernard Fanning headlining Merlin Darwin Triple Crown concert
-permalink: "newsroom/Aussie-music-icon-Bernard-Fanning-headlining-Merlin-Darwin-Triple-Crown-concert"
-date: 2021-03-10
+title: NRL legend Josh Addo-Carr joins Parrtjima program 
+permalink: "newsroom/NRL-legend-Josh-Addo-Carr-joins-Parrtjima-program"
+date: 2021-03-26
 
 eventdate:
-  day: 10th
+  day: 26th
   month: March
   year: 2021
 
-image: 2021/Bernard_Fanning-min.PNG
+image: 2021/Josh_Addo_Carr.PNG
 
 
 tags:
@@ -19,8 +19,10 @@ tags:
 
 
 ---
-Australian music legend Bernard Fanning will headline the concert at the 2021 Merlin Darwin Triple Crown, which celebrates its biggest program ever this year.
+Premiership champion and Melbourne Storm player Josh Addo-Carr has joined the list of speakers at Parrtjima – A Festival in Light. The free, 10-night festival takes place in the heart of Australia, and is the only authentic Aboriginal light festival of its kind.
 
-Renowned as the lead vocalist of iconic band Powderfinger, Fanning will be joined by other Aussie music favourites Ball Park Music and electronic musician and producer Alice Ivy. They will all take to the stage on the evening of Saturday, 19 June. 
+Showcasing the oldest continuous culture on earth through the newest technology, Parrtjima includes a program packed with large-scale light installations, art, music, interactive workshops, films and the spoken word, centred around the magnificent illumination of two kilometres of the ancient MacDonnell Ranges.
 
-The Merlin Darwin Triple Crown is delivered by the Northern Territory Government through the Northern Territory Major Events Company (NTMEC).
+Addo-Carr, from the Gunggandji, Birrbay and Wiradjuri people of New South Wales, is a fascinating new addition to the talks program, and will take the Telstra NRL Premiership Trophy with him to Alice Springs. He will join Parrtjima Curator Rhoda Roberts to delve into his sporting career, and the expectations and challenges he has faced, and continues to face after signing a four-year deal that will see him move to the Canterbury Bulldogs from 2022.
+
+The sporting hero joins a range of other big names on the Parrtjima talks program, including author Bruce Pascoe, Professor Marcia Langton and singer-songwriter Ziggy Ramo.
