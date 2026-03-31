@@ -19,6 +19,10 @@ tags:
 
 
 ---
-<p>Following extensive research and strategic planning, Palmer&rsquo;s has launched its first-ever masterbrand marketing campaign in Australia through creative agency AnalogFolk this week.</p>
-<p>Research identified that the idea of women suffering from &lsquo;beauty chaos&rsquo; was universally felt and understood, with the new campaign a compelling reminder that Palmer&rsquo;s knows that beauty is far less complicated and expensive than the industry makes it out to be.</p>
-<p>The new &lsquo;Find the Formula&rsquo; campaign for the skin and haircare brand is the first major brand push in 15 years, with previous advertising focussed on product-specific messages.</p>
+Palmer’s Cocoa Butter launches campaign via AnalogFolk.
+
+Following extensive research and strategic planning, Palmer’s has launched its first-ever masterbrand marketing campaign in Australia through creative agency AnalogFolk this week.
+
+Research identified that the idea of women suffering from ‘beauty chaos’ was universally felt and understood, with the new campaign a compelling reminder that Palmer’s knows that beauty is far less complicated and expensive than the industry makes it out to be.
+
+The new ‘Find the Formula’ campaign for the skin and haircare brand is the first major brand push in 15 years, with previous advertising focussed on product-specific messages. 
