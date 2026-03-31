@@ -1,6 +1,6 @@
 ---
 title: Enjoy an insight into the magic of Parrtjima 2021
-permalink: "newsroom/2021-Parrtjima-program-bursting-with-world-class-acts"
+
 date: 2021-03-01
 
 eventdate:

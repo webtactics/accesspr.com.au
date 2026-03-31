@@ -3,7 +3,7 @@ eleventyExcludeFromCollections: true
 
 title: St Vincent's Hospitals
 Website: https://www.svph.org.au/
-permalink: "clients/our-work/st-vincents-hospitals/"
+permalink: "/clients/our-work/st-vincents-hospitals/"
 
 
 logo: /static/img/clients/logos/St-Vincents-Hospital-Australia.jpg

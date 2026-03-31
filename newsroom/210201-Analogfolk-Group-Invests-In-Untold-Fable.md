@@ -1,6 +1,6 @@
 ---
 title: Analogfolk Group invests in Untold Fable
-permalink: "newsroom/Analogfolk-Group-Invests-In-Untold-Fable"
+permalink: "/newsroom/Analogfolk-Group-Invests-In-Untold-Fable/"
 date: 2021-02-01
 
 eventdate:

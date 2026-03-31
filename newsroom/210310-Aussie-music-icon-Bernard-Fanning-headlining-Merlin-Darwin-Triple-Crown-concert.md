@@ -1,6 +1,6 @@
 ---
 title: Aussie music icon Bernard Fanning headlining Merlin Darwin Triple Crown concert
-permalink: "newsroom/Aussie-music-icon-Bernard-Fanning-headlining-Merlin-Darwin-Triple-Crown-concert"
+
 date: 2021-03-10
 
 eventdate:

@@ -1,6 +1,6 @@
 ---
 title: Enjoy an insight into the magic of Parrtjima 2021
-permalink: "newsroom/Enjoy-an-insight-into-the-magic-of-Parrtjima-2021"
+
 date: 2021-02-05
 
 eventdate:

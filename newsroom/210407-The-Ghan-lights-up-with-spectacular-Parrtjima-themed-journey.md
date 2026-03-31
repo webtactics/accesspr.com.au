@@ -1,6 +1,6 @@
 ---
 title: The Ghan lights up with spectacular Parrtjima themed journey
-permalink: "newsroom/The-Ghan-lights-up-with-spectacular-Parrtjima-themed-journey"
+
 date: 2021-04-07
 
 eventdate:

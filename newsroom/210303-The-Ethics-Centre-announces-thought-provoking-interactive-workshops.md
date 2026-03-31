@@ -1,6 +1,6 @@
 ---
 title: The Ethics Centre announces thought-provoking interactive workshops
-permalink: "newsroom/The-Ethics-Centre-announces-thought-provoking-interactive-workshops"
+
 date: 2021-03-03
 
 eventdate:

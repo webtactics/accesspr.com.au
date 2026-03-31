@@ -1,6 +1,6 @@
 ---
 title: NRL legend Josh Addo-Carr joins Parrtjima program 
-permalink: "newsroom/NRL-legend-Josh-Addo-Carr-joins-Parrtjima-program"
+
 date: 2021-03-26
 
 eventdate:
