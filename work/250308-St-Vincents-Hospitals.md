@@ -1,4 +1,6 @@
 ---
+eleventyExcludeFromCollections: true
+
 title: St Vincent's Hospitals
 Website: https://www.svph.org.au/
 permalink: "clients/our-work/st-vincents-hospitals/"
