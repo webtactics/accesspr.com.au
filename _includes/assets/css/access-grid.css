@@ -1560,7 +1560,7 @@ figcaption {
 
 
 li::marker {
-  color: var(--primary);
+  color: var(--accent);
   font-size: 1.5em;
 list-style-type: square;
 
