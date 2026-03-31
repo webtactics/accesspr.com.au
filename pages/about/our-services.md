@@ -2,7 +2,7 @@
 layout: layouts/grid-tagtop.njk
 title: Our Services
 class: about services
-description: Our Services
+description: We offer a full suite of PR, communication and creative solutions, bringing fresh ideas, clever strategy and sharp execution to deliver real and measurable results.
 date: 2024-08-22
 permalink: /about/what-we-do/
 eleventyNavigation:
