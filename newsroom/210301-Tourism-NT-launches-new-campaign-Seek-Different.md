@@ -1,6 +1,6 @@
 ---
 title: Tourism NT launches new campaign 'Seek Different'
-permalink: "/newsroom/Tourism-NT-launches-new-campaign-Seek-Different/"
+permalink: /newsroom/Tourism-NT-launches-new-campaign-Seek-Different/
 date: 2021-03-01
 
 eventdate:

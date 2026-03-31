@@ -61,4 +61,6 @@ tagtop: We offer a full suite of PR, communication and creative solutions, bring
 
 
 <h3>Brand and Corporate purpose</h3>
-Through our partnership with strategy advisory firm Brand Council we offer deep expertise in unearthing and enacting corporate purpose and brand transformation.
+<ul>
+<li>Through our partnership with strategy advisory firm Brand Council we offer deep expertise in unearthing and enacting corporate purpose and brand transformation.</li>
+ </ul>
