@@ -1,6 +1,8 @@
 ---
-eleventyExcludeFromCollections: false
+eleventyExcludeFromCollections: true
 title: Bethaney Maley 
+permalink: /about/meet-the-team/bethaney-maley-superseded/
+
 Position: Managing Director, Darwin
 image: /static/img/about/team/Bethaney-Maley.jpg
 

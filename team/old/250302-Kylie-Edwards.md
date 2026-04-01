@@ -1,5 +1,5 @@
 ---
-
+eleventyExcludeFromCollections: true
 title: Kylie Edwards
 Position: Director of PR
 image: /static/img/about/team/Kylie-Edwards.jpg
