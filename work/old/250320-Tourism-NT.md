@@ -1,5 +1,7 @@
 ---
-title: Tourism NT
+eleventyExcludeFromCollections: true
+
+title: Tourism NT (old)
 Website: https://northernterritory.com/
 
 logo: /static/img/clients/logos/tourism-nt.jpg
