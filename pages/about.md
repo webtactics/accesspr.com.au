@@ -34,8 +34,8 @@ Whether itâ€™s across culture, creativity or business, we amplify First Nationsâ
   <div class="extrainfo">
     <h3>Further Information</h3>
     <ul>
-      <li><h4><a href="/about/what-we-do/">Our Services</a></h4></li>
-      <li><h4><a href="/about/meet-the-team/">Meet The Team</a></h4></li>
+      <li><h4><a href="/about/what-we-do/" title="Our Services" alt="Our Services">Our Services</a></h4></li>
+      <li><h4><a href="/about/meet-the-team/" title="Meet The Team" alt="Meet The Team">Meet The Team</a></h4></li>
     </ul>
   </div>
 </div>

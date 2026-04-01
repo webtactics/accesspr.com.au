@@ -72,3 +72,13 @@ tagtop: We offer a full suite of PR, communication and creative solutions, bring
 <ul>
 <li>Through our partnership with strategy advisory firm <a href="https://www.brandcouncil.com.au/" target="_blank" rel="noopener noreferrer">Brand Council</a> we offer deep expertise in unearthing and enacting corporate purpose and brand transformation.</li>
 </ul>
+
+<div class="extrainfowrapper">
+  <div class="extrainfo">
+    <h3>Further Information</h3>
+    <ul>
+      <li><h4><a href="/about/meet-the-team/" title="Meet The Team" alt="Meet The Team">Meet The Team</a></h4></li>
+      <li><h4><a href="/clients/our-work/" title="Our Work" alt="Our Work">Our Work</a></h4></li>
+    </ul>
+  </div>
+</div>
