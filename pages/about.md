@@ -1,10 +1,10 @@
 ---
 layout: layouts/grid-tagtop.njk
 title: Who We Are
-description: Access launched as a start up in 2008 and since then has become one of the industry’s most respected independent communications and PR agencies.
+description: Our consumer, corporate and creative services expertise crafts stories and strategies that captivate, influence and inspire.
 section: about
 class: about
-date: 2025-03-17
+date: 2026-04-01
 permalink: /about/
 metadata:
   title: Who We Are
@@ -28,3 +28,12 @@ We are passionate about Aboriginal and Torres Strait Islander storytelling, and 
 Whether it’s across culture, creativity or business, we amplify First Nations’ voices to raise awareness and understanding, spark conversations and unlock opportunities.
 
 <strong>We reach the right people, with the right message, through the right channels, at the right time.</strong>
+
+<div class="extrainfowrapper">
+  <div class="extrainfo">
+    <h3>Further Information</h3>
+    <ul>
+      <li><h4><a href="/about/what-we-do/">Our Services</a></h4></li>
+      <li><h4><a href="/about/meet-the-team/">Meet The Team</a></h4></li>
+    </ul>
+  </div>
