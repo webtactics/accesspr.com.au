@@ -19,15 +19,15 @@ tagtop: Meet the team.
 <div class="grid-2-columns">
 
  <div class="imagebox">
-    <a href="https://www.brandcouncil.com.au/" target="_blank" rel="noopener">
-      <img src="/static/img/about/team/brand-council-logo.jpg" alt="Brand Council Logo">
+    <a href="https://www.brandcouncil.com.au/" target="_blank" rel="noopener" title="Brand Council" alt="Brand Council">
+      <img src="/static/img/about/team/brand-council-logo.jpg" alt="Brand Council Logo" title="Brand Council">
     </a>
   </div>
 
 
   <div class="imagebox">
-    <a href="https://www.involvedmedia.com.au/" target="_blank" rel="noopener">
-      <img src="/static/img/about/team/involved-media-logo.jpg" alt="Involved Media Logo">
+    <a href="https://www.involvedmedia.com.au/" target="_blank" rel="noopener" title="Involved Media" alt="Involved Media">
+      <img src="/static/img/about/team/involved-media-logo.jpg" alt="Involved Media Logo" title="Involved Media">
     </a>
   </div>
  
