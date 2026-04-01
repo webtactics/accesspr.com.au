@@ -27,7 +27,6 @@ tagtop: Meet the team.
       <img src="/static/img/about/team/brand-council-logo.jpg" alt="Brand Council Logo">
     </a>
   </div>
+ </div>
 
 
-<p>Logo of involved media with hyperlink to www.involvedmedia.com.au</p>
-<p>Logo of Brand Council with hyperlink to www.brandcouncil.com.au</p>
