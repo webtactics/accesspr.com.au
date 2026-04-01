@@ -1780,6 +1780,26 @@ ul  li.taggs a:hover, ul  li.taggs  a:focus {
           border-radius: 50%;}
 
 
+.teamwrapper .imagebox  {
+  padding:1rem;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 4 / 3;
+  border-radius: 0.75rem;
+    border: 1px solid var(--black);
+}
+
+.teamwrapper .imagebox:hover  {
+    padding:1rem;
+width: 100%;
+  height: auto;
+  aspect-ratio: 4 / 3;
+  border-radius: 0.75rem;
+    border: 1px solid var(--accent);
+}
+
+.teamwrapper .imagebox:hover  img {filter: brightness(1.2);}
+
 
 .teamimgwrapper {
   display: flex;
