@@ -127,7 +127,7 @@ strong {
   font-weight: 700;
 }
 
-p a {
+p a, .contentwrapper ul li a {
   line-height: inherit;
   color: var(--textactive);
   text-decoration: none;
@@ -137,7 +137,7 @@ p a {
 
 }
 
-p a:hover {
+p a:hover, .contentwrapper ul li a:hover {
   color: var(--accent);
   border: none;
   text-decoration: none;
