@@ -13,3 +13,13 @@ eleventyNavigation:
 
 tagtop: Meet the team.
 ---
+    <div class="teamwrapper">
+        {% set postslist = collections.Team | reverse %}
+        {% include "components/postslist-team.njk" %}
+    </div>
+
+
+<h2>Our JV partners</h2>
+We have long-standing relationships with two incredible partners giving us independent global media buying and planning capabilities (Access Media), and extraordinary expertise in corporate purpose and brand transformation (Access Brand Council).
+Logo of involved media with hyperlink to www.involvedmedia.com.au
+Logo of Brand Council with hyperlink to www.brandcouncil.com.au
