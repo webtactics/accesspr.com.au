@@ -10,12 +10,12 @@
     <div class="grid-2-columns-2x1">
 
         <div class="contentwrapper">
-            {{ content | safe }}
-
-
+          
 {% if page.url == "/about/meet-the-team/" %}
 {% include "components/page-meet-the-team.njk" %}
 {% endif %}
+
+  {{ content | safe }}
 
         </div>
 
