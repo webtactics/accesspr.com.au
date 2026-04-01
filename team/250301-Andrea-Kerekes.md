@@ -1,4 +1,5 @@
 ---
+eleventyExcludeFromCollections: true
 
 title: Andrea Kerekes
 Position: Owner, CEO
