@@ -1,6 +1,8 @@
 ---
-
+eleventyExcludeFromCollections: true
 title: Casey Rafferty
+
+permalink: /about/meet-the-team/casey-rafferty-superseded/
 Position: Creative Director
 image: /static/img/about/team/Casey-Rafferty.jpg
 
