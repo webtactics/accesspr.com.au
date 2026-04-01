@@ -2,6 +2,8 @@
 eleventyExcludeFromCollections: true
 
 title: Andrea Kerekes
+permalink: /about/meet-the-team/andrea-kerekes-superseded/
+
 Position: Owner, CEO
 image: /static/img/about/team/Andrea-Kerekes.jpg
 
