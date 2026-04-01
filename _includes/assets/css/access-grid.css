@@ -1780,7 +1780,7 @@ ul  li.taggs a:hover, ul  li.taggs  a:focus {
           border-radius: 50%;}
 
 
-.teamwrapper .imagebox  {
+.jvwrapper .imagebox  {
   padding:1rem;
   width: 100%;
   height: auto;
@@ -1789,7 +1789,7 @@ ul  li.taggs a:hover, ul  li.taggs  a:focus {
   border: 1px solid var(--greyeb);
 }
 
-.teamwrapper .imagebox:hover  {
+.jvwrapper .imagebox:hover  {
     padding:1rem;
 width: 100%;
   height: auto;
@@ -1798,7 +1798,7 @@ width: 100%;
     border: 1px solid var(--accent);
 }
 
-.teamwrapper .imagebox:hover  img {filter: brightness(1.2);}
+.jvwrapper.imagebox:hover  img {filter: brightness(1.2);}
 
 
 .teamimgwrapper {

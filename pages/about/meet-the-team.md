@@ -16,7 +16,7 @@ tagtop: Meet the team.
 <h3 class="text150">Our JV partners</h3>
 <p>We have long-standing relationships with two incredible partners giving us independent global media buying and planning capabilities (Access Media), and extraordinary expertise in corporate purpose and brand transformation (Access Brand Council).</p>
 
-<div class="grid-2-columns">
+<div class="grid-2-columns jvwrapper">
 
  <div class="imagebox">
     <a href="https://www.brandcouncil.com.au/" target="_blank" rel="noopener" title="Brand Council" alt="Brand Council">
