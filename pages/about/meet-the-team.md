@@ -17,12 +17,12 @@ tagtop: Meet the team.
 <p>We have long-standing relationships with two incredible partners giving us independent global media buying and planning capabilities (Access Media), and extraordinary expertise in corporate purpose and brand transformation (Access Brand Council).</p>
 
 <div class="grid-2-columns">
-  <div class="jv-logo">
+  <div class="imagebox">
     <a href="https://www.involvedmedia.com.au/" target="_blank" rel="noopener">
       <img src="/static/img/about/team/involved-media-logo.jpg" alt="Involved Media Logo">
     </a>
   </div>
-  <div class="jv-logo">
+  <div class="imagebox">
     <a href="https://www.brandcouncil.com.au/" target="_blank" rel="noopener">
       <img src="/static/img/about/team/brand-council-logo.jpg" alt="Brand Council Logo">
     </a>
