@@ -39,3 +39,9 @@ Whether itâ€™s across culture, creativity or business, we amplify First Nationsâ
     </ul>
   </div>
 </div>
+
+
+<div class="grid-our-work-sidebar">
+<div class="sidebarsumborder"><a href="/about/what-we-do/" title="Our Services" alt="Our Services"></a></div>
+<div class="sidebarsumtitle"><h4><a href="/about/what-we-do/" title="Our Services" alt="Our Services">Our Services &gt;</a></h4></div>
+</div>
