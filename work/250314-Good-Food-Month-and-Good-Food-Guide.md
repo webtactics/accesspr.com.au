@@ -1,4 +1,5 @@
 ---
+eleventyExcludeFromCollections: true
 title: Good Food Month and Good Food Guide
 Website: https://www.goodfoodevents.com.au/
 
@@ -12,9 +13,7 @@ image: https://ik.imagekit.io/webtactics/access/static/img/clients/our-work/good
 imageAlt: Sydney’s iconic Good Food Month is a month-long celebration of chefs, restaurants, pop-ups, masterclasses, collaborations, and exclusive events.
 
 tags:
-  - Showcase
-  - Slider
-  - Our Work
+
 
 description: Our key objective was to drive awareness and visitation to Sydney’s iconic Good Food Month, a month-long celebration of chefs, restaurants, pop-ups, masterclasses, collaborations, and exclusive events. With Destination NSW as a key partner, our efforts targeted not just locals, but interstate and international audiences. 
 

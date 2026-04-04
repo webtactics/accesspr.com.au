@@ -12,11 +12,7 @@ image: https://ik.imagekit.io/webtactics/access/static/img/clients/our-work/NTME
 imageAlt: Arelhe Urrperle a 6m tall puppet cast a striking impression at Parrtjima as she glided around the site
 
 tags:
-  - Showcase
-  - Slider
-  - Clients
-  - Our Work
-  - Sidebar
+
 
 Homepage: true
 
