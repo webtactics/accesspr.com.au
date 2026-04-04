@@ -2,7 +2,7 @@
 title: The Darwin Festival
 Website: https://www.darwinfestival.org.au/
 
-logo: /static/img/clients/logos/Darwin-Festival-400x300.jpg
+logo: /static/img/clients/logos/Darwin-Festival-400x300-new.jpg
 
 
 date: 2026-02-28
