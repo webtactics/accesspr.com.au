@@ -2,7 +2,7 @@
 title: Northern Territory Government
 Website: https://nt.gov.au/
 
-logo: /static/img/clients/logos/ntg-logo.png
+logo: /static/img/clients/logos/Northern-Territory-2026.jpg
 
 date: 2025-03-20
 
@@ -11,7 +11,8 @@ image:
 imageAlt: 
 
 tags:
-  - Clients
+- Clients
+- Slider
 
 
 Homepage: true
