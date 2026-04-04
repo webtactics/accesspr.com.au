@@ -1,5 +1,5 @@
 ---
-eleventyExcludeFromCollections: false
+eleventyExcludeFromCollections: true
 
 title: Outback Music Festival Group
 Name: Greg Donovan
