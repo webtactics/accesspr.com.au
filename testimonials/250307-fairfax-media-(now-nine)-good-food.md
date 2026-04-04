@@ -1,5 +1,5 @@
 ---
-eleventyExcludeFromCollections: false
+eleventyExcludeFromCollections: true
 
 title: Fairfax Media (now Nine) – Good Food.
 Name: Menka Nasta
