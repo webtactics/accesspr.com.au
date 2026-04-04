@@ -2,17 +2,17 @@
 layout: layouts/grid-one-column.njk
 title: Clients
 class: clients
-description: Some of the clients we work with.
+description: Some of our clients
 section: clients
-date: 2023-07-20
+date: 2026-04-04
 metadata:
-  title: Some of the clients we work with.
+  title: Some of our clients
 permalink: /clients/
 eleventyNavigation:
   key: Clients
   order: 2
 
-tagtop: Some of the clients we work with.
+tagtop: Some of our clients
 ---
 
 
