@@ -1,10 +1,10 @@
 ---
 title: Tourism NT
 Name: Tony Quarmby
-Position: Executive Director
+Position: Former Executive Director
 Website: https://northernterritory.com/
 
-date: 2025-03-01
+date: 2025-03-09
 
 tags:
   - testimonials
