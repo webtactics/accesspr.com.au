@@ -2,7 +2,7 @@
 title: Tourism and Events NT
 Website: https://northernterritory.com/
 
-logo: /static/img/clients/logos/tourism-nt.jpg
+logo: /static/img/clients/logos/Northern-Territory-2026.jpg
 
 
 date: 2026-03-01
