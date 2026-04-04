@@ -11,8 +11,7 @@ image:
 imageAlt: 
 
 tags:
-- Clients
-- Slider
+
 
 
 Homepage: true
