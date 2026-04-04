@@ -1,5 +1,5 @@
 ---
-title: The Darwin Festival
+title: Darwin Festival
 Website: https://www.darwinfestival.org.au/
 
 logo: /static/img/clients/logos/Darwin-Festival-400x300-new.jpg
