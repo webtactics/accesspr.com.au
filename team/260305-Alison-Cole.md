@@ -16,7 +16,7 @@ description: Alison is a publicist and communications strategist with over 25 ye
 
 
 ---
-Alison is a publicist and communications strategist with over 25 years’ experience delivering campaigns that influence perception, generate headlines and bring places people and policies, to life.
+Alison is a publicist and communications strategist with over 25 years’ experience delivering campaigns that influence perception, generate headlines and bring places, people and policies to life.
 
 With a career spanning tourism, events, entertainment, government and media, Alison is recognised for her ability to craft narratives that resonate and connect. She has delivered major national outcomes and is known for her trusted media relationships and instinct for newsworthy stories.
 

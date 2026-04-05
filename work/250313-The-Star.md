@@ -1,5 +1,5 @@
 ---
-title: The Star Sydney
+title: The Star
 Website: https://www.star.com.au/
 
 logo: /static/img/clients/logos/The-Star-Sydney.jpg
@@ -20,7 +20,7 @@ description: Our key objective was to position The Star as a distinct, must-visi
 
 
 ---
-Access partnered with The Star Sydney for five years, serving as their retained PR agency and winning two competitive pitches along the way. 
+Access partnered with The Star for five years, serving as their retained PR agency and winning two competitive pitches along the way. 
 
 Our key objective was to position The Star as a distinct, must-visit Sydney destination and to drive visitation to its restaurants, entertainment and retail precincts. We managed an always-on press office, media and influencer famils, VIP and celebrity engagement, and ad hoc projects across lifestyle, dining, retail, events, and community relations.
 

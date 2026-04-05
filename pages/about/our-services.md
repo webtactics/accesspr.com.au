@@ -68,7 +68,7 @@ tagtop: We offer a full suite of PR, communication and creative solutions, bring
 
 <div class="pad3rem"></div>
 
-<h3>Brand and Corporate purpose</h3>
+<h3>Brand and Corporate Purpose</h3>
 <ul>
 <li>Through our partnership with strategy advisory firm <a href="https://www.brandcouncil.com.au/" target="_blank" rel="noopener noreferrer">Brand Council</a> we offer deep expertise in unearthing and enacting corporate purpose and brand transformation.</li>
 </ul>

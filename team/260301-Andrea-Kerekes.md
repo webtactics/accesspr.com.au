@@ -22,4 +22,4 @@ She has extensive experience across consumer and corporate communications, as we
 
 Now based in Darwin, she has a deep understanding of how to develop strong, resonant narratives and knows what the media want and how to deliver it.
 
-She has a passion for connecting cultures and holds a Post-graduate Certificate in Arts in Indigenous Engagement, giving her strong skills and expertise in cross-cultural communications.
+She has a passion for connecting cultures and holds a Post-Graduate Certificate in Arts in Indigenous Engagement, giving her strong skills and expertise in cross-cultural communications.
