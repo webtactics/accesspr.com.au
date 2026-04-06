@@ -17,6 +17,7 @@ tags:
 
 Homepage: true
 
+CaseStudy: /clients/our-work/
 
 ---
 
