@@ -19,7 +19,7 @@
 
 
 <div class="postsumsummary">
-{% if post.data.description %}<p class="postsumhome">{{ post.data.description }}</p>{% else %}<p class="postsumhome">{{ post.content | safe }}</p>{% endif %}
+{% if post.data.description %}<p class="postsumhome">{{ post.data.description }}</p>{% else %}<div class="postsumhome">{{ post.content | safe }}</div>{% endif %}
 </div>
 
 <div class="newssumbutton">
