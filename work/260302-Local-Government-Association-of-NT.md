@@ -19,7 +19,7 @@ tags:
   - Our Work
   - Sidebar
 
-description: Access has been the PR agency of record for Tourism and Events NT since 2017, managing highly successful, always-on and major event PR across Australia and New Zealand.
+description: The Local Government Association of the NT is the peak body representing the local government sector in the NT, representing all 18 local councils.
 
 ---
 The Local Government Association of the NT is the peak body representing the local government sector in the NT, representing all 18 local councils. For the past two years, Access has worked on retainer supporting the association’s advocacy and operational programs through a diverse mix: media relations, communications strategies, social media support, internal communication, content, and marketing campaigns.
