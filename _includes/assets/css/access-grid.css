@@ -438,7 +438,10 @@ padding:0;}
   width: 70vw;
   max-width: 1200px;
 }
-
+.home .tagtop {padding: 0;
+  width: 70vw;
+  max-width: 1200px;
+}
 .tagtop h1, .tagtop h2 {
 font-size: calc(1.6rem + 1vw);
 }
