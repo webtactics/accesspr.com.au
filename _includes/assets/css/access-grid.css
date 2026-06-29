@@ -377,6 +377,7 @@ padding:0;}
   background-color: var(--white);
   min-height: 400px;
   }
+.home .content {  padding: 8rem 0;}
 
 .spacer40 {height: var(--navheight);}
 .spacer80 {height: calc(var(--navheight) * 2);}
