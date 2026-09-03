@@ -1,5 +1,5 @@
 ---
-eleventyExcludeFromCollections: false
+eleventyExcludeFromCollections: true
 title: Bethaney Maley 
 Position: Darwin Managing Director
 image: /static/img/about/team/260401-Bethaney-Maley.jpg
