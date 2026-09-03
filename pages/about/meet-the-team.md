@@ -2,7 +2,7 @@
 layout: layouts/grid-tagtop.njk
 title: Meet the Access senior team.
 class: about team
-description: Meet the Access senior team.
+description: "The Access senior team includes former journalists, communications specialists and business leaders with extensive experience in media, marketing, communications and public relations."
 date: 2024-08-22
 permalink: /about/meet-the-team/
 eleventyNavigation:
