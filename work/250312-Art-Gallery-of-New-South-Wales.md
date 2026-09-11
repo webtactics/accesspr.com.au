@@ -5,7 +5,7 @@ Website: https://www.artgallery.nsw.gov.au/
 logo: /static/img/clients/logos/Art-Gallery-of-New-South-Wales.jpg
 
 
-date: 2026-10-05
+date: 2025-10-05
 
 
 image: https://ik.imagekit.io/webtactics/access/static/img/clients/our-work/Art-Gallery-of-New-South-Wales_qNHvtoyIF.jpg
@@ -15,7 +15,6 @@ tags:
   - Showcase
   - Slider
   - Our Work
-  - Clients
 
 description: From strategy to execution, we managed every aspect of publicity, including major announcements, media previews, media calls, famils, and influencer engagement. 
 
