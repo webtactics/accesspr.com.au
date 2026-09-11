@@ -13,7 +13,6 @@ imageAlt: Our biggest project was the multi-million-dollar upgrade of T1 Interna
 
 tags:
   - Showcase
-  - Slider
   - Our Work
   - Clients
 

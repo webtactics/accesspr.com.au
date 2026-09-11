@@ -16,7 +16,7 @@ tags:
 - Showcase
 - Our Work
 - Clients
-- Slider
+
 
 description:
 
