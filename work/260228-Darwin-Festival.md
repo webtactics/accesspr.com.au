@@ -5,7 +5,7 @@ Website: https://www.darwinfestival.org.au/
 logo: /static/img/clients/logos/Darwin-Festival-400x300-new.jpg
 
 
-date: 2026-02-28
+date: 2026-10-09
 
 
 image: https://ik.imagekit.io/webtactics/access/static/img/clients/our-work/the-darwin-festival_jnMvQxDOr.jpg
