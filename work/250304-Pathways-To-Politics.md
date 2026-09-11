@@ -5,7 +5,7 @@ Website: https://pathwaystopolitics.org.au/
 logo: /static/img/clients/logos/Pathways-to-politics-for-women.jpg
 
 
-date: 2025-03-04
+date: 2026-09-27
 
 
 image: 
