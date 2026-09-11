@@ -13,7 +13,7 @@ imageAlt:
 
 tags:
   - Clients
-
+  - Slider
 
 description: 
 
