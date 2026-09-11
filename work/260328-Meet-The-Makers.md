@@ -4,7 +4,7 @@ Website: https://www.southcoastmakersfestival.org.au/
 
 logo: /static/img/clients/logos/Meet-the-Makers.jpg
 
-date: 2026-03-28
+date: 2026-10-07
 
 
 image: 
