@@ -13,10 +13,11 @@ imageAlt:
 
 tags:
   - Clients
-
+  - Slider
 
 description: 
 
+CaseStudy: /clients/our-work/
 
 ---
 
