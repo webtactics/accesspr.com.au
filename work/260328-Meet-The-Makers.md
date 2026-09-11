@@ -21,8 +21,6 @@ description: Throughout September 2025, the second annual Meet the Makers Festiv
 
 
 ---
-
-
 Throughout September 2025, the second annual Meet the Makers Festival returned to NSW's stunning South Coast for a month of culinary adventure and creative inspiration.
 
 Based in Milton, where country soul meets coastal cool, the festival featured more than 30 delicious, inspiring and exclusive experiences – all of which showcased the region's vibrant community of passionate makers.
