@@ -12,8 +12,7 @@ image:
 imageAlt: 
 
 tags:
-  - Slider
-  - Clients
+
 
 description: 
 

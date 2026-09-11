@@ -13,16 +13,11 @@ eleventyNavigation:
 
 tagtop: Meet the team.
 ---
-<h3 class="text150">Our JV partners</h3>
-<p>We have long-standing relationships with two incredible partners giving us independent global media buying and planning capabilities (Access Media), and extraordinary expertise in corporate purpose and brand transformation (Access Brand Council).</p>
+<h3 class="text150">Our JV partner</h3>
+<p>We have a long-standing relationship with Involved Media, giving us global media buying and planning capabilities.</p>
 
 <div class="grid-2-columns jvwrapper">
 
- <div class="imagebox">
-    <a href="https://www.brandcouncil.com.au/" target="_blank" rel="noopener" title="Brand Council" alt="Brand Council">
-      <img src="/static/img/about/team/brand-council-logo.jpg" alt="Brand Council Logo" title="Brand Council">
-    </a>
-  </div>
 
 
   <div class="imagebox">
