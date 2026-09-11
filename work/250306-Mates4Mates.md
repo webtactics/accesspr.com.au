@@ -14,7 +14,6 @@ imageAlt: Mates4Mates is a national charity that actively supports veterans, Def
 tags:
 
 - Showcase
-- Our Work
 
 
 
