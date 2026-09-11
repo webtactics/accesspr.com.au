@@ -1,8 +1,8 @@
 ---
-title: "The Leea"
-Website: https://theleea.com.au/
+title: "Regional Development Australia"
+Website: https://www.rda.gov.au/
 
-logo: /static/img/clients/logos/The-Leea.jpg
+logo: /static/img/clients/logos/RDA.jpg
 
 
 date: 2026-09-25
