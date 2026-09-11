@@ -5,7 +5,7 @@ Website: https://www.redbull.com/au-en
 logo: /static/img/clients/logos/Barangaroo-Delivery-Authority.jpg
 
 
-date: 2025-03-10
+date: 2026-10-04
 
 
 image: https://ik.imagekit.io/webtactics/access/static/img/clients/our-work/Barangaroo_Sh9l6y8J7.jpg
