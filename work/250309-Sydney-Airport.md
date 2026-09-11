@@ -5,7 +5,7 @@ Website: https://www.sydneyairport.com.au/
 logo: /static/img/clients/logos/Sydney-Airport.jpg
 
 
-date: 2025-03-09
+date: 2026-09-23
 
 
 image: https://ik.imagekit.io/webtactics/access/static/img/clients/our-work/Sydney-Airport_fVHoRbUqZ.jpg

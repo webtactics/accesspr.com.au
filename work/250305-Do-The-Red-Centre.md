@@ -5,7 +5,7 @@ Website: https://www.discovercentralaustralia.com
 logo: /static/img/clients/logos/Do-The-Red-Centre.jpg
 
 
-date: 2025-03-05
+date: 2026-09-23
 
 
 image: 

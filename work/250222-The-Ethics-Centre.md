@@ -11,7 +11,7 @@ image: https://ik.imagekit.io/webtactics/access/static/img/clients/our-work/The-
 imageAlt: Ethics Centre, a unique national not-for-profit organisation.
 
 tags:
-  - Clients
+
 
 Homepage: true
 
