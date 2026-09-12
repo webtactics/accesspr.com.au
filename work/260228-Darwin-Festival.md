@@ -6,7 +6,7 @@ logo: /static/img/clients/logos/Darwin-Festival-400x300-new.jpg
 
 
 date: 2026-10-09
-
+order: 2
 
 image: "https://ik.imagekit.io/webtactics/access/static/img/clients/our-work/Darwin-Festival-2026.jpg"
 imageAlt: Access has delivered publicity, strategic communications and crisis comms for Australia's hottest winter arts event, Darwin Festival. We manage national and local publicity for this jam-packed and incredibly diverse 18-night celebration of performing arts, visual arts, music, theatre, dance, comedy and more.

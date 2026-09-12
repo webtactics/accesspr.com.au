@@ -29,6 +29,19 @@ module.exports = function (eleventyConfig) {
     }, {});
   });
 
+  // "Our Work" items sorted by an optional manual `order` field, falling
+  // back to newest-first by date for anything that doesn't set one.
+  eleventyConfig.addCollection("ourWorkOrdered", (collectionApi) => {
+    const items = collectionApi.getFilteredByTag("Our Work");
+    const ordered = items
+      .filter((item) => item.data.order !== undefined)
+      .sort((a, b) => a.data.order - b.data.order);
+    const unordered = items
+      .filter((item) => item.data.order === undefined)
+      .sort((a, b) => b.date - a.date);
+    return ordered.concat(unordered);
+  });
+
   // Date formatting filters
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toFormat("dd LLL yyyy");

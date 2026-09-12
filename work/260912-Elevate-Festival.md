@@ -5,7 +5,7 @@ Website: https://agbcreative.com/projects/elevate-sydney/
 logo: /static/img/clients/logos/AGB-Creative.jpg
 
 date: 2026-10-03
-
+order: 9
 
 image: "https://ik.imagekit.io/webtactics/access/static/img/clients/our-work/Elevate-case-study.jpg"
 imageAlt: "Access managed PR for the final ELEVATE Sydney, a dynamic four-day festival that turned Sydney’s iconic Cahill Expressway into avibrant hub of live music, entertainment, activities, and cutting-edge technology, with Sydney’s iconic harbour as the backdrop."

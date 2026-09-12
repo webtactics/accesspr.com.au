@@ -6,7 +6,7 @@ logo: /static/img/clients/logos/Parrtjima-2026.jpg
 
 
 date: 2026-10-10
-
+order: 3
 
 image: "https://ik.imagekit.io/webtactics/access/static/img/clients/our-work/Parrtjima-case-study.jpg"
 imageAlt: "Parrtjima is the only Aboriginal event of its kind – a spectacular award-winning and free 10-night festival set in the breathtaking Red Centre."

@@ -7,6 +7,8 @@ logo: /static/img/clients/logos/TENT-2026.jpg
 
 date: 2026-10-11
 
+order: 1
+
 
 image: https://ik.imagekit.io/webtactics/access/static/img/clients/our-work/Tourism-NT-Floating-in-Bitter-Springs-credit-Tourism-NT-and-Lets-Escape-Together_mN6KIhPNC.jpg
 

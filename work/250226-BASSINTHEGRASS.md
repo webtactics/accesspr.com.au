@@ -6,7 +6,7 @@ logo: /static/img/clients/logos/Bass-in-the-grass.jpg
 
 
 date: 2026-10-06
-
+order: 4
 
 image: "https://ik.imagekit.io/webtactics/access/static/img/clients/our-work/BASSINTHEGRASS-case-study.jpg"
 imageAlt: "BASSINTHEGRASS is one of the biggest – and longest running – contemporary music festivals in the country."

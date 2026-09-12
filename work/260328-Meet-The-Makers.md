@@ -5,7 +5,7 @@ Website: https://www.southcoastmakersfestival.org.au/
 logo: /static/img/clients/logos/Meet-the-Makers.jpg
 
 date: 2026-10-07
-
+order: 5
 
 image: "https://ik.imagekit.io/webtactics/access/static/img/clients/our-work/Meet-The-Makers.jpg"
 imageAlt: Throughout September 2025, the second annual Meet the Makers Festival returned to NSW's stunning South Coast for a month of culinary adventure and creative inspiration.
