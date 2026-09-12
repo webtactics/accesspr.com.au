@@ -28,4 +28,3 @@ Access PR was tasked with launching this brand-new festival – backed by the NS
 With a breathtaking digital Christmas tree forest, 40 curated artisan market stalls, and a nightly entertainment lineup, Noël Sydney delivered a magical festive experience. This included the Noël Christmas SkyShow – a spectacular 500-drone light display over Farm Cove, illuminating the night sky twice each evening.
 
 Our targeted media strategy delivered metro news coverage, lifestyle features, influencer partnerships, and online exposure, smashing all campaign KPIs. The campaign had a potential audience reach of 267 million and was so successful that publicity efforts had to be paused due to overwhelming demand.
-
